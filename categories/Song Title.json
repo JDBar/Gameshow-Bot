@@ -1,0 +1,3750 @@
+{
+  "name": "Song Title",
+  "answers": [
+    {
+      "answer": "A Bend In The River",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "A Country Girl In Paris",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "A Holly Jolly Christmas",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "A Horse With No Name",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "A Little More Summertime",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "A Song For Mama",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "A Song For Paris",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "A Spoonful Of Sugar",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "A Summer Song",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "A Taste Of Honey",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "A Thousand Miles From Nowhere",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "A Whole New World",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Act Naturally",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Addicted To Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Afternoon In Paris",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Aint Misbehavin",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Aint No Way To Treat A Lady",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Aint Too Proud To Beg",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "All I Want Is You",
+      "numberOfWords": 5,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "All In Alabama",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "All My Exs Live In Texas",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "All My Loving",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "All My Rowdy Friends Are Coming Over Tonight",
+      "numberOfWords": 8,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "All Night Long",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "All Night Long All Night",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "All Time High",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "All We Ever Knew",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "All You Need Is Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Almost Paradise",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Already Callin You Mine",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "America The Beautiful",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "American Bison",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "American Pie",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Another Day In Paradise",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Another One Bites The Dust",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "April In Paris",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "April Showers",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Are You Gonna Go My Way",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "As Time Goes By",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Autumn In Connecticut",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Back Home In Derry",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Back In Black",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Back In Black By Acdc",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Back To December",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Back To Life However Do You Want Me",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Bad Apple",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Bad Moon Rising",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Barnacle Bill The Sailor",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Battle Hymn Of The Republic",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Be My Little Baby",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Because You Loved Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Behind Blue Eyes",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Behind My Camel",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Behind The Sun",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Bennie And The Jets",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Bet You Cant Do It Like Me",
+      "numberOfWords": 7,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Bette Davis Eyes",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Beyond The Sea",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Big Rock Candy Mountain",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Black Sheep Of The Family",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Blame It On Paree",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Blame It On The Bossa Nova",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Bless The Broken Road",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Blue Aint Your Color",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Blue Christmas",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Blue Clear Sky",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Blue Moon Of Kentucky",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Boondocks",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Bored To Death",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Born In The USA",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Born On The Bayou",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Born To Be Wild",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Born To Run",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "BossFifth Harmony",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Bridge Over Troubled Water",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Brighter Than Sunshine",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Broad Stripes And Bright Stars",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Brown Eyed Girl",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Buddy Hollyby Weezer",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Buscuits By Kacey Musgraves",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "But Oh Those Summer Nights",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Bye Bye Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Cake By The Ocean",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "California Dreamin",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Can You Feel The Love Tonight",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Can You Feel The Love Tonight",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Cant Buy Me Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Cant Feel My Face",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cant Get Enough Of Your Love Babe",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Cant Help Falling In Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Candle In The Wind",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Candy Girl",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Candy Store Rock",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cappuccino Bar",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Cats In The Cradle",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Chapel Of Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Cheap Cologne",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Cheek To Cheek",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Children Of The Future",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Chim Chim CherEe",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "China Grove",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Christmas In Killarney",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Close Your Eyes",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Coat Of Many Colors",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Coffee Blues",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Come And See Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Come Sail Away",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Come Together",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Cowboy Casanova",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cowboy Night Herd Song",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Crash My Party",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Crazy On You",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Crazy Train",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Cry Me A River",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Dance Again",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Dance Hall Days",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Dance Of The Sugar Plum Fairy",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Dance To The Music",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Dancing In The Dark",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dancing In The Street",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Dancing On The Ceiling",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Dancing Queen",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Dancing With Myself",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Dangerous Woman",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Danny Boy",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Dark Horse",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Daydream Believer",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dear Prudence",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Defying Gravity",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Diamonds Are A Girls Best Friend",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Diamonds Are Forever",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "DingDong The Witch Is Dead",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Dirt Road Anthem",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Disco Lady",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Do They Know Its Christmas",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Do You Believe In Magic",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Do You Believe In Magic",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Dont Be Cruel",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Dont Cry For Me Argentina",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Dont Let Me Down",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Dont Stop til You Get Enough",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Down In The Valley",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Dream Weaver",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Drive My Car",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Dueling Banjos",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Easter Parade",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Eggbert The Easter Egg",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "El Cumbanchero",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Empire State Of Mind",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Endless Love",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Even The Nights Are Better",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Evergreen",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Every Breath You Take",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Everybody Wants To Rule The World",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Everybodys Talkin",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Everything I Do I Do It For You",
+      "numberOfWords": 8,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Everything Is Coming Up Roses",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Everything Old Is New Again",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Everythings Coming Up Roses",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Eye Of The Tiger",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Falling In Love Again",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Father And Daughter",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Feelings",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Fell In Love With A Girl",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Fire On The Mountain",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Fly Away",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Fly Like An Eagle",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Fly Robin Fly",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Foggy Mountain Breakdown",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Food Glorious Food",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "For The Love Of Money",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Forever Country",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Forget About The Future",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Four Horsemen By The Clash",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Free Bird",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Friends In Low Places",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Front Porch Junkies",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Funkytown",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Funny How Time Slips Away",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Future Days",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Future Games",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Gemini Dream",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Georgia On My Mind",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Gimme Shelter",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Girls Just Wanna Have Fun",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Girls Just Want To Have Fun",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Going To California",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Going To ChinaTown",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Going To The Chapel",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Gonna Fly Now",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Gonna Know We Were Here",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Good Day Sunshine",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Goodnight Irene Goodnight",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Goody Two Shoes",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Got My Mind Set On You",
+      "numberOfWords": 6,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Guess Things Happen That Way",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Guitars Cadillacs",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hail To The Chief",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hallelujah Chorus",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hamburger Midnight",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Handclap",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Happy Wheels",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Hark The Herald Angels Sing",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Harper Valley PTA",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Harvest Moon",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Hawaiian Wedding Song",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "He Stopped Loving Her Today",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Headed For The Future",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Heart And Soul",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Heavenly Blue",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Hello Muddah Hello Faddah",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Here Comes Santa Claus",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Here Comes The Sun",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Hey Jud",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Hey Jude",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Hip To Be Square",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Hit The Road Jack",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hollywood Swinging",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Home On The Range",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Honeymoon In San Francisco",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Honky Tonk Blues",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hooray For Hollywood",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Hope You Get Lonely Tonight",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Hot Rod Lincoln",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Hotel California",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Hotter Than That",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "How Deep Is Your Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "How Do I Live",
+      "numberOfWords": 4,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "How Much Is That Doggie In The Window",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Hungry Like The Wolf",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Hymn For The Weekend",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "I Am A Tangerine",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "I Am The Walrus",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "I Believe In A Thing Called Love",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "I Believe In Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "I Believe In You",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "I Can See For Miles",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "I Cant Give You Anything But Love Baby",
+      "numberOfWords": 8,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "I Cant Get No Satisfaction",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Could Have Danced All Night",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "I Dont Want To Miss A Thing",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "I Dreamed A Dream",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "I Fall To Pieces",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "I Get A Kick Out Of You",
+      "numberOfWords": 7,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "I Got Chills Theyre Multiplying",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "I Got Rhythm",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "I Got You Babe",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "I Had Too Much To Dream",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "I Had Too Much To Dream Last Night",
+      "numberOfWords": 8,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "I Hate U I Love U",
+      "numberOfWords": 6,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "I Heard It Through The Grapevine",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "I Honestly Love You",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "I Hope I Get It",
+      "numberOfWords": 5,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "I Just Want To Be Your Everything",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "I Left My Heart In San Francisco",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "I Love Rock N Roll",
+      "numberOfWords": 5,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "I Love To See You Smile",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "I Love You Always Forever",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "I Love You Just The Way You Are",
+      "numberOfWords": 8,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "I Met A Girl",
+      "numberOfWords": 4,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "I Saw Her Standing There",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "I Saw The Light",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "I Took A Pill In Ibiza",
+      "numberOfWords": 6,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "I Walk The Line",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "I Wanna Be Loved By You",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "I Want To Be A Cowboys Sweetheart",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "I Want To Hold Your Hand",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "I Want You Back",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "I Will Always Love You",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "I Wish You Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "I Write The Songs",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Ill Be Loving You Forever",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ill Follow The Sun",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Ill Stand By You",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "IM A Believer",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "IM A Man Of Constant Sorrow",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "IM Gonna Wash That Man Right Outa My Hair",
+      "numberOfWords": 9,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "IM Gonna Wash That Man Right Outta My Hair",
+      "numberOfWords": 9,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "IM On My Way To Cuba",
+      "numberOfWords": 6,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "IM So Lonesome I Can Cry",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "IM So Lonesome I Could Cry",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "IM Still Here",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Ive Got A Tiger By The Tail",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ive Got You Under My Skin",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Ive Gotta Be Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Ive Sold My Saddle For An Old Guitar",
+      "numberOfWords": 8,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Ice Cream Girl",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Ice Cream Man",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "If I Ever Lose My Faith In You",
+      "numberOfWords": 8,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "If I Only Had A Brain",
+      "numberOfWords": 6,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "If Youve Got The Money I Got The Time",
+      "numberOfWords": 9,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Ill Be Home For Christmas",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "IM A Little Teapot",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Im Blue Da Ba Dee",
+      "numberOfWords": 5,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Im On My Way To Cuba",
+      "numberOfWords": 6,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "In My Daughters Eyes",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "In My Dreams",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "In The Midnight Hour",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "In The Name Of Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "In The Sun",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "In Your Eyes",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Islands In The Stream",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "It Dont Hurt Like It Used To",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "It Keeps You Runnin",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "It Never Rains In Southern California",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "It Wasnt God Who Made Honky Tonk Angels",
+      "numberOfWords": 8,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Its A Great Day For The Irish",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Its A Love Thing",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Its A Small World",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Its A Sunshine Day",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Its Friday IM In Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Its My Party",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Its Now Or Never",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Its Such A Pretty World Today",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Jampin Jack Flash",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Jessies Girl",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jet Airliner",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jingle All The Way",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Johnny I Hardly Knew Ye",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Jolene",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Joy To The World",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Jumpin Jack Flash",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Jumpin Jack Flash",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Just Gettin Started",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Just Give Me A Reason",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Just My Imagination",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Just Say Yes",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Just The Two Of Us",
+      "numberOfWords": 5,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Just The Way You Are",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Kentucky Rain",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Key To The Streets",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Killing Me Softly With His Song",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Killing Me Softy With His Song",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "King Of New Orleans",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "King Of Pain By Police",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "King Of The Road",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "King Tut By Steve Martin",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Kiss From A Rose",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Kung Fu Fighting",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "La Bamba",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Lady Marmalade",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Lake Bamba",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Landslide",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Leader Of The Pack",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Lean On Me",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Leaving On A Jet Plane",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Let Me Love You",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Let Me See Ya Girl",
+      "numberOfWords": 5,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Let The Good Times Roll",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Lets Dance",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Lets Go Crazy",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Life Is A Highway",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Life On Mars",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Like A Rolling Stone",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Like IM Gonna Lose You",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Little Ditty About Jack And Diane",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Little Drummer Boy",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Little Moments",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Little Red Corvette",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Little Saint Nick",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Live And In Concert",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Live And Let Die",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Livin In The Future",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Living In The USA",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Look At Me IM Sandra Dee",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Look Into The Future",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Looks Like We Made It",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Love And Happiness",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Love And Marriage",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Love Is A Rose",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Love Is Here To Stay",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Love Is The Answer",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Love Is Where You Find It",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Love Me Do",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Love Me Like You Do",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Love Me Tonight",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Love Stinks",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Love Story",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Love Takes Time",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Love Yourself",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Lovely Rita",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Lovesick Blues",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Low Life",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Luck Be A Lady",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Lucy In The Sky With Diamonds",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Macarena",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Mack The Knife",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Maggie May",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Making Love Out Of Nothing At All",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Mambo Italiano",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Man On The Moon",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Man Out Of Time",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "May We All",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Meanwhile Back At Mamas",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Memories Are Made Of This",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Merry Christmas Baby",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Mexicali Blues",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Middle Of A Memory",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Middle Of A Memory Category",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Middle Of A MemorySong",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Midnight Rider",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Midnight Train",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Midnight Train To Georgia",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Minute By Minute",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Minute Waltz",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Molly Malone",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Money Cant Buy Me Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Money Changes Everything",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Money On My Mind",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Monster Mash",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Moon River",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Moondance",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "More Than A Feeling",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Moth Into Flame",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Moth To Flame",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Mountain Of Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Moves Like Jagger",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Moving Mountains",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Mr Tambourine Man",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Mud On The Tires",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Mustang Sally",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "My Funny Valentine",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "My Heart Will Go On",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "My House",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "My Kinda Party",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "My Mothers Eyes",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Neon Light",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Never Can Say Goodbye",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Nights In White Satin",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "No Particular Place To Go",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "No Plans For The Future",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "No Woman No Cry",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Not Enough Love In The World",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Nothin Like You",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Nothing But Blue Skies",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Ocean Front Property",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Oh Give Me A Home Where The Buffalo Roam",
+      "numberOfWords": 9,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Oh Pretty Woman",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Oh Susannah",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ol Man River",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Old Devil Moon",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Old Five And Dimers Like Me",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Old Friends",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Old Nashville Cowboys",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Old Yellow Moon",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "On Broadway",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "On The Good Ship Lollipop",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "On The Road Again",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "On The Wings Of Love",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "One Is The Loneliest Number",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "One More Cup Of Coffee",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "One More Night",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Only Love Can Break Your Heart",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Out Among The Stars",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Over My Head",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Over The Rainbow",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Parade Of The Wooden Soldiers",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Party All The Time",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Penny Lane",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Perfect Illusion",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Philadelphia Freedom",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Piano Man",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Piggy Bank",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Pink Cadillac",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Play That Funky Music",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Please Dont Go",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Please Forgive Me",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Pomp And Circumstance",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Pop Goes The Weasel",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Pretty Woman Walkin Down The Street",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Proud Mary",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Puff The Magic Dragon",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Purple Rain",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Put A Little Love In Your Heart",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Que Sera Sera",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Queen Of The House",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "ROCK In The USA",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "ROCK In The USA",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Ragged Old Flag",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ragtime Cowboy Joe",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Rainbow Connection",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Raindrops Keep Fallin On My Head",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Rainy Night In Georgia",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Ramble On",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Ramblin Rose",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Raspberry Beret",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Redneck Woman",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Remember The Heroes",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Remember The Heros",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Rhapsody In Blue",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Rhiannon",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Rhinestone Cowboy",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Ride Like The Wind",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Riders On The Storm",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Ring Of Fire",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Rocket Man",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Rockin Around The Christmas Tree",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Rockin In The USA",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Rocking Around The Christmas Tree",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Rocky Mountain High",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Rolling In The Deep",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Run Rudolph Run",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Sad Songs Say So Much",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Sail To The Moon",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "San Francisco Bay Blues",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "San Fransisco Bay Blues",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Santa Claus Is Coming To Town",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Saturday In The Park",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Saturday Night Special",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Say You Do",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Say You Say Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Sealed With A Kiss",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Seattle The Peerless City",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Secret Love Song",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Send Me A Postcard",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Send Me The Pillow You Dream In",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Send Me The Pillow You Dream On",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Set Fire To The Rain",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Setting The World On Fire",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Seven Year Ache",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Sgt Peppers Lonely Hearts Club Band",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Shadow Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Shake It Off",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "She Believes In Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "She Moved Through The Fair",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "She Thinks I Still Care",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Shining Star",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Should I Stay Or Should I Go",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Show Boat",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Side To Side",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Silly Love Songs",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Silver Bells",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Sir Duke",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Sittin On The Dock Of The Bay",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Small Town Throwdown",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "SmashHit Song Happy",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Smoky Mountain Rain",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "So Long Marianne",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Somebody That I Used To Know",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Someday My Prince Will Come",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Someone Like You",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Somethin Bad",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Something In The Way You Move",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Somethings Coming",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Song For A Future Generation",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Sound Of Silence",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Spill The Wine",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Spirit In The Night",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Stand By Me",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Standing On The Corner",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Staring At The Sun",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "State Of Maine Song",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Stay With Me",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Stayin Alive",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Step By Step",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Steppin Out With My Baby",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Stone In Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Story Of My Life",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Strangers In The Night",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Strawberry Bubblegum",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Strawberry Fields Forever",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Stray Cat Strut",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Streets Of Bakersfield",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Strip It Down",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Student Tutors",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Subterranean Homesick Blues",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Suddenly Last Summer",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Summertime Blues",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Sunny In Seatle",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Sunny In Seattle",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Sunshine",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Sunshine Of Your Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Superstition",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sweet Baby James",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Sweet Child O Mine",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Sweet Georgia Brown",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Sweet Home Alabama",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Swinging On A Star",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Take It Easy",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Take Me Home Country Roads",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Take Me Home Tonight",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Take Me Out To The Ball Game",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Take Me Out To The Ballgame",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Take The Money And Run",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Take This Job And Shove It",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Takin It To The Streets",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Takin It To The Streets",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Tallahassee Lassie",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Tears Of A Clown",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Tears On My Pillow",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Thats What Friends Are For",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Anniversary Waltz",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Baby By Blake Shelton",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Banana Boat Song DayO",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Battle Hymn Of The Republic",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "The Battle Of New Orleans",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Best Is Yet To Come",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Blue Danube Waltz",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Candy Man",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Chipmunk Song",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Closer I Get To You",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Electric Slide",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Flight Of The Bumblebee",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "The Girl From Ipanema",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Girl Is Mine",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Glory Of Love By Otis Redding",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "The Greatest",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Happiest Girl In The Whole USA",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "The Happiest Girl In The Whole USA",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "The Hokey Pokey",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Holly And The Ivy",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The House Of The Rising Sun",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The House That Built Me",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Irish Rover",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Lady In Red",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Look Of Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Man On The Flying Trapeze",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Midnight Special",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Music And The Mirror",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The National Anthem",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Only Way I Know",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Passenger",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Perfect Fan",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Perfect Man",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Purple People Eater",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Second Time Around",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Sound Of Silence",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Stars And Stripes Forever",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The StarSpangled Banner",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Tears Of A Clown",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Time Warp",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Wabash Cannonball",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Way We Were",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Wayfairing Stranger",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Wayfaring Stranger",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Wizard And I",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Yellow Rose Of Texas",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "There Goes My Everything",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Theres No Business Like Show Business",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Theres No Place Like Home For The Holidays",
+      "numberOfWords": 8,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "They Call Me Cuban Pete",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Theyre Coming To America",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "This Guys In Love With You",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "This Is My Country",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "This Is The Dawning Of The Age Of Aquarius",
+      "numberOfWords": 9,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "This Is What You Came For",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "This Land Is Your Land",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Those Lazy Hazy Crazy Days Of Summer",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Those LazyHazyCrazy Days Of Summer",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Three Little Birds",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Three Times A Lady",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Thriller",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Ticket To Ride",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Tik Tok",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Time Heals Everything",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Time In A Bottle",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Time Is On My Side",
+      "numberOfWords": 5,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Tin Soldier",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Tiptoe Through The Tulips",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "To Love Somebody",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Tommy By The Who",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Tomorrow Never Knows",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Tonight The Night Gonna Be Alright",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Tonights The Night Gonna Be Alright",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Too Much Time On My Hands",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Top Of The World By Tim Mcgraw",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Total Eclipse Of The Heart",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Towards The Sun",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Travelin Man",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Treat You Better",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Try To Remember",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Tulips From Amsterdam",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Two For The Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Two Hearts Beat As One",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "U Cant Touch This",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "UnBreak My Heart",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Under The Boardwalk",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Unforgettable",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Uptown Girl",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ventura Highway",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Viva Las Vegas",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Vogue",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Wagon Wheel",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Waiting For A Girl Like You",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Waiting For The Sun",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Walk In The Sun",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Walk Like An Egyptian",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Walk This Way",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Walkin On The Sun",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Walking Around In Womens Underwear",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Walking In Memphis",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Walking On Sunshine",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Walking On The Moon",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Walking The Floor Over You",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Waltzing Matilda",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Waterloo Sunset",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "We Can Work It Out",
+      "numberOfWords": 5,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "We Found Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "We Got The Beat",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Were An American Band",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Wedding March",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Wedding Planner",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Welcome To The Jungfle",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Welcome To The Jungle",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Werewolves Of London",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "What Child Is This",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "What Have You Done For Me Lately",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "What We Aint Got",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Whats New Pussycat",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Whats New Pussycat",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "When A Man Loves A Woman",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "When Irish Eyes Are Smiling",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "When The Bassline Drops",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "When The Girls Stop By In The Summer",
+      "numberOfWords": 8,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "When You Wish Upon A Star",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "When Youre Smiling",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Where Oh Where Are You Tonight",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Whistle While You Work",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "White Christmas",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Whoomp There It Is",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Why You Always Hatin",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Wichita Lineman",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Wild Mountain Honey",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Wildest Dreams",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Wind Beneath My Wings",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Winter Wonderland",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Witchy Woman",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "With Or Without You",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Wolverton Mountain",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Wonderful Tonight",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Words Of Love",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Work From Home",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Wouldnt It Be Loverly",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "You Are My Sunshine",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "You Cant Hurry Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "You Dont Know Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "You Dont Own Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "You Light Up My Life",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "You Oughta Be In Pictures",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "You Really Got Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "You Showed Me How To Care",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Youll Never Walk Alone",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Youll Think Of Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Your Cheatin Heart",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Your Mama Dont Dance",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Your Mother And Mine",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Your Smiling Face",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Your Song",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Youve Lost That Lovin Feeling",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    }
+  ]
+}

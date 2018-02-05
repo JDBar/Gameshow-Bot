@@ -1,0 +1,40 @@
+{
+  "name": "The 70s",
+  "answers": [
+    {
+      "answer": "Apple Starts Producing Personal Computers",
+      "numberOfWords": 5,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Egypt  Israel Sign Historic Peace Treaty",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Evita  A Chorus Line Are Broadway Hits",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "First TestTube Baby Born",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Mark Spitz Wins Seven Olympic Gold Medals",
+      "numberOfWords": 7,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "The US Celebrates Its Bicentennial",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "US Signs Treaty Returning Panama Canal",
+      "numberOfWords": 6,
+      "numberOfLetters": 33
+    }
+  ]
+}

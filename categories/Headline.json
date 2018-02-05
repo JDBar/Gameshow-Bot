@@ -1,0 +1,185 @@
+{
+  "name": "Headline",
+  "answers": [
+    {
+      "answer": "Amy Winehouse Is Dead",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Arnold Schwarzenegger Has Affair With Nanny",
+      "numberOfWords": 6,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "Bill Clinton Is Impeached",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Chicago Cubs World Series Champions",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "East And West Germany Are ReUnited",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "First Concorde Takes Off From New York City",
+      "numberOfWords": 8,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "First Moscow Mcdonalds Opens",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "First TestTube Baby Is Born",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "German Teenager Flies Plane Into Red Square",
+      "numberOfWords": 7,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Iraq Invades Kuwait",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Japan Hit By Tsunami",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "John Lennon Is Shot",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Katie Holmes And Tom Cruise Split",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Kristin Stewart Cheats On Robert Pattinson Kristen",
+      "numberOfWords": 7,
+      "numberOfLetters": 46
+    },
+    {
+      "answer": "Mad Cow Disease Outbreak",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Madonna Adopts Child From Africa",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Martha Stewart Is Sent To Prison",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Michael Jackson Is Dead",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Nelson Mandela Is Released From Prison",
+      "numberOfWords": 6,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "North American Solar Eclipse",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Nuclear Disaster In Fukushima",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Oj Simpson Is Acquitted Of Murder",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Peyton Manning Retires From The Nfl",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Pope Benedict Resigns",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Prince Harry On Vegas Nude Romp",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Princess Diana Dies In Car Accident In Paris",
+      "numberOfWords": 8,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Princess Kate Is Photographed Topless",
+      "numberOfWords": 5,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Ricky Martin Is Gay",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Roger Maris Breaks HomeRun Record",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Rover Lands Safely On Mars",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Swine Flu Outbreak",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Terrorist Attack On The Pentagon",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "The First Clone Dolly The Sheep Is Born",
+      "numberOfWords": 8,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "The Pope Resigns",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Tiananmen Square Protests Turn Bloody",
+      "numberOfWords": 5,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "WatergateNixon Resigns",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    }
+  ]
+}

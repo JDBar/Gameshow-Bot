@@ -1,0 +1,60 @@
+{
+  "name": "Fictional Place",
+  "answers": [
+    {
+      "answer": "Emerald City",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Enchanted Forest",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Fictional Place",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Land Of Oz",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Metropolis",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Planet Krypton",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Pooh Corner",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Prehistoric City Of Bedrock",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Utopia",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "WhoVille",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Wisteria Lane",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    }
+  ]
+}

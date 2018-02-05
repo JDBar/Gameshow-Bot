@@ -1,0 +1,1485 @@
+{
+  "name": "TV Show Title",
+  "answers": [
+    {
+      "answer": "Abcs Lost",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Access Hollywood",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Access Hollywood Live",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "All My Children",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ally Mcbeal",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Alpha Dogs",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "America The Wild",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Americas Cutest Pet",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Americas Funniest Home Videos",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Americas Got Talent",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Americas Lost Treasures",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Americas Next Top Model",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "American Bandstand",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "American Digger",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "American Gladiators",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "American Horror Story",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "American Idol",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "American Ninja Warrior",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "American Restoration",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Americas Got Talent",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Americas Next Top Model",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Angry Birds Knock On Wood Game",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Animals Gone Wild",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Animaniacs",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Antique Warriors",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Antiques Roadshow",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Arrested Development",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Auction Hunters",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Auction Packed",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Bakers Vs Fakers",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Barefoot Contessa",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Bates Motel",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Batman Beyond",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Battlestar Galactica",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Beavis And ButtHead",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Better Off Ted",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Bid America",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Big Brother",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Billions",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Blue Bloods",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Blues Clues",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Bobs Burgers",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Boston Legal",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Bostons Finest",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Breaking Bad",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Bride  Prejudice",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cajun Pawn Stars",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cake Wars",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Caketastrophe",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Cash In The Attic",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cbs This Morning",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Celebrity Name Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Charmed",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Cheaters",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Cheers",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Chopped Junior",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Clueless",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Cmt Crossroads",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Comfortable Trainers",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Coronation Street",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Counting Cars",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Cowboy Bebop",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Criminal Minds",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Croc Catchers",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Csi Miami",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Csi Miami",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Curb Your Enthusiasm",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Dancing With The Stars",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Dateline Nbc",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Dawsons Creek",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Days Of Our Lives",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Dcs Legends Of Tomorrow",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Design On A Dime",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Designing Women",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Dexter",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Dinosaur Train",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Dr Oakley Yukon Vet",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dr Oakley Yukun Vet",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dr Phil",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Elementary",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Entertainment Tonight",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Entertainment Weekly",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Entourage",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Espn Sportscenter",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Face The Nation",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Fair City",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Falling Skies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Family Feud",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Family Guy",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Fantastic Mr Fox",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Fear The Walking Dead",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Fearless Fourteen",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Fraggle Rock",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Freaks And Geeks",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Fresh Off The Boat",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Friday Night Lights",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Friends",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Fuller House",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Game Of Thrones",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Games Of Thrones",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Gator Boys",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "General Hospital",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Girl Meets World",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Good Morning America",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Gossip Girl",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Greys Anatomy",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Grimm",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Growing Pains",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Hard Knocks",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Harvey Birdman Attorney At Law",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Hawaii FiveO",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Hbos Tell Me You Love Me",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "He Shed She Shed",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Heart And Soul",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Hill Street Blues",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Holding A Kitten",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hollywood Game Night",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Home Improvement",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Homeland",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "How I Met Your Mother",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "How To Get Away With Murder",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Dream Of Jeannie",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "I Found The Gown",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Idiotest",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Idotest",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Inside Edition",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Iron Chef America",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Jane The Virgin",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Jeopardy",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Jeopardy",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Jimmy Kimmel Live",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Judge Judy",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Judging Amy",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Key  Peele",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Knight Rider",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Last Comic Standing",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Last Man Standing",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Late Show With David Letterman",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Law  Order Special Victims Unit",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Law  Order Special Victims Unit",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Law And Order Special Victims Unit",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Le Mans",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Lets Make A Deal",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Lip Sync Battle",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Little Big Shots",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Liv  Maddie",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Liv And Maddie",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Lost In Space",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Love Thy Neighbor",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Macgyver",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Mad About You",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Mad Men",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Madtv",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Magnum PI",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Make Me A Supermodel",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Mamas Family",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Martha Stewart Living",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Masterchef Junior",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Matlock",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Meet The Press",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Melrose Place",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Men Of A Certain Age",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Miami Vice",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Mike  Molly",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Million Dollar Listing",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Million Dollar Listings",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Modern Family",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Monday Night Football",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Moonlighting",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Mr Rogers Neighborhood",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Murder She Wrote",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Murdoch Mysteries",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "My Mother The Car",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Mythbusters",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Nbc Nightly News With Brian Williams",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Nbc Sunday Night Football",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Ncis Los Angeles",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Nevis Los Angeles",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Northern Exposure",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Nypd Blue",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Ok",
+      "numberOfWords": 1,
+      "numberOfLetters": 2
+    },
+    {
+      "answer": "One Tree Hill",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Orphan Black",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Parks And Recreation",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Pawn Stars",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Person Of Interest",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Pretty Little Liars",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Private Practice",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Project Runway",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Queen Of The South",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Reba",
+      "numberOfWords": 1,
+      "numberOfLetters": 4
+    },
+    {
+      "answer": "Rescue Me",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Saturday Night Live",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Say Yes To The Dress",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Sesame Street",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sex And The City",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Shades Of Blue",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sherlock",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Showbiz Tonight",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Smallville",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "So You Think You Can Dance",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "South Park",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Spider Man Unlimited",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "SpiderMan Unlimited",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Spin City",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Star Trek Deep Space Nine",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Stargate Atlantic",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Stargate Atlantis",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Still Standing",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Storage Wars",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Suddenly Susan",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Supernatural",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Taxi",
+      "numberOfWords": 1,
+      "numberOfLetters": 4
+    },
+    {
+      "answer": "Teen Titans",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Thanks",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "The Amazing Race",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Apprentice",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Bachelor",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Bachelorette",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Bear And The Dragon",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Big Bang Theory",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Biggest Loser",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Bill Cunningham Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Blue Lotus",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Bold  The Beautiful",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Bold And The Beautiful",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Book Thief",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Carbonaro Effect",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Chew",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "The Closer",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "The Colbert Report",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Cosby Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Daily Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Daily Show With Jon Stewart",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "The Drew Carey Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Dukes Of Hazzard",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Fairly Oddparents",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The First Watch",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Flying Nun",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Golden Girls",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Good Wife",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Graham Norton Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Have And The Have Nots",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Haves And Have Nots",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Haves And The Have Nots",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Hunger Games",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Insider",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The King Of Queens",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Last Man On Earth",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The League",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "The Mclaughlin Group",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Mentalist",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Millers",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Mindy Project",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The New Addams Family",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Night Manager",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Office",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "The Peoples Court",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Pioneer Woman",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Practice",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Price Is Right",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Real Housewives Of Beverly Hills",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "The Roth Radio Hour",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Simpsons",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Sopranos",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Tonight Show Starring Jimmy Fallon",
+      "numberOfWords": 6,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "The Twilight Zone",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Vampire Diaries",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The View",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "The Voice",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "The Walking Dead",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The West Wing",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Young And The Restless",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Then And Now With Andy Cohen",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "This Old House",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Those Who Cant",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Through The Wormhole With Morgan Freeman",
+      "numberOfWords": 6,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Tiny House Big Living",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Tmz",
+      "numberOfWords": 1,
+      "numberOfLetters": 3
+    },
+    {
+      "answer": "Top Chef",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Touched By An Angel",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Transparent",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Treme",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "True Blood",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "True Detective",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Twin Peaks",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Ugly Betty",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Under The Dome",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Veep",
+      "numberOfWords": 1,
+      "numberOfLetters": 4
+    },
+    {
+      "answer": "Washington Week",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "West Wing",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Wheel Of Fortune",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Why I Ran",
+      "numberOfWords": 3,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Will  Grace",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Worst Bakers In America",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Xena Warrior Princess",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "College Life",
+  "answers": [
+    {
+      "answer": "Physics Class",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Challenging Curriculum",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Medieval  Renaissance Studies",
+      "numberOfWords": 3,
+      "numberOfLetters": 26
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "name": "Title and Author",
+  "answers": [
+    {
+      "answer": "A Christmas Carol By Charles Dickens",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "A Is For Alibi By Sue Grafton",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "A Stranger In A Strange Land By Robert Heinlein",
+      "numberOfWords": 9,
+      "numberOfLetters": 39
+    },
+    {
+      "answer": "A Tale Of Two Cities By Charles Dickens",
+      "numberOfWords": 8,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Allegiant By Veronica Roth",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Anna Karenina By Leo Tolstoy",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Autobiography By Morrissey",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "B Is For Burglar By Sue Grafton",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Bag Of Bones By Stephen King",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Ball Four By Jim Boulton",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Ball Four By Jim Bouton",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "BenHur By Lew Wallace",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Blithe Spirit By Noel Coward",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Blue Highways By William Least HeatMoon",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Blue Highways By William LeastHeat Moon",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Brave New World By Aldous Huxley",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "California By Edan Lepucki",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Celebrity Autobiography",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Code To Zero By Ken Follett",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Dracula By Bram Stoker",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Dune By Frank Herbert",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Eclipse By Stephenie Meyer",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Emma By Jane Austen",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Everybodys Fool By Richard Russo",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Explosive Eighteen By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Falling For Icarus By Rory Maclean",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Finders Keepers By Stephen King",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Flying Magazine",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Ford County By John Grisham",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Four To Score By Janet Evanovich",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Freedom By Jonathan Franzen",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Gap Creek By Robert Morgan",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Gray Mountain By John Grisham",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Green Eggs And Ham By Dr Seuss",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Hard Eight By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Hard Eigth By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Hot Six By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "How The Grinch Stole Christmas By Dr Seuss",
+      "numberOfWords": 8,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "How The Grinch Stole Christmas By Dr Seuss",
+      "numberOfWords": 8,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Inferno By Dan Brown",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Interview With The Vampire By Anne Rice",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Jurassic Park By Michael Crichton",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "LA Confidential By James Ellroy",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Les Miserable By Victor Hugo",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Moby Dick By Herman Melville",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "National Enquirer",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Nature By Ralph Waldo Emerson",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Oliver Twist By Charles Dickens",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "One Fish Two Fish Red Fish Blue Fish By Dr Seuss",
+      "numberOfWords": 11,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "One Fish Two Fish Red Fish Blue Fish By Dr Seuss",
+      "numberOfWords": 11,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "One For The Money By Janet Evanovich",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "One Two Buckle My Shoe By Agatha Christie",
+      "numberOfWords": 8,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Safe Haven By Nicholas Sparks",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Seven Up By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Shadow Spell By Nora Roberts",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Sizzling Sixteen By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Solaris By Stanislaw Lem",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Starter For Ten By David Nicholls",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Stranger In A Strange Land By Robert Heinlein",
+      "numberOfWords": 8,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "Sycamore Row",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Ten Big Ones By Janet Evanovich",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "The Associate By John Grisham",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Beach By Alex Garland",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Big Four By Agatha Christie",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "The Catcher In The Rye By JD Salinger",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "The Chronicles Of Nardia By C S Lewis",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "The Chronicles Of Narnia By CS Lewis",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "The Colorado Kid By Stephen King",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "The Davinci Code By Dan Brown",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Declaration Of Independence",
+      "numberOfWords": 4,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "The Girl In The Red Coat By Kate Hamer",
+      "numberOfWords": 9,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "The Guilty By David Baldacci",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Help By Kathryn Stockett",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Keep By Jennifer Egan",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Long Walk By Stephen King",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Lost Symbol By Dan Brown",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "The Marriage Of Opposites",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Odyssey By Homer",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Road Not Taken By Robert Frost",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "The Seagull By Anton Chekhov",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Sun Also Rises By Ernest Hemingway",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "The Third Man By Graham Greene",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "This One Summer By Mariko Tamaki",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Time And Again By Jack Finney",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Tricky TwentyTwo By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Twelfth Night By William Shakespeare",
+      "numberOfWords": 5,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Twelve Angry Men By Reginald Rose",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Twelve Sharp By Janet Evanovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Ulysses By James Joyce",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Vagabonding By Rolf Potts",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Walden By Henry David Thoreau",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "WellWritten Novel",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Wild By Cheryl Strayed",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "gameshow-bot",
+  "version": "0.0.1",
+  "author": "Joseph Barron",
+  "description": "A Discord bot which hosts gameshows.",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "fs-extra": "^5.0.0"
+  }
+}

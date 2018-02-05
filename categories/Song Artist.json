@@ -1,0 +1,1540 @@
+{
+  "name": "Song Artist",
+  "answers": [
+    {
+      "answer": "A Love Song By Kenny Rogers",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "A Summer Song By Chad  Jeremy",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Abracadabra By Steve Miller Band",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Adventure Of A Lifetime By Coldplay",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Africa By Toto",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Again By Janet Jackson",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Amanda By Boston",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "American Pie By Don Mclean",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "An Old Fashioned Love Song By Three Dog Night",
+      "numberOfWords": 9,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Animal By Def Leppard",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Another Brick In The Wall By Pink Floyd",
+      "numberOfWords": 8,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Another Day In Paradise By Phil Collins",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Attention By Charlie Puth",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Autumn Changes By Donna Summer",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Baby Baby By Amy Grant",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Backroad Song By Granger Smith",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Ball Of Confusion By The Temptations",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Bang Bang By Green Day",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Belfast By Elton John",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Best Friend By Brandy",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Best Of My Love By The Eagles",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Big Bad John By Jimmy Dean",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Biscuits By Kacey Musgraves",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Black Cat By Janet Jackson",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Black Cow By Steely Dan",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Black Magic Woman By Santana",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Blank Space By Taylor Swift",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Blueberry Hill By Fats Domino",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Boombastic By Shaggy",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Born To Run By Bruce Springsteen",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Breathe By Faith Hill",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Breathless By Sam Riggs",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Buddy Holly By Weezer",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Burning House By Cam",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Buy Me A Boat By Chris Janson",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Candle In The Wind By Elton John",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Celebrate By Kool  The Gang",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Centerfield By John Fogerty",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Chances Are By Johnny Mathis",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Cinnamon Girl By Neil Young",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Clocks By Coldplay",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Complicated By Avril Lavigne",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Confident Solution",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Cop Car By Sam Hunt",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Cosmic Love By Florence And The Machine",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Country Nation By Brad Paisley",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Crazy Arms By Ray Price",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Cruel Summer By Bananarama",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Cry Me A River",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Delirious By Prince",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Dibs By Kelsea Ballerini",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Do You Have The Time",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dont By Bryson Tiller",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Dont Stop Believin By Journey",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Down Under By Men At Work",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Eleanor Rigby By The Beatles",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Elenaor Rigby By The Beatles",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Elton Johns Goodbye Yellow Brick Road",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Exchange By Bryson Tiller",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Fade By Kanye West",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Fallin By Alicia Keys",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Fast As You By Dwight Yoakam",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Fields Of Gold By Sting",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Fireball By Pitbull",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Five To One By The Doors",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Flight Of Icarus By Iron Maiden",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Floridays By Jimmy Buffett",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Fly Like An Eagle By The Steve Miller Band",
+      "numberOfWords": 9,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Footloose By Kenny Loggins",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Four Horsemen By The Clash",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Four Sticks By Led Zeppelin",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Four Strong Winds By Neil Young",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Four Women By Nina Simone",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Free Four By Pink Floyd",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Freestyle By Lady Antebellum",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Freeway Of Love By Aretha Franklin",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Georgia On My Mind",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Georgia On My Mind By Ray Charles",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Get Down On It By Kool  The Gang",
+      "numberOfWords": 8,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Get Lucky By Daft Punk",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Goin Down To Mexico By Zz Top",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Gold Dust Woman By Fleetwood Mac",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Goldfinger By Shirley Bassey",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Gonna By Blake Shelton",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Good Day Sunshine By The Beatles",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Good Grief By Bastile",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Good Grief By Bastille",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Graceland By Paul Simon",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Hard To Be Cool By Joe Nichols",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Hard To Love By Lee Brice",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Hardwired By Metallica",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Hawaii By The Beach Boys",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Heartbeat By Taana Gardner",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Hello By Lionel Richie",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Here Comes The Sun By The Beatles",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Hey Jude By The Beatles",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Hey Nineteen By Steely Dan",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Higher By Creed",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "History By One Direction",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Hold Up By Beyonce",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Holiday By Madonna",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Honey Honey By Abba",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hooray For Hollywood",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Hot Stuff By Donna Summer",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Humble And Kind By Tim Mcgraw",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Humble By Kendrick Lamar",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Hyperballad By Bjork",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "I Am The Walrus By The Beatles",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "I Can See For Miles By The Who",
+      "numberOfWords": 8,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "I Cant Stop Loving You By Ray Charles",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "I Feel Love By Donna Summer",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Feel The Earth Move By Carol King",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "I Feel The Earth Move By Carole King",
+      "numberOfWords": 8,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "I Got The Boy By Jana Kramer",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Love Me By Meghan Trainor",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Love This Life By Locash",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "I See You By Luke Bryan",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "I Think Were Alone Now By Tiffany",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "I Want Candy By Bow Wow Wow",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "I Want To Hold Your Hand By The Beatles",
+      "numberOfWords": 9,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "If I Had A Boat By Lyle Lovett",
+      "numberOfWords": 8,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "In The Summertime By Mungo Jerry",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Isnt She Lovely By Stevie Wonder",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Its Now Or Never By Elvis Presley",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Its Not Unusual By Tom Jones",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jack  Diane By John Mellencamp",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Jealous By Nick Jonas",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Jolene By Dolly Parton",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Joy To The World By Three Dog Night",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Julia By The Beatles",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Jump By Van Halen",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Just Like Fire By PNk",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Just Like Paradise By David Lee Roth",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Kentucky Rain By Elvis Presley",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Key Largo By Bertie Higgins",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "King Of Pain By The Police",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "King Tut By Steve Martin",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "King Tutt By Steve Martin",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Lady Marmalade",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Le Freak By Chic",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Leave The Light On By Sam Hunt",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Leave The Lights On By Sam Hunt",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Lets Stay Together By Al Green",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Life In The Fast Lane By The Eagles",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Like A Cowboy By Randy Houser",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Like A Rolling Stone By Bob Dylan",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Like I Love You By Justin Timberlake",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Linger By The Cranberries",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "London Calling By The Clash",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Look At You By Big  Rich",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Look At You By Big And Rich",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Look What You Made Me Do By Taylor Swift",
+      "numberOfWords": 9,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Love In Store By Fleetwood Mac",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Love Me Tender By Elvis Presley",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Love Struck Baby By Stevie Ray Vaughan",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Love Yourself By Justin Bieber",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Lovely Day By Bill Withers",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Loving You Easy By The Zac Brown Band",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Lucky Man By The Verve",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Magic By The Cars",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Magic Carpet Ride By Steppenwolf",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Make Me Like You By Gwen Stefani",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Make You Miss Me By Sam Hunt",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Marry Me By Train",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Material Girl By Madonna",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Mathematics By Mos Def",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Me Too By Meghan Trainor",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Mess Is Mine By Vance Joy",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Mexico By James Taylor",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "More Than A Feeling By Boston",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Mornin By Al Jarreau",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Mother Popcorn By James Brown",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Mountain Music By Alabama",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Move By Luke Bryan",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Mr Jones By Counting Crows",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "My House By Flo Rida",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "My Sharona By The Knack",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "My Type By Saint Motel",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "My Way By Elvis Presley",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Needed Me By Rihanna",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Never Can Say Goodbye By Gloria Gaynor",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "No Particular Place To Go By Chuck Berry",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Nowhere Man By The Beatles",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Oh Lonesome Me By Don Gibson",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "One By Metallica",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "One Moment In Time By Whitney Houston",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "One More Night By Phil Collins",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "One Of These Days By Pink Floyd",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Ophelia By The Lumineers",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Owner Of A Lonely Heart By Yes",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Party For Two By Shania Twain",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Pennsylvania By Heart",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Penny Lane By The Beatles",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Perfect By One Direction",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Pinball Wizard By The Who",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Pompeii By Bastille",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Ready Set Roll By Chase Rice",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Reasons By Earth Wind  Fire",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Reasons By Earth Wind And Fire",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Red White And Blue By Lynyrd Skynyrd",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Remember The Time By Michael Jackson",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Return To Me By Dean Martin",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Rhiannon By Fleetwood Mac",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Ring My Bell By Anita Ward",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Rock On By Tucker Beathard",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Roller Coaster By Luke Bryan",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Royals By Lorde",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Runaway By Del Shannon",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Running On Empty By Jackson Browne",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Safe And Sound By Capital Cities",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Same Old Love By Selena Gomez",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Sandra Baby By Eartha Kitt",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Sara Smile By Hall  Oates",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Schools Out By Alice Cooper",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Seven Nation Army By The White Stripes",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Seven Turns By The Allman Brothers Band",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Seven Wonders By Fleetwood Mac",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Shape Of My Heart By Sting",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Sharp Dressed Man By Zz Top",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Shes Not There By The Zombies",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Shotgun Rider By Tim Mcgraw",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Silver Threads And Golden Needles Sung By Linda Rostadt",
+      "numberOfWords": 9,
+      "numberOfLetters": 47
+    },
+    {
+      "answer": "Simple Man By Lynyrd Skynyrd",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Smoke Break By Carrie Underwood",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Something In The Water By Carrie Underwood",
+      "numberOfWords": 7,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "Somewhere In My Car By Keith Urban",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Sorry By Justin Bieber",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Southern Belle By Scotty Mccreery",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Spam Song By Monty Python",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Stayin Alive By The Bee Gees",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Still Breathing By Green Day",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Stitches By Shawn Mendes",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Streets Of Baltimore By Bobby Bare",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Sugar Sugar By The Archies",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Summer In The City By Lovin Spoonful",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Summer In The City By The Lovin Spoonful",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Summer Sixteen By Drake",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Summer Wind By Frank Sinatra",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Summertime Blues By Alan Jackson",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Sun Is Shining By Bob Marley",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Sunny Afternoon By The Kinks",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Surfin Safari By The Beach Boys",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Surfin USA By The Beach Boys",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Sweet Emotion By Aerosmith",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Sweet Lovin By Sigala",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Swingin By John Anderson",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Take Your Time By Sam Hunt",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Tell It To My Heart By Taylor Dayne",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Ten With A Two By Kenny Chesney",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Thats So Hard",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Baby By Blake Shelton",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Boys Of Fall By Kenny Chesney",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "The Boys Of Summer By Don Henley",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "The Gambler By Kenny Rogers",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "The Glory Of Love By Otis Redding",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "The Hustle By Van Mccoy",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Magnificent Seven By The Clash",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "The Sunshine Of Love By Louis Armstrong",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "The Tide Is High By Blondie",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Witch By The Sonics",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Three Times A Lady By The Commodores",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Til Its Gone By Kenny Chesney",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Till The Morning Comes By Neil Young",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Time By Pink Floyd",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Time Is On My Side By The Rolling Stones",
+      "numberOfWords": 9,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Time Of The Season By The Zombies",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "To Love A Woman By Lionel Richie",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "To Love Somebody By Nina Simone",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Tommy By The Who",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Too Good At Goodbyes By Sam Smith",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Top Of The World By Tim Mcgraw",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Trouble By Cage The Elephant",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Trouble By Gloriana",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Truckin By Grateful Dead",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "True Colors By Cyndi Lauper",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tucson Arizona By Dan Fogelberg",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Tv Dinners By Zz Top",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Twist And Shout By The Beatles",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Two Hearts By Bruce Springsteen",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Two Hearts By Phil Collins",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Two Of Us By The Beatles",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Unforgettable By Nat King Cole",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Unforgettable By Nat King Cole",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Vision Of Love By Mariah Carey",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Visions Of Love By Mariah Carey",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Waiting For A Girl Like You By Foreigner",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Walls By Kings Of Leon",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Waste A Moment By Kings Of Leon",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Watch Me By Silento",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "We Went By Randy Houser",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "WhatD I Say By Ray Charles",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "When Doves Cry By Prince",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "When I Was Your Man By Bruno Mars",
+      "numberOfWords": 8,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "When IM SixtyFour By The Beatles",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "When We Were Young By Adele",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "White Room By Cream",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "White Wedding By Billy Idol",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Whole Lotta Love By Led Zeppelin",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Whole Lotta Love By Led Zepplin",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Woman In Love By Barbra Streisand",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Wooden Ships By Crosby Stills  Nash",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Wow By Beck",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Yesterday By The Beatles",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ymca By The Village People",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "You Give Love A Bad Name By Bon Jovi",
+      "numberOfWords": 9,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Youre So Vain By Carly Simon",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Youve Got A Friend By Carole King",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    }
+  ]
+}

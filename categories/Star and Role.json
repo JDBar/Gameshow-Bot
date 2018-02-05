@@ -1,0 +1,730 @@
+{
+  "name": "Star and Role",
+  "answers": [
+    {
+      "answer": "Adam West As Bruce Wayne",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Alexander Skarsgard As Eric Northman",
+      "numberOfWords": 5,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Alexander Skarsgard As Tarzan",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Amy Poehler As Joy",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Angelina Jolie As Lara Croft",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Anne Hathaway As Andy Sachs",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Anthony Perkins As Norman Bates",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Ben Affleck As Batman",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Ben Affleck As Daredevil",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ben Kingsley As Gandhi",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Benedict Cumberbatch As Doctor Strange",
+      "numberOfWords": 5,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Bill Nighy As Tom Sergeant",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Bob Odenkirk As Jimmy Mccill",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Bob Odenkirk As Jimmy Mcgill",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Brad Pitt As Benjamin Button",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Brad Pitt As Tyler Durden",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Bryce Dallas Howard As Claire Dearing",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Buddy Ebsen As Barnaby Jones",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Carrie Fisher As Princess Leia",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Chris Hemsworth As Thor",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Christian Bale As Batman",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Christian Bale Stars As Batman",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Christopher Reeves As Superman",
+      "numberOfWords": 4,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Claire Danes As Carrie Mathison",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Clark Gable As Rhett Butler",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Daniel Craig As James Bond",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Daniel DayLewis As Abraham Lincoln",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Daniel Radcliffe As Harry Potter",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Danny Glover As George Knox",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Denzel Washington As Malcolm X",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Diane Keaton As Annie Hall",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Don Knotts As Barney Fife",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Dustin Hoffman As Ben Braddock",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Dustin Hoffman As Willy Loman",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Edward James Olmos As Virgil Sweet",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Elizabeth Taylor As Cleopatra",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Emma Thompson As Nanny Mcphee",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Emma Watson As Belle",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Faye Dunaway As Bonnie Parker",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Faye Dunaway As Joan Crawford",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Freddie Highmore As Norman Bates",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Gene Wilder As Willy Wonka",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "George Takei As Sulu",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "George Wendt As Norm Peterson",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Gillian Anderson As Dana Scully",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Glenn Close As Alex Forrest",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Gloria Swanson As Norma Desmond",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Harrison Ford As Jack Ryan",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Henry Cavill As Clark Kent",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Hugo Weaving As Agent Smith",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Humphrey Bogart As Sam Spade",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Ian Mckellen As Gandalf",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Idris Elba As Luther",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Jack Lemmon As Harry Hinkle",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jackie Gleason As Ralph Kamden",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jackie Gleason As Ralph Kramden",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "James Arness As Matt Dillon",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jamie Bell As The Thing",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Jason Statham As Ian Shaw",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Jean Reno Stars As Leon",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Jennifer Connelly As Jenny Blake",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Jesse Einsenberg As Lex Luthor",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jesse Eisenberg As Lex Luthor",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Jim Carey As Stanley Ipkiss",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jim Carrey As Ace Ventura",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Jim Carrey As Scrooge",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Jim Carrey As Stanley Ipkiss",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Jim Carrey As The Grinch",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Jim Nabors As Gomer Pyle",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "John Goodman As Babe Ruth",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "John Ratzenberger As Cliff Clavin",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Johnny Depp As Edward Scissorhands",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Johnny Depp As Willy Wonka",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Jon Hamm As Don Draper",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Jude Law As Dr John Watson",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Julie Andrews As Maria",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Julie Andrews As Maria Von Trapp",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Julie Andrews As Mary Poppins",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Kate Hudon As Penny Lane",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Kate Hudson As Penny Lane",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Katharine Hepburn As Rose Sayer",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Keviin Costner As Ray Kinsella",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Kevin Costner As Ray Kinsella",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Kevin James As Doug Heffernan",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Kim Badinger As Vicki Vale",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Kim Basinger As Vicki Vale",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Kirk Douglas As Spartacus",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Larry Hagman As JR Ewing",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Laurence Olivier As Hamlet",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Leonard Nimoy As Mr Spock",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Leonardo Dicaprio As Howard Hughes",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "LinManuel Miranda As Alexander Hamilton",
+      "numberOfWords": 5,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Lou Diamond Phillips As Richie Valens",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Lucille Ball As Lucy Ricardo",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Margot Robbie As Jane Clayton",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Marion Ross As Marion Cunningham",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Martin Sheen As President Bartlet",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Matt Damon As Jason Bourne",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Meryl Streep As Julia Child",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Michael Keaton As Batman",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Michael Landon As Little Joe Cartwright",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Mike Myers As Austin Powers",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Mike Myers As Dr Evil",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Natalie Portman As Nina Sayers",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Peter Falk As Columbo",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Peter Gallagher As Sandy Cohen",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Peter Sellers As Inspector Clouseau",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Raymond Burr Stars In Ironside",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Rhea Perlman As Carla Tortelli",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Richard Dreyfuss As Bernie Madoff",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Robert Downey Jr As Tony Stark",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Roger Moore As James Bond",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Rosario Dawson As Persephone",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Ryan Kwanten As Jason Stackhouse",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Sally Field As Mary Todd Lincoln",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Sally Field As Norma Rae",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Sean Bean As Zeus",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Sean Penn As Harvey Milk",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Shelley Long As Diane Chambers",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Sigourney Weaver As Ellen Ripley",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Simon Baker As Patrick Jane",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Steve Carell As Michael Scott",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Sylvester Stallone As Rocky Balboa",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Taylor Momsen As Cindy Lou Who",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Ted Danson As Sam Malone",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Telly Savalas As Kojak",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Tim Allen As Buzz Lightyear",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tim Conway As Dorf",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Tom Cruise As Jerry Maguire",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tom Cruise As Vampire Lestat",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Tom Cruise Stars In Risky Business",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Tom Hanks As Forrest Gump",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Tom Hanks As Robert Langdon",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tom Selleck As Jack Elliot",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Tony Danza As Mel Clark",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Tricia Helfer As Cylon Number Six",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Uma Thurman As Medusa",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Uma Thurman As The Bride",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Vincent DOnofrio As Vic Hoskins",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Vivien Leigh As Scarlett OHara",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Warren Beatty As Bugsy",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Warren Beatty As Clyde Barrow",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Will Ferrell As Buddy",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Woody Harrelson As Woody Boyd",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Zoe Saldana As Neytiri",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    }
+  ]
+}

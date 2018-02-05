@@ -1,0 +1,4110 @@
+{
+  "name": "Fun and Games",
+  "answers": [
+    {
+      "answer": "A Brisk Jog",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "A Dip In The Pool",
+      "numberOfWords": 5,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "A Family Game Of Charades",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "A Friendly Game Of Marbles",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "A Hand Of Blackjack",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "A Round Of Lawn Bowling",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "A Round Of Miniature Golf",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "A Word Search",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Abundance Of Watersports",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Action Figures",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Activity Book",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Addition And Subtraction",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Adventure Racing",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Adventuresome Boat Excursions",
+      "numberOfWords": 3,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Aerobics Class",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Afterschool Activities",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Air Hockey",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "All That Jazz",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Alphabet Magnets",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Alphabetical  Numerical Oder",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Alpine Skiing  Snowboarding",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Alpine Snowboarding",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Amusement Park Rides",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Amusement Rides",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Amusing Joke",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Amusing Yarn",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "An Afternoon Hiking",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "An Afternoon Of Hiking",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "An Afternoon Of Quad Biking",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Anderlecht Fair",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Angry Birds",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ant Attack",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Arcade Tokens",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Archery Shoot",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Arm Wrestling",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Arts  Crafts Festival",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Arts  Crafts Projects",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "ArtsAndCrafts Festival",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Australian Rules Football",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Auto Racing",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Baby Dolls",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Baccarat",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Backgammon Set",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "BackRoad Bicycling",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Backyard Ball Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Backyard Baseball Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Backyard Swing Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Badminton",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Balance Boards",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ball  Bucket Toss",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Balloon Animals",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Balloon Ride",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Ballroom Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Barn Dance",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Baseball  Softball",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Bass Fishing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Baton Twirling",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Battleship",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Battleship Model Kit",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Beach Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Beach Volleyball",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Beach Volleyball Tournament",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Beanbag Toss",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Beanie Babies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Beanie Beans",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Beer Pong",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Belly Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Berzerk",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Betsy Betsy Doll",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Betsy Wetsy Doll",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Big Wave Surfing",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Biggie Boardings",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "BigTicket Attractions",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "BigWave Surfing",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Billiard Balls",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Bingo",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Bingo Balls",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Bingo Night",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Bingo Set",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Birthday Party",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Blackjack",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Blind Mans Bluff",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Blowing Up Balloons",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Blue Dragon",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Blue Dragon Video Games",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Board Game Night",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Board Games",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "BoardGame Night",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Boardwalk And Park Place",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Bobbing For Apples",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Bodysurfing",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Boogie Boarding",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Bounce Houses",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Bouncing On A Trampoline",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Bowling A Perfect Game",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Bowling Night",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Bowling Pins",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Brain Bender",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Break Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Broadway Musical Chairs",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Bubble Machine",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Building A Dollhouse",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Building A Sand Sculpture",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Building A Sandcastle",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Building A Tree House",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Building Sandcastles",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Bumper Cars",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Burping Contest",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Buy A Vowel",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Cake Dish",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Candle Making",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Candy Land",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Canyoneering",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Card Games",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Card Tricks",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "CardGame Night",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Carnival Attractions",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Carnival Of Binche",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Carnival Rides",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Carousel Ride",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "CarSeat Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Cartwheels",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Cats Cradle",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Catching A Wave",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Catching Some Waves",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Catnip Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Celebrated Ski Runs",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Ceramic Canister Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Chatty Cathy Doll",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Check Your Inbox On Halloween",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Checkers  Chess",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Chess  Checkers",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Chess And Checkers",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Chess Competition",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Chew Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Childhood Heroes",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Childrens Poem",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Chinese Checkers",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Chipping Golf Balls",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Choose Your Own Adventure Stories",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Choose Your Own Adventures Stories",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Chopped Dates  Figs",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Chutes And Ladders",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Cigar Festival",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Classic Pez Dispensers",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Classic Red Tricycle",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Classic Sudoku",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Classic Yahtzee",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Climbing A Tree",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Coin Knuckle Roll",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "CoinOperated Video Games",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Collecting Baseball Cards",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Colorforms",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Colorful Sculpting Clay",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Coloring Book And Crayons",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Competitive Shuffleboard",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Complicated Puzzle",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Computer Solitaire",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Confetti Cannon",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Conga Line",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Contestant Searches",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Cookie Decorating Contest",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Corny Jokes",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "County Fair",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Cricket  Croquet",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Croquet",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Cross Country Skiing",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "CrossCountry Skiing",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Crossword Puzzle",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Crossword Puzzles",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Crunches  Jumping Jacks",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "CustomMade Chess Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "CustomMade Chess Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Cutting Out Paper Dolls",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Daisy CorkBall Guns",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Dancing On The Deck",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dancing The Conga",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Dartboard  Foam Darts",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Dartboard And Foam Darts",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Daytrader A Financial Board Game",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Deck Of Playing Card",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Deck Of Playing Cards",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "DeepSea Fishing",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Demolition Derby",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Desperados Of Dice Town",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Disappearing  Coin Trick",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Disappearing Ink",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "DisappearingCoin Trick",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Disco Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Dodge Ball",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Dodgeball",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Doing A Cartwheel",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Doing Handstands",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Doing The Hula",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Doing The Jitterbug",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Doing The Limbo",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Doing The Macarena",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Doing The Mexican Hat Dance",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Dolls  Stuffed Animals",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Domino Set",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Dont Break The Ice",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Doodling",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Door Prizes",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "DoubleCoin Trick",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "DoubleTrack Mountain Biking",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Downhill  CrossCountry Skiing",
+      "numberOfWords": 3,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Downhill Skiing",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Downhill Sled Ride",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dragon  Phoenix Mahjong Set",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "DragonBoat Race",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Draw Poker",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Drawing Straws",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Drawing With Sidewalk Chalk",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Driving Golf Balls",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Driving Through Wide Open Spaces",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Dropping A Deuce",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Duck Duck Goose",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "EasterEgg Hunt On The White House Lawn",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "EasyBake Oven",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Egg Relay Race",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Egg Toss",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Eggtoss",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Elbow Room",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Electric Pinball Machine",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Electric Pitching Machine",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Electric Train Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Equestrian Sports",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Etch A Sketch",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Exciting Outdoor Activities",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Exciting Rounds",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Exciting Whitewater Rafting",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Extra Innings",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Extreme Sport",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Extreme Sports",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Fake Snake Popping Out Of A Nut Can",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Family Cookouts",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Family Hike",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Fantasy Football",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Fantasy Football League",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Farm Tours For Children",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "FastPitch Softball",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Feeding My Neopet",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Ferris Wheels  MerryGoRounds",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Festive Activities",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Festive Celebration",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Festive Celebrations",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Festive New Years Eve Celebrations",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Field Hockey",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Figure Skating",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Final Fantasy",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Finger Painting",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Finger Puppets",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Fingerprint Drawings",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Fingerprints Drawing",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Fire Party",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Flag Football",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Flavored Lip Gloss",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Fliip Football",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Flying A Kite On The Beach",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Follow The Leader",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Food Fight",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Football  Baseball",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Football Practice",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Fourth Of July Celebrations",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Fraternity Prank",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Free Community Events",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Freshwater Fishing",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Friendly Game Of Baseball",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Frisbee Competition",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Fun  Festive Carnival Celebrations",
+      "numberOfWords": 4,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Fun  Memorable Halloween Party",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Fun And Memorable Halloween Party",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Fun Brainteasers",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Fun Fiesty Festivals",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Fun Puzzles",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Fun Summer Activities",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Funny Magic Tricks",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Funny Tweets",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Fuzzy Stuffed Animals",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Gaelic Football",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Gag Gift",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Gatorade Shower",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Get Out Of Jail Free Card",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "GetOutOf JailFree Card",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Giant Wave Pool",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Gin Rummy",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Gin Rummy Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Gingerbread House Kit",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "GingerbreadHouse Kit",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Glacier Ice Climbing",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Going Ocean Kayaking",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Going On A Scavenger Hunt",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Going Paddleboarding",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Going Parasailing",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Going Skiing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Going To A Slumber Party",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "GoKart Racing",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "GoKarts",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Goldfish Scooping",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Gondola Rides",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Good Idea",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Gooey Silly Putty",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Gorgeous Fishing",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Gorgeous Golfing",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "GrandOpening Celebration",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Guess What IM Drawing",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Guess What IM Drawing",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Guess Who",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Guided Running Tours",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Guided Sportfishing Trip",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Guitar Hero",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Gymnastics Routine",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Halloween",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Halloween Block Party",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Halloween Hayride",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hamletscenen Festival",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "HammerThrowing",
+      "numberOfWords": 1,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hand Puppets",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Handball  Racquetball",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Hang Gliding",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "HangGliding",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Haunted House",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Hd Video Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Headband Antlers",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "HeliumFilled Balloons",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "High Velocity Paintball",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "HighLimit Slots",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hiking Boots",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Hilarious Joke",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Hillwalking",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Hitting The Road",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hobbyhorse",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Holiday Craft Fair",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hopscotch",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Horse  Carriage Rides",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Horse Racing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Horseback Rides",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Horseracing",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "HotAir Balloon Rides",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "HotAir Ballooning",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "House Of Card",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "House Of Cards",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "House Of Mirrors",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Hula Competition",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Hula Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Humorous Gag Gifts",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Humorous Jokes",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Hurling Championship",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "I Love The Game With All My Heart",
+      "numberOfWords": 8,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "I Spy With My Little Eye",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Ibird App For Iphone",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Ice Blocking",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Ice Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ice Fishing",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ice Hockey",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Ice Skating",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "IceCarving Competition",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "IceDancing",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Illustrated Childrens Book",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Indoor GoCarting",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Indoor GoKarting",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Indoor Kart Races",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Indoor Volleyball",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Inflatable Beach Ball",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Inflatable Slide",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Informal Game Of Golf",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Inspiring Cultural Events",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Interactive Puzzles",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Interactive Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Interesting River Safari",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "International Book Fair",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "International Carnivals",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "InTheKitchen Puzzles",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Island Dance Music",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "JackInThe Box",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "JackInTheBox",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Jacobs Ladder Festival",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Japanese Archery",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "JeepBogging In The Desert",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Jigsaw Puzzle",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Johnny Apollo Action Figurine",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Johnny Apollo Action Figurines",
+      "numberOfWords": 4,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Jousting",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Jovial Sing Alongs",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Jovial SingAlongs",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Judo",
+      "numberOfWords": 1,
+      "numberOfLetters": 4
+    },
+    {
+      "answer": "Judo  Karate",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Juggling Beanbags",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Juggling Bowling Pins",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Juggling Oranges",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Jumping Dances",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Jumping In A Bounce House",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Jumping Rope",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jungle Gym",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Karate",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Karate  Tae Kwon Do",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Kayaking",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Keno Tournament",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Kickball",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Kickball  Dodge Ball",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Kickball  Dodge Ball",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Kickboxing",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Kicking A Soccer Ball",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Kids Playing On A Jungle Gym",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Kite Surfing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Kiteboarding",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Knock Knock Jokes",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Knock Knock Whos There",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "KnockKnock Joke",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "KnockKnock Jokes",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Kooky Costume",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Large Cash Giveaways",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Laser Maze",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Laser Tag",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Laser Tag  Paintball",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "LateNight Hayride",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "LateNight Reggaeton Party",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "League Night At The Bowling Alley",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Leapfrog",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Learning How To Surf",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Learning How To Windsurf",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Learning Tai Chi",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Learning To WaterSki",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Leopard Viewing",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "LeopardViewing",
+      "numberOfWords": 1,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Lets Do The Charleston",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Lets Do The Charleston",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "LightUp Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Line Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Lion Dances",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "LionDance Competition",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Lovely Shoes",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "LowRisk Penny Games",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Magic Tricks",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Maiden Braids",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Making A Leaf Mobile",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Manic Miner",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Marble Madness",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Marbles  Building Blocks",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Marco Polo",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Marshmallow Animals",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Masks  Costumes",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Masquerade Balls",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Matchbox Car",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "MerryGoRounds  Roller Coasters",
+      "numberOfWords": 3,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Metal Dish Drying Rack",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Mexican Jumping Beans",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Minesweeper",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Miniature Golf",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Miniature Golfing",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Mob Football",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Model Airplanes",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Model Car",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Model Train Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "ModelAirplane Racing",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Monopoly Money",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Moon Bounces",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Morning Tee Time",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Motorboating",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Mountaineering",
+      "numberOfWords": 1,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Mountaineering  Skiing",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Mr Potato Head",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Mud Wrestling",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Multicultural Activities",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Musical Chairs",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "MustAttend Summer Festivals",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "My Favorite Carnival Rides",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Narrated Cruises",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Neighborhood Baseball Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Neighbourhood Baseball Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Neo Geo League Bowling",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Nesting Blocks",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "New Dance Craze",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "New Dance Crazes",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Night Climb Of The Harbour Bridge",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Nights Full Of Music And Dancing",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Obstacle Course",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Olafs In Trouble",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Olafs In Trouble Game",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "On The Map",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Online Poker",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Opening Kickoff",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "OpenSleigh Ride",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Origami",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Outdoor Twister",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "OutOfDate Board Games",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Pac Man",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "PacMan",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Pai Gow",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Paint By Numbers",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Paintball",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Paintball Fight",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "PaintByNumber",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "PaintByNumbers",
+      "numberOfWords": 1,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Painting By Numbers",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Paleta Fronton",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Panoramic Helicopter Rides",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Party Bus",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Party Games",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Party Hat",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Peekaboo",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Photography  Scrapbooking",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Pickup Basketball Game",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Piggyback Ride",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Pillow Fight",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Pin The Spider On The Web",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Pin The Tail On The Cat",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Pin The Tail On The Donkey",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Pinball Machine",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "PingPong Paddles",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Pinochle",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Pizza Party",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Plastic Kazoo",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Plate Spinning",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Playful Activities",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Playing A Football Game",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Playing A Round Of Golf",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Playing Asteroids",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing Backgammon",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Playing Badminton",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing Beach Volleyball",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Playing Cards",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Catch",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Checkers",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Chess",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Connect The Dots",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Playing Cricket",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Playing Croquet",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Playing Darts",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Dominoes",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Fetch",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Hopscotch",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing Horseshoes",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Playing House",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Ice Hockey",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing In The Sandbox",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Playing Jacks",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Jeopardy",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Jeopardy",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Kickball",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Lacrosse",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Marbles",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Playing Miniature Golf",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Playing Monopoly",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Musical Chairs",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Playing Paintball",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing Peekaboo",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Pictionary",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Playing Ping Pong",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing PingPong",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Poker",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Ring Toss",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Rugby",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Playing Rugby  Polo",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing Scrabble",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing Solitaire",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Playing Table Tennis",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Playing The Hat Seal",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Playing TicTacToe",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Plush Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Poker Party",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Pompom Balls",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Pony Ride",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Pool Party",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Pool Volleyball",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "PopUp Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "PotatoSack Race",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "PotatoSack Races",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Pothole Exploring",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Practical Joke",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Practical Jokes",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Prop  Play Mats",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Pumpkin Carving",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Race To The Treasure",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Race To The Treasure",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Racing To The Finish Line",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Racketball",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Racquetball",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Radio Flyer Little Red Wagon",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Rappelling",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Rearranging The Living Room",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Red Rover Red Rover",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Regata Storica",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Relay Races",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "RemoteControlled Toy Robots",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Renaissance Fair",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Renaissance Festival",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Rhythmic Gymnastics",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Riddles And Jokes",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "RideOn Pool Toys",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Riding A Boogie Board",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Riding A Mechanical Bull",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Riding A Scooter",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Riding A Skateboard",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Riding A Unicycle",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Riding My Skateboard",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Riding The Waves",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Ring Toss",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Ringtoss",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "River Rafting",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Robot Turtles",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Rock Em Sock Em Robots",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Rock Em Sock Em Robots",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Rock Climbing",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Rock Climbing  Rafting",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Rock Paper Scissors",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "RockAStack",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Rocking Horse",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Roller Coaster Ride",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Roller Derby",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "RollerCoaster Rides",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "RollerSkating",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Rolling Coins",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "RomoteControlled Toy Robots",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Rorys Story Cubes",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Round Of Golf",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Royal Flush",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Rubber Chicken",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Rubber Duckie",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Rubiks Cube",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Rubiks Cube",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Rugby",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Running For The Goal Line",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Running Jokes",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Running The Obstacle Course",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Running Through Sprinklers",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "S Friedeman Frieses Friday A Solo Adventure",
+      "numberOfWords": 7,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Sailboarding",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Salad Spinner",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Salsa Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sand Volleyball",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Saturday Evening Barn Dance",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Say Bye To The Villains",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Scattergories",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Scenic Boat Trip",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Scenic Helicopter Rides",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Scoring A Goal",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Scrabble",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Scrapbooking",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Scrimmage",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Scuba Diving In Malta",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Secret Santa",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Setting Up A Lemonade Stand",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Shadow Puppets",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Shadow Tag",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Shell Game",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "ShinyRed Wagon",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Shooting Hoops With Friends",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Shooting Marbles",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Shuffleboard",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Silly Songs",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Simcity",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Simon Says",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "SingAlong",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Skateboard",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Skateboard  Rollerblades",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Skating On A Frozen Lake",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Skeet Shooting",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ski Archery",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ski Mountaineering",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Skiing In The Swiss Alps",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Skiing The Austrian Alps",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "SkiMountaineering",
+      "numberOfWords": 1,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Skipping Stones",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "SledPulling Contest",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "SleightOfHand Magic",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Sliding Into Home Plate",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Sliding Into Third Base",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "SlightOfHand Magic",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Snorkeling  Scuba Diving",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Snow Tubing",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Snowball Fight",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "SnowballThrowing Contest",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Snowbiking  Airboarding",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Snowmobiling",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Snowshoe Racing",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Soap Box Derby Car",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Sock Puppets",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Softball  Baseball",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Solitaire",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Something For The Whole Family",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Special Theme Weeks",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "SpeedUp Round",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Spontaneous Nightlife",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Sportfishing",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sports Trivia",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Square Dancing",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Squirt Gun",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Squirting Flower On My Lapel",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Stagecoach Ride",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Standup Paddle Boarding",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Star Castle",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Star Fox",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Star Realms Gambit Set",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Star Wars Action Figures",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "State Fair",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Stealing Second Base",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Step Aerobics",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Stock Car Racing",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Street Carnivals",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Street Hockey",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Student Night",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sudoku",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Sudoku Puzzles",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Summer Camp Activities",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Summer Olympics",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Summer River Cruise",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Sunday Afternoon Football Game",
+      "numberOfWords": 4,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Super Mario Bros",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Super Mario Bros",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Super Mario Sunshine",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Swimming  Hiking",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "SwimUp Blackjack",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Swing Set",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Swordplay",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Table Shuffleboard",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Taffy Pull",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "TagTeam Wrestling",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Tailgate Party",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Taking A Dip In The Pool",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Tanning On The Deck",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Teasing My Sister",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Teddy Bear",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Telestrations",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Tennis Match",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Tetris",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Texting A Smiley Face",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Largest Party In The World",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Latest Dance Crazes",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Mexican Hat Dance",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Scrambled States Of America Game",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "The Thrill Of Parasailing",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "ThreeCard Monte",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "ThreeCard Monty",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Thrill Rides",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Thrilling Helicopter Tours",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Thrilling Whitewater Rafting",
+      "numberOfWords": 3,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Throwing A Gutter Ball",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Throwing Darts",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Thumb Wrestling",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Tic Tac Toe Toss",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ticket To Ride Europe",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Tickle Me Elmo",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Tickling My Funny Bone",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "TicTacToe",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "TicTacToe Toss",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "TicTaxToeToss",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Timeline American History",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Toboggans  Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Toboggans And Toys",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Tongue Twisters",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Tonka Trucks",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Touch Football",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "TouristFriendly Destination",
+      "numberOfWords": 2,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Town Picnic",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Toy Action Figures",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Toy Fire Engine",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Toy Robot",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Toy Soldiers",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Track  Field",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Trading Cards",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Traditional Macaroons",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Travel Backgammon Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Travel Board Games",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Travel Poker Set",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Traveling Salesman Joke",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Treasure Hunt",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Tree House",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Trivial Pursuit",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Truth Or Dare  Simon Says",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Tug Of War",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Twenty Questions",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Twister  Clue",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Two Story Carousel",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "TwoStory Carousel",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Ultimate Frisbee",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Underground Entertainment",
+      "numberOfWords": 2,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Unforgettable Carnivals",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Urban Spelunking",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Vertical Cavin",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Vertical Caving",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Video Poker",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Volleyball Match",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Wading In Turquoise Water",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Walking Safari",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Water Balloon Fight",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Water Balloon Toss",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Water Polo",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Water Skiing",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "WaterBalloon Fight",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "WaterBalloon Throw",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "WaterBalloon Toss",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Waving The Checkered Flag",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Weebles Wobble But The Dont Fall Down",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Weeklong Festivals",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Wheelbarrow Race",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Wheelbarrow Races",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Why Did The Chicken Cross The Road",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Wild Waterslide",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "WildlifeViewing",
+      "numberOfWords": 1,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Wildly Thrilling AmusementPark Rides",
+      "numberOfWords": 4,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Wind Up Cars",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Windsurfing",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Windsurfing At Sunset",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "WindUp Cars",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "WindUp Dolls",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "WindUp Monkey Playing Cymbals",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "WindUp Toys",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Winter Carnivals",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Winter Olympics",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Winter Recreational Sports",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Wooden Castle Blocks",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Word Roundup Puzzle",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Word Scramble",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Word Search Puzzle",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Word Search Puzzles",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Yahtzee",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Yellow Jacket",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Yoga  Tai Chi",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "YoYo Tricks",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Zinneke Parade",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    }
+  ]
+}

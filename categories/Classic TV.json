@@ -1,0 +1,1100 @@
+{
+  "name": "Classic TV",
+  "answers": [
+    {
+      "answer": "Alice And Sam The Butcher",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Alice Flo Vera And Mel",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Andy Opie Barney And Aunt Bee",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Anthony Quinn As Zorba The Greek",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Archie And Edith Bunker",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Art Carney As Ed Norton",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Barbara Eden As Jeannie",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Barbara Eden Stars In I Dream Of Jeannie",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Barnaby Jones",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Batmobile",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Beam Me Up Scotty",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Beaver Wally Eddie And Lumpy",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Betty And Barney Rubble",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Bewitched",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Bizarre",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Bonanza",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Book Em Danno",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Boss Hogg",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Breaking Bad",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Buddy Ebsen As Jed Clampett",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Bull The Bailiff",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Caketastrophe",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Charlies Angels",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Charlotte Rae As Edna Garrett",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Cheers",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Cheryl Ladd As Kris Munroe",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Chips",
+      "numberOfWords": 1,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Chuck Connors As Lucas Mccain",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Chuck Woolery Hosts Love Connection",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Chuck Woolery Hosts Wheel Of Fortune",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Colonel Robert E Hogan",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Dallas  Knots Landing",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Dallas And Knots Landing",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Darrin  Samantha Stephens",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Dennis Weaver Stars In Mccloud",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Designing Women",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Don Adams Stars In Get Smart",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Don Johnson As Detective Sonny Crockett",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Dr Kildare",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Dragnet",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "East Asia",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Eddie Munster",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Eight Is Enough",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "F Troop",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Family Matters",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Family Ties",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Fantasy Island",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Fat Albert And The Cosby Kids",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Father Knows Best",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Frasier",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Fred And Ethel Mertz",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Fred Flinstone  Barney Rubble",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Fridays",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Gary Coleman  Todd Bridges",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Get Smart",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Gilligan  The Skipper",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Gilligan And The Skipper",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Gilligans Island",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Ginger Mary Ann  The Professor",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Good Times",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Green Acres",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Gunsmoke",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Happy Days",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "HeMan And The Masters Of The Universe",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Heres Lucy",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Heres Johnny",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Herman And Lily Munster",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Hogans Heroes",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Hollywood Squares",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hooterville",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Hugo Weaving As Agent Smith",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "I Dream Of Jeannie",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "I Love Lucy",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "In Living Color",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ironside",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Isabel Sanford As Louise Jefferson",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "James Garner As Jim Rockford",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "James Garner Stars In Maverick",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jed Granny Elly Mae And Jethro",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "John Ritter As Jack Tripper",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Johnny Quest",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jonny Quest",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Josie  The Pussycats",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Josie And The Pussycats In Outer Space",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Knight Rider",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "LA Law",
+      "numberOfWords": 2,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Laverne And Shirley",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Laverne Defazio  Shirley Feeney",
+      "numberOfWords": 4,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Leave It To Beaver",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Little House On The Prairie",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Lost In Space",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Love American Style",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Lucy  Ethel Working In A Candy Factory",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Lucy And Ethel Working In A Candy Factory",
+      "numberOfWords": 8,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Lucy Ricardo And Ethel Mertz",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Lurch Uncle Fester And Cousin Itt",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Magnum Pi",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Marcia Marcia Marcia",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Marcia Jan And Cindy Brady",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Marion Cunningham",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Marla Gibbs As Florence Johnston",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Married With Children",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Mayberry RFD",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Mchales Navy",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Memorable Episodes Of The Twilight Zone",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Miami Vice",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Mike  Carol Brady",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Millionaire Thurston Howell The Third",
+      "numberOfWords": 5,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Miss Jane Hathaway  Milburn Drysdale",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Miss Kitty And Festus",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Mission Impossible",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Mister Ed",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Mister Rogers Neighborhood",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Mork  Mindy",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Mr Tudball  Mrs Wiggins",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Murder She Wrote",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Murphy Brown",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "My Favorite Martian",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "My Three Sons",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Night Court",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Northern Exposure",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "One Day At A Time",
+      "numberOfWords": 5,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Parker Lewis Cant Lose",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Parker Lewis Cant Lose",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Password",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Peanuts Holiday Specials",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Pebbles  BamBam",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Pee Wees Playhouse",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "PeeWees Playhouse",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Petticoat Junction",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Pugsley And Wednesday Addams",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Punky Brewster",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Ralph  Alice Kramden",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Raymond Burr Stars In Ironside",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Redd Foxx  Demond Wilson",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Rhoda Morgenstern",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Ricardo Montalban As Mr Roarke",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Richie  The Fonz",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Rob  Laura Petrie",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Robin Williams As Mork From Ork",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Ron Howard As Opie Taylor",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ron Howard As Opie Tayor",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Roseanne John Goodman  Laurie Metcalf",
+      "numberOfWords": 5,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Roseanne John Goodman And Laurie Metcalf",
+      "numberOfWords": 6,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Rowan  Martins LaughIn",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Sale Of The Century",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Sally Fields As Gidgit",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Scott Baio As Chachi",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Seinfeld",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Shirley Booth As Hazel",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Shirley Booth Stars In Hazel",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Shirley Jones As Shirley Partridge",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Shirley Partridge",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Simon  Simon",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Soul Train",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Square Pegs",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Star Trek",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Star Trek The Next Generation",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Starksky  Hutch",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Starsky  Hutch",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Ted Baxter  Sue Ann Nivens",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ted Danson As Sam Malone",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Thanks",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "The Addams Family",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Andy Griffith Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The ATeam",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "The Beverly Hillbillies",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Big Valley",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Bionic Woman",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Bob Newhart Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Brady Bunch",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Carol Burnett Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Colbert Report",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Cosby Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Donna Reed Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Dukes Of Hazzard",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Facts Of Life",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The First Prime Time Animated Series",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "The Flintstones",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Flying Nun",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Golden Girls",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Gong Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Honeymooners",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Jamie Foxx Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Jeffersons",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Jetsons",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Love Boat",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Lucy Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Man From UNCLE",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Mary Tyler Moore Show",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Monkees",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Munsters",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Muppet Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Odd Couple",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Partridge Family",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Perils Of Penelope Pitstop",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "The Real Ghostbusters",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Rockford Files",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Sonny And Cher Comedy Hour",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Sunshine State",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Three Stooges",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Waltons",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Wild Wild West",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Wonder Years",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Wonderful World Of Disney",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Youngest One In Curls",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Their House Is A Museum",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "This Is Your Life",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Threes Company",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Tony Randall As Felix Unger",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Trapper John MD",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Vicki Lawrence Stars In Mamas Family",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Vivian Vance As Ethel Mertz",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Wagon Train",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Welcome To Fantasy Island",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Where Everybody Knows Your Name",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Whos The Boss",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "You Bet Your Life Hosted By Groucho Marx",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Your Show Of Shows",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    }
+  ]
+}

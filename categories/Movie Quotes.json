@@ -1,0 +1,65 @@
+{
+  "name": "Movie Quotes",
+  "answers": [
+    {
+      "answer": "After All Tomorrow Is Another Day",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Bye Felicia",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Frankly My Dear I Dont Give A Damn",
+      "numberOfWords": 8,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Go Ahead Make My Day",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Heres Looking At You Kid",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "How Do You Like Them Apples",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Drink Your Milkshake",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Ill Be Back",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Ill Get You My Pretty And Your Little Dog Too",
+      "numberOfWords": 10,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "If You Build It He Will Come",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Its Showtime",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Lion And Tigers And Bears Oh My",
+      "numberOfWords": 7,
+      "numberOfLetters": 25
+    }
+  ]
+}

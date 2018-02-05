@@ -1,0 +1,30 @@
+{
+  "name": "The 60s",
+  "answers": [
+    {
+      "answer": "Lyndon Johnson ReElected As President",
+      "numberOfWords": 5,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Medicare Provides Aid To The Elderly",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "National Organization For Women Founded",
+      "numberOfWords": 5,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Soviets Erect Berlin Wall",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Thousands Attend Concert At Woodstock",
+      "numberOfWords": 5,
+      "numberOfLetters": 33
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "name": "The 90s",
+  "answers": [
+    {
+      "answer": "Ace Ventura",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Air Jordan Sneakers",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "American Beauty",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "American Pie",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Aol Messenger",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Are You Afraid Of The Dark",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Austin Powers",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Backstreet Boys",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Beanie Babies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Beavis  Butthead",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Beepers",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Best Friend Necklaces",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Bevis  Butthead Beavis",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Bill Nye The Science Guy",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Billy Madison",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Blues Traveler",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Boom Boxes",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Bowl Haircut",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Britney Spears",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Budweiser Wassup Commerical",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Butterfly Clips",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cabbage Patch Kida",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Celine Dion",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Chris Farley",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Clarissa",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Claw Hammer",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Danielle Steel",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Destinys Child",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Die Hard",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Expensive Thermostat Setting",
+      "numberOfWords": 3,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Facts And Figures",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Forrest Gump",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Freaks  Geeks",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Fred Durst",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Fresh Prince Of Bel Air",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Frosted Tips",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Full House",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Fun Dip",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Goosebumps",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Green Day",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "GShock Watches",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Guns  Roses",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Happy Gilmore",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Hey Arnold",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Home Alone",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Homer Simpson",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "In Living Color",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Jerry Maguire",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Jerry Rice",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Jim Kelly",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Joe Montana",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Joey Lawrence",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "John Grisham",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jose Canseco",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jurassic Park",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Kelly Kapowski",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Kid Pix",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Kriss Kross",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Kurt Cobain",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Lamb Chops Play Along",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Lip Smackers",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Lite Brite",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Macaulay Culkin",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Mad Tv",
+      "numberOfWords": 2,
+      "numberOfLetters": 5
+    },
+    {
+      "answer": "Magic School Bus",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Mary Kate  Ashley Olsen",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Mcdonalds Pizza",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Metal Gear Solid",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Michael Crichton",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Michael Jordan",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Mickey Mouse Club",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Montell Jordan",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Moo",
+      "numberOfWords": 1,
+      "numberOfLetters": 3
+    },
+    {
+      "answer": "Mood Rings",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Moon Shoes",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "News Helicopter",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Nintendo Gameboy",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Operation",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Ouija Board",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Parasuco Jeans",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Pauley Shor",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Pauly Shore",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Power Rangers",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Pulp Fiction",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Queen Latifa",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Red Hot Chili Peppers",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Reebok Pump",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Reggie Miller",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Reservoir Dogs",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Saved By The Bell",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Schindlers List",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Scrunchies",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Sega Dreamcast",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Sega Game Gear",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sega Genesis",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Seinfeld",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Silly Putty",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Six Degrees Of Separation",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Sketchers",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Slap Bracelets",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Sony Playstation",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "South Park",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Space Jam",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Spice Girls",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Spiralgrap H",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Starter Jackets",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Stephen King",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Steve Urkel",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Super Nintendo",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Super Soakers",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sweet Valley High",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Tamagotchi",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Tattoo Chokers",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Terminator Two",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "The Golden Girls",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Lion King",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Macarena",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Mickey Mouse Club",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Mighty Ducks",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "The Shawshank Redemption",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Simpsons",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Smashing Pumpkins",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The XFiles",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Theres Something About Mary",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Tickle Me Elmo",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Tom Cruise",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Tomb Raider",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Troy Aikman",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Uncle Jesse",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Wayne Gretzky",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Waynes World",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Wheres Waldo",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "WroughtIron Gates",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Xena Warrior Princess",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "XFiles",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Zack Morris",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    }
+  ]
+}

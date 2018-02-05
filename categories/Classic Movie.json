@@ -1,0 +1,405 @@
+{
+  "name": "Classic Movie",
+  "answers": [
+    {
+      "answer": "A Streetcar Named Desire",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "All About Eve",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "All The Presidents Men",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "American Beauty",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "An American Werewolf In London",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Beach Blanket Bingo",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Book Fair",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Bride Of Frankenstein",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Bull Durham",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Butch Cassidy And The Sundance Kid",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Caddyshack",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Citizen Kane",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Close Encounters Of The Third Kind",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Cool Hand Luke",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Damn Yankees",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Days Of Thunder",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Designing Women",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Doctor Zhivago",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Easy Rider",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Family Matters",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Fellinis Casanova",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Field Of Dreams",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Freaky Friday",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Funny Girl",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Gentlemen Prefer Blondes",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Ghostbusters",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Gone With The Wind",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Gregory Peck Stars In The Big Country",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "High Noon",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "It Happened One Night",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "James Garner Stars In Maverick",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jaws",
+      "numberOfWords": 1,
+      "numberOfLetters": 4
+    },
+    {
+      "answer": "Midnight Cowboy",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Mr Smith Goes To Washington",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Murder She Wrote",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Oliver",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "On The Waterfront",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "One Flew Over The Cuckoos Nest",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Ordinary People",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Postcards From The Edge",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Ralph Alice Kramden",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Rooster Cogburn",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Running Barefoot In The Backyard",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Some Come Running",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Some Like It Hot",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Stan Laurel  Oliver Hardy",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Star Wars",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Sunset Boulevard",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The African Queen",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Alligator People",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Apple Dumpling Gang",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Big Chill",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Breakfast Club",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Empire Strikes Back",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Exorcist",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Godfather",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Good The Bad And The Ugly",
+      "numberOfWords": 7,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "The Graduate",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Greatest Show On Earth",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Incredible Shrinking Man",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Invisible Man",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Long Voyage Home",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Lucy Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Man Who Knew Too Much",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Man Who Shot Liberty Valance",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "The Phantom Of The Opera",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Philadelphia Story",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Presidents Lady",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Rocky Horror Picture Show",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Seven Year Itch",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "The Shining",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The War Of The Worlds",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Three Coins In The Fountain",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "To Catch A Thief",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "To Sir With Love",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Urban Cowboy",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Viva Las Vegas",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Willy Wonka And The Chocolate Factory",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Young Frankenstein",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Zorba The Greek",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    }
+  ]
+}

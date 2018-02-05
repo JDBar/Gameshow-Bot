@@ -1,0 +1,760 @@
+{
+  "name": "Quotation",
+  "answers": [
+    {
+      "answer": "A Good Deed Is Never Lost",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "A Martini Shaken Not Stirred",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "A Martini Shaken Not Stirred",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "A Party Without Cake Is Just A Meeting",
+      "numberOfWords": 8,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "A Pocket Full Of Rye",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "A Pocketful Of Posies",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "A Ship Does Not Sail With Yesterdays Wind",
+      "numberOfWords": 8,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "A True Man Hates No One",
+      "numberOfWords": 6,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "All Roads Lead To Rome",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "All The Worlds A Stage",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Along Came A Spider",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Along Came A Spider Who Sat Down Beside Her",
+      "numberOfWords": 9,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "An Ounce Of Prevention Is Worth A Pound Of Cure",
+      "numberOfWords": 10,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "And A Merry Old Soul Was He",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "And Jill Came Tumbling After",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "And The Dish Ran Away With The Spoon",
+      "numberOfWords": 8,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "And They Lived Happily Ever After",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "And To The Republic For Which It Stands",
+      "numberOfWords": 8,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Ashes To Ashes Dust To Dust",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Ask Not What Your Country Can Do For You",
+      "numberOfWords": 9,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "ATisket ATasket",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Be It Ever So Humble",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Clothes Make The Man",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Come Out Come Out Wherever You Are",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Did You Make Your Bed",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Dont Mess With Texas",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Double Double Toil And Trouble",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "ET Phone Home",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Fee Fi Fo Fum",
+      "numberOfWords": 4,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Fee Fo Fum",
+      "numberOfWords": 3,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "FeeFi FoFum",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "FeeFiFoFum",
+      "numberOfWords": 1,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Follow The Yellow Brick Road",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Go Ahead Make My Day",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Good Grief",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Good Night And Good Luck",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Great In Whose Opinion",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Halt Who Goes There",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hasta La Vista Baby",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Healthy Wealthy And Wise",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Heres Looking At You Kid",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Hey Diddle Diddle",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "HiHo Silver Away",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "HistoricalFiction Writer",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Houston We Have A Problem",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Houston Weve Had A Problem",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Humpty Dumpty Sat On A Wall",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "I Coulda Been A Contender",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "I Drink Your Milkshake",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "I Have A Dream",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "I Want My Mtv",
+      "numberOfWords": 4,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "I Want To Be Alone",
+      "numberOfWords": 5,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Ill Be Back",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Ill Get You My Pretty And Your Little Dog Too",
+      "numberOfWords": 10,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "Ill Have What Shes Having",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "IM The King Of The World",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "IM The King Of The World",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "In Order To Form A More Perfect Union",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "In Sickness And In Health",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Insure Domestic Tranquility",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "It Was The Best Of Times",
+      "numberOfWords": 6,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "It Was The Worst Of Times",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Its A Bird Its A Plane Its Superman",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Its Raining Its Pouring",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Its Showtime",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jack And Jill Went Up The Hill",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Jack Be Nimble Jack Be Quick",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jack Be Quick",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jack Jump Over The Candle Stick",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jack Jump Over The Candlestick",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jude Law  Order",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Lay On Mcduff",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Life Liberty And The Pursuit Of Happiness",
+      "numberOfWords": 7,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Lions And Tigers And Bears Oh My",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Live Long And Prosper",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Long Live The Irish",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Love Conquers All",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Lunch Bunch",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Made It Ma Top Of The World",
+      "numberOfWords": 7,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Make America Great Again By Donald Trump",
+      "numberOfWords": 7,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Mary Had A Little Lamb",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "May Good Luck Be Your Friend",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "May The Force Be With You",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "May The Road Rise Up To Meet You",
+      "numberOfWords": 8,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "May The Sun Shine Warm Upon Your Face",
+      "numberOfWords": 8,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "May The Wind Always Be At Your Back",
+      "numberOfWords": 8,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Mirror Mirror On The Wall",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Mr Demille IM Ready For My CloseUp",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "No Wire Hangers Ever",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Now I Lay Me Down To Sleep",
+      "numberOfWords": 7,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Now Is The Winter Of Our Discontent",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Oh What A Tangled Web We Weave",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Old Mother Hubbard Went To The Cupboard",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Once Upon A Time",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Only You Can Prevent Forest Fires",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Out Of The Mouths Of Babes",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "PattyCake PattyCake Bakers Man",
+      "numberOfWords": 4,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Polly Put The Kettle On",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Quoth The Raven Nevermore",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Rapunzel Rapunzel Let Down Your Hair",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Remember The Alamo",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Rosebud",
+      "numberOfWords": 1,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Scotty Beam Me Up",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "She Gave Them Some Broth Without Any Bread",
+      "numberOfWords": 8,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "She Sells Seashells By The Seashore",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Show Me The Money",
+      "numberOfWords": 4,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Simple Simon Met A Pieman",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Snap Out Of It",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "The Better Part Of Valour Is Discretion",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "The Course Of True Love Never Did Run Smooth",
+      "numberOfWords": 9,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "The Only Thing We Have To Fear Is Fear Itself",
+      "numberOfWords": 10,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "The Stuff That Dreams Are Made Of",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "The Way To Have Power Is To Take It",
+      "numberOfWords": 9,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "There Came A Big Spider",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "There She Blows",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "There Was An Old Woman Who Lived In A Shoe",
+      "numberOfWords": 10,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Theres No Place Like Home",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "ThereS No Place Like Home",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "These Are The Times That Try Mens Souls",
+      "numberOfWords": 8,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "They Call Me Mister Tibbs",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "They Call Me Mr Tibbs",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Theyre Back",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Theyre Here",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Things That Go Bump In The Night",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "This Little Piggy Went To Market",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "This Porridge Is Too Hot",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Times Winged Chariot",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Tis The Season",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "To Boldly Go Where No Man Has Gone Before",
+      "numberOfWords": 9,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "To Each His Own",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "To Explore Strange New Worlds",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "To Fetch Her Poor Dog A Bone",
+      "numberOfWords": 7,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "To Infinity And Beyond",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "To The Victor Belongs The Spoils",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Tom Tom The Pipers Son",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Top Hat  Cane",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Use The Force Luke",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "We Didnt Lose The Game We Just Ran Out Of Time",
+      "numberOfWords": 11,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "We Find The Defendant Not Guilty",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "We Rob Banks",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "We The People Of The United States",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Well Always Have Paris",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "What A Tangled Web We Weave",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "What Light Through Yonder Window Breaks",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "When The Black Sheep Gets The Blues",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Yo Adrian",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "You Cant Handle The Truth",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "You Cant Handle The Truth",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "You Talkin To Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "You Talkin To Me",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Youre Gonna Need A Bigger Boat",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    }
+  ]
+}

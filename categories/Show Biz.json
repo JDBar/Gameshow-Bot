@@ -1,0 +1,4035 @@
+{
+  "name": "Show Biz",
+  "answers": [
+    {
+      "answer": "A Movie The Entire Family Can See",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "A Sight Gag",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Abbott  Costello Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Academy Award Nomination",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Academy Award Nominee",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Academy Awards",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Acting Lessons",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Action Packed Drama",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "ActionAdventure Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "ActionAdventure Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "ActionPacked Drama",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "ActionPacked Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Aisha Tyler Stars In Archer",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Al Pacino Stars In Dog Day Afternoon",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Al Pacino Stars In Scarface",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Al Pacino Stars In The Godfather",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Al Pacino Stars In The Recruit",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Albert Brooks Stars In The Scout",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Alfred Hitchcocks Psycho",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Alpine New Wave",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Amazing Impressionists",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Amazing Show",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Amazing Sound Effects",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "American Idol Judges",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Amy Poehler Stars In Sisters",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "And The Award Goes To",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Animated Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Animated Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Animated Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Anna Kendrick Stars In Pitch Perfect",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Anne Bancroft Stars In The Graduate",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Anne Hathaway Stars In The Devil Wears Prada",
+      "numberOfWords": 8,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Anthony Hopkins Stars In Westworld",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Aspiring Comedians",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Audience Participation Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "AudienceParticipation Show",
+      "numberOfWords": 2,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Audition",
+      "numberOfWords": 1,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Auditioning For A Movie Part",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Audrey Hepburn Stars In Funny Face",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Audrey Hepburn Stars In My Fair Lady",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Audrey Hepburn Stars In Roman Holiday",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Audrey Hepburn Stars In Romance Holiday",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Available On Vhs And Dvd",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Award Winning Movie",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "AwardWinning Filmmaker",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "AwardWinning Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "AwardWinning Screenplay",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Awesome Movie Trailer",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Back To Manhattan By Norah Jones",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Backup Dancers",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Banjo Player",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Beach Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Beloved Game Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Best Movie Of The Year",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Best Picture Oscar",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Best Revival Of A Play",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Best Selling Album",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "BestActor Acceptance Speech",
+      "numberOfWords": 3,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "BestActress Acceptance Speech",
+      "numberOfWords": 3,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "BestDressed List",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "BestDressed Stars",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "BestPicture Winner",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Bette Davis Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Big Theater Production",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Big Theatre Production",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "BigBudget Blockbuster",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "BigScreen Debut",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Bill Murray In Stripes",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Bill Murray Stars In Stripes",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Bill Murray Stars In Tootsie",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Black And White Series",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "BlackAndWhite Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Blockbuster",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Bob Hope  Bing Crosby Road Pictures",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Bollywood",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Bollywood Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "BoxOffice Blockbuster",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "BoxOffice Smash",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "BoxOffice Smash Hit",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Boy Bands",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Brad Pitt Stars In Fury",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Brad Pitt Stars In Spy Game",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Bravo Bravo",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Break A Leg",
+      "numberOfWords": 3,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Breakout Role",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Breakthrough Role",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Brittany Snow Stars In Pitch Perfect",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Broadway Debut",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Broadway Musical",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Broadway Musicals",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Broadway Play",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Broadway Revivals",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Broadway Sensation",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Bruce Dern Stars In Nebraska",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Bruce Dern Stars In The Driver",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Bruce Lee Stars In Enter The Dragon",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Bruce Willis Stars In Die Hard",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Bruce Willis Stars In Looper",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Bruce Willis Stars In The Fifth Element",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Bruce Wills Stars In Die Hard",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Bucket Of Candy Corn",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Bud Abbott  Lou Costello",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Buster Keaton Stars In The General",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Cameo Appearance",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Camera Slate",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Cameras Rolling",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Canned Laughter",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Cary Grant Stars In North By Northeast",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Cary Grant Stars In North By Northwest",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Casting Director",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Catchy Calypso Beat",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Cate Blanchett Stars In Blue Jasmine",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Celebrities",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Celebrity Biography",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Celebrity Cameo",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Celebrity Cast",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Celebrity Magazines",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Celebrity News",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Celebrity Photo Shoot",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Celebrity Sightings",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Celebrity Style",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Celebrity Trainer",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Charlie Chaplin Stars In Modern Times",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Charlie Chaplin Stars In The Kid",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Charlton Heston Stars In BenHur",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Cher Stars In Mask",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Cher Stars In Moonstruck",
+      "numberOfWords": 4,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Chevy Chase Stars In Caddyshack",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Chi Mcbride Stars In Boston Public",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Chicken Scratch My Back",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Child Stars",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Childrens Programming",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Childrens Programs",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Childrens Puppet Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Choreographer",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Christopher Walken Stars In The Deer Hunter",
+      "numberOfWords": 7,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Circus Acts",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Classic Adventure Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Classic Comedy Routine Whos On First",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Classic Comedy Routines",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Classic Comedy Routines Whos On First",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Classic Horror Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Classic Looney Tunes Cartoons",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Classic Situation Comedies",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "ClassicRock Songs",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Clive Owen Stars In The International",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "CoExecutive Producer",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Colin Farrell Stars In Miami Vice",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Comedians  Actors",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Comedians  Composers",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Comedic Actor",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Comedic Impersonator",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Comedic Legend",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Comedic Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Comedic Tragedy",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Comedy Duo",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Comedy Festival",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Comedy Of Manners",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Comedy Routine",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Comedy Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Comedy Shows",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Comic CarChase Scene",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Comic Pratfall",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Command Performance",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Costume Designer",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Country Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Country Music Artist",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Country Music Awards Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Country Music Idol",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Country Rock",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Country Singer",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "CountryMusic Idol",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Cover Band",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Crime Drama",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Critically Acclaimed Shows",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Critically Acclaimed Stage Play",
+      "numberOfWords": 4,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Current Tv Season",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Curtain Call",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Dallas",
+      "numberOfWords": 1,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Daniel Craig Stars In Skyfall",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Daniel Craig Stars In Spectre",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Daytime Dramas",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Daytime Television",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Debut Album",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Debut Albums",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Debut Solo Album",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Dectective Dramas",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dennis Hopper Stars In Easy Rider",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Dennis Quaid Stars In The Rookie",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Denzel Washington Stars In Deja Vu",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Denzel Washington Stars In Glory",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Detective Dramas",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Diane Lane Stars In Must Love Dogs",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Digital Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Digitally Remastered",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Dingo Starr Stars In Caveman",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Dinner Theater",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Dinner Theatre",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Directing A Play",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Director  Actress",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Director Of Photography",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Directors  Producers",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Directors Cut",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Dominic West Stars In The Wire",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Don Knotts Stars In Love God",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Don Knotts Stars In The Love God",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Don Knotts Stars In The Love God",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Donald Pleasance Stars In Halloween",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Donald Pleasence Stars In Halloween",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Donna Reed Stars In From Here To Eternity",
+      "numberOfWords": 8,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Dramas Comedies  Musicals",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Dramatic Actress",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "DramaticMovie Actress",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Dream Sequence",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Dress Rehearsal",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Drew Carey Hosts The Price Is Right",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Dustin Hoffman Stars In Rain Man",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Dustin Hoffman Stars In Tootsie",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Dvd Bonus Features",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dwayne Johnson Stars In Tooth Fairy",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Ed Harris Stars In Westworld",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Educational Television",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Effective Movie Background Music",
+      "numberOfWords": 4,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Elijah Wood Stars In Flipper",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Elizabeth Taylor Stars In Cleopatra",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Elvis Presley  AnnMargret",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Elvis Presley And Ann Margret",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Elvis Presley Stars In Jailhouse Rock",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Emerging Talent",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Emmy Acceptance Speech",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Emmy Awards",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "EmmyWinning Actors  Actresses",
+      "numberOfWords": 3,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Encore Encore",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Entertaining Mimes",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Entertainment Industry",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Ethan Hawke Stars In Gattaca",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Eva Longoria Stars In Desperate Housewives",
+      "numberOfWords": 6,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Evita Cats  The Phantom Of The Opera",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "EyePopping Movie Preview",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Fall Premiere",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Fall Television Schedule",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "FamilyFriendly Films",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Famous Actor",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Famous Actress",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Famous Actresses",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Famous Illusionist",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Famous Matinee Idol",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Famous Model",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Famous Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Famous Musical Stars",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Famous Singer",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "FanFavorite Television Series Episodes",
+      "numberOfWords": 4,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Fantastic Filmmaking",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Fashion Documentary",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Faye Dunaway Stars In Chinatown",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "FeelGood Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Film Screenings",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Film Sequel",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Film Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Filmmaking Genius",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Final Destination Sequels",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "First James Bond Movie",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "FiveMinute WarmUp",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Food Documentaries",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Friday The Thirteenth Sequels",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Funny Commercials",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Funny Opening Line",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Futuristic Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Gaffes  Bloopers",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Game Shows",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Geena Davis Stars In Beetlejuice",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Gene Hackman Stars In The French Connection",
+      "numberOfWords": 7,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Gene Hackman Stars In Unforgiven",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Gene Kelly Stars In An American In Paris",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Geoffrey Rush Stars In The Kings Speech",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Geoffrey Stars In The Kings Speech",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "George A Romeros Night Of The Living Dead",
+      "numberOfWords": 8,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "George C Scott Stars In Patton",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "George Clooney Stars In The Descendants",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "George Clooney Stars In The Perfect Storm",
+      "numberOfWords": 7,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Glamorous Celebrities",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Golden Age Of Hollywood",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Golden Globe Winners",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Grammy Winners",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Great Jazz Composer",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Great Jazz Composers",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Great Performance",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Gregory Peck Stars In The Omen",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Gregory Peck Stars In To Kill A Mockingbird",
+      "numberOfWords": 8,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "Guy Pearce Stars In Memento",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Halle Berry Stars In Perfect Stranger",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Hans  Franz Here To Pump You Up",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Harrison Ford Stars In Blade Runner",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Harrison Ford Stars In Raiders Of The Lost Ark",
+      "numberOfWords": 9,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "Harrison Ford Stars In Witness",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Harry Potter Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Hbo Special",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Headliner Comedians",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Helen Hunt Stars In Twister",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Henry Cavill Stars In Man Of Steel",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "HighDefinition Broadcast",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "HipHop Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Historical Documentary",
+      "numberOfWords": 2,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Hit Television Series Glee",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Hit Television Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Holly Hunter Stars In Broadcast News",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Holly Hunter Stars In Saving Grace",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Hollywood Gossip",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Hollywood Power Agent",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Hollywood Royalty",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Hollywood Scandals",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Hollywood Stuntman",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Hollywoods Golden Age",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Horror Classics",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Horror Film Director Wes Craven",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "HorrorFilm Legend Boris Karloff",
+      "numberOfWords": 4,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Hugh Jackman Stars In The Wolverine",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Humphrey Bogart Stars In Casablanca",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Humphrey Bogart Stars In The Maltese Falcon",
+      "numberOfWords": 7,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Iconic Bond Girls",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Independent Film",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Independent Films",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "IndieRock Band",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "InFlight Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "International Music Tour",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Jack Lemmon Stars In The Apartment",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Jack Lemmon Stars In The Front Page",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Jack Nicholson Stars In Chinatown",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Jack Nicholson Stars In The Shining",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "James Cameron Directs The Terminator",
+      "numberOfWords": 5,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "James Dean Stars In East Of Eden",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "James Dean Stars In Giant",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "James Dean Stars In Rebel Without A Cause",
+      "numberOfWords": 8,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Jamie Lee Curtis Stars In Halloween",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Janet Leigh Stars In Psycho",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jason Bateman Stars In Arreseted Development",
+      "numberOfWords": 6,
+      "numberOfLetters": 39
+    },
+    {
+      "answer": "Jason Bateman Stars In Arrested Development",
+      "numberOfWords": 6,
+      "numberOfLetters": 38
+    },
+    {
+      "answer": "Jason Schwartzman Stars In Rushmore",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Jason Statham Stars In Death Race",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Jaws Sequels",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Jazz  Ragtime Music",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "JazzRock Fusion",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Jeff Goldblum Stars In The Fly",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Jennifer Aniston Stars In Friends",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Jennifer Aniston Stars In Mothers Day",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Jennifer Aniston Stars In Rumor Has It",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Jeopardy Debuts On Nbc",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Jeopardy Debuts On Nbc",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Jessica Chastain Stars In Zero Dark Thirty",
+      "numberOfWords": 7,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "Jessica Lange Stars In Blue Sky",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Jim Carrey Stars In The Mask",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Jodie Foster Stars In Taxi Driver",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "John  Lionel Barrymore",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "John Belushi Stars In Animal House",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "John Cusack Stars In High Fidelity",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "John Paul Ringo  George",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "John Wayne Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "John Wayne Stars In True Grit",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Johnny Carson Hosts The Tonight Show",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Johnny Depp As Captain Jack Sparrow",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Jon Favreau Stars In Chef",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Julia Roberts In Erin Brackovich",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Julia Roberts Stars In Eat Pray Love",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Julia Roberts Stars In Erin Brockovich",
+      "numberOfWords": 6,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Kabuki Theater",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Kabuki Theatre",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Kate Hudson Stars In Almost Famous",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Kathy Bates Stars In Misery",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Katie Holmes Stars In Batman Begins",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Keanu Reeve Stars In Hardball",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Keanu Reeves Stars In Hardball",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Kelsey Grammer Stars In Boss",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Keri Russell Stars In Austenland",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Keri Russell Stars In The Americans",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Kevin Costner Stars In Bull Durham",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Kevin Costner Stars In Criminal",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Kevin Costner Stars In Dances With Wolves",
+      "numberOfWords": 7,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Kevin Costner Stars In Field Of Dreams",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Kevin Costner Stars In Waterworld",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Kickoff To The Summer Movie Season",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Kirk Douglas Stars In Spartacus",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Lady Gaga Sings The National Anthem",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Landing A Job In Big Apple",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Landing The Lead Role",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Larry David As Bernie Sanders",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Las Vegas Stage Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "LateNight Television",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Laurel  Hardy Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Lauren Bacall Stars In Key Largo",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Lea Michele Stars In Glee",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Lea Michelle Stars In Glee",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Lead Actor And Actress",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Lead Singer",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Lead Vocals",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Leading Actors  Actresses",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Leading Lady",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Leading Man",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Legendary Comediennes",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Legendary Director James Burrows",
+      "numberOfWords": 4,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Legendary Musical Artists",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Legendary Musician",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Leonardo Dicaprio Stars In Body Of Lies",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Leonardo Dicaprio Stars In Titanic",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Les Miserables Opens On Broadway",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Lets Take It From The Top",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Life Theater",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Lights Camera Action",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Linda Blair Stars In The Exorcist",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Live Broadcast",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Live Theater",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "LiveAction Disney Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Lively Entertainment",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Liza Minnelli Stars In Cabaret",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Local Theater Scene",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Location Scout",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Long Running Daytime Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Long Running Musical",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "LongRunning Daytime Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "LongRunning Musical",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "LongRunning Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "LongRunning Successful Television Series",
+      "numberOfWords": 4,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Looney Tunes And Merrie Melodies",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Loud Live Music",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Lounge Acts",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Lovely Bond Girls",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Lucille Ball Stars In Mame",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Lucille Ball Stars In Mane",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "MadeForTv Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "MadeForTvMovie",
+      "numberOfWords": 1,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Madonna Stars In A League Of Their Own",
+      "numberOfWords": 8,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Magical Comedy Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Marilyn Monroe Doctrine",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Mark Wahlberg Stars In Ted",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Mark Wahlberg Stars In The Fighter",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Marlon Brando Stars In Last Tango In Paris",
+      "numberOfWords": 8,
+      "numberOfLetters": 35
+    },
+    {
+      "answer": "Matt Damon Stars In Good Will Hunting",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Matt Groening Creates The Simpsons",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Media Blitz",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Media Hype",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Mel Blanc Voices Bugs Bunny  Daffy Duck",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Mel Brooks Directs Blazing Saddles",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Melodic Voice",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Memorable Episodes Of The Twilight Zone",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Memorable Television Specials",
+      "numberOfWords": 3,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Memorable Variety Series",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Meryl Streep Stars In The Devil Wears Prada",
+      "numberOfWords": 8,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "Michael Caine Stars In The Ipcress File",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Michael Keaton Stars In Batman",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Mixed Reviews",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Molly Ringwald Stars In Sixteen Candles",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Motown Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Movie Clapperboard",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Movie Clips",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Movie Couples",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Movie Director",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Movie Previews",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Movie Reviews",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Movie Screening",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Movie Script",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Movie Soundtrack",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Movie Trailer",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Movie Version Of A Broadway Musical",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Movies Early Release",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "MultiTalented Performer",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Muppet Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Music Mogul",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Music Photographer",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Music Supervisor",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Musical Guest",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Musical Icons",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Musical Performances",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Musical Theatre",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "My Best Role Yet",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Mystery Dinner Theater",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "National Public Radio",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Netflix Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Network Programming",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "NeverBefore Seen Footage",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "New Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "New Show",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "New Shows",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "New Years Celebration Films",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "New Years Celebraton Film",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Nicolas Cage Stars In Drive Angry",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Nightclub Act",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Nightmare Sequence",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Not Found",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Novel Idea",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Now Playing At A Theater Near You",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "NumberOne Hits",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Old BlackAndWhite Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Old Hollywood",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Oliva NewtonJohn Stars In Grease",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Olivia NewtonJohn Stars In Grease",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "One Direction Concert",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "OneAct Play",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Onscreen Chemistry",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Onscreen Style",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Open Audition",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Open Casting Call",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Opening Act In Las Vegas",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Opening Credits",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Opening Night Jitters",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Opening Scene",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Orange Butter",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Original Screenplay",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Original Scripted Series",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Orson Welles Stars In Citizen Kane",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Orson Welles Stars In The Third Man",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Oscar Parties",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Oscar Winner",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "OscarWinning Musical Score",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Outstanding Makeup  Special Effects",
+      "numberOfWords": 4,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Outtakes And Bloopers",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Patrick Swayze Stars In Red Dawn",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Paul Newman  Robert Redford Star In The Sting",
+      "numberOfWords": 8,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Paul Newman Stars In Exodus",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Performing Arts Theater",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Performing Arts Theatre",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Performing In A Play",
+      "numberOfWords": 4,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Peter Finch Stars In Network",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Peter Fonda Stars In Easr Rider",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Peter Fonda Stars In Easy Rider",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Peter Otoole Stars In Lawrence Of Arabia",
+      "numberOfWords": 7,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Peter Otoole Stars In My Favorite Year",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Peter Otoole Stars In My Favourite Year",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Phoebe Cates Stars In Gremlins",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Platinum Records",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing An Encore",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Playing The Romantic Lead",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Police Drama",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Political Shows",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Pop  Soft Rock",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Pop Icon",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Pop Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Pop Music Superstar",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Pop Singers",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Pop Star",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Pop Stars",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Popular Boy Bands",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Popular Cooking Shows",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Post Production Executive",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "PostProduction Executive",
+      "numberOfWords": 2,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Premiere Performance",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Press Junket",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Prestigious Film Festival",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Prime Time Emmy Awards",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "PrimeTime Schedule",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Prince Stars In Purple Rain",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Private Screening",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Producers Directors  Actors",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "PulsePounding Drama",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Puppet Show",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Puppet Theater",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Quiet On The Set",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Radio Jingle",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Radio Show",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Ralph Macchio Stars In The Karate Kid",
+      "numberOfWords": 7,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Rambo Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Rave Review",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Ready For The Red Carpet",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Reality Shows",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Record Contract",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Record Deal",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Recording A Live Album",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Recurring Character",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Regional Theater",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Rembrant Square Dance",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Reunion Concert Tour",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Revealing Cast Interviews",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Rhythm  Blues",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Rhythm And Blues",
+      "numberOfWords": 3,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Rhythm Guitar",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Richard Donner Directs Superman",
+      "numberOfWords": 4,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Robert Altman Directs Mash",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Robert De Niro Stars In Casino",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Robert De Niro Stars In Raging Bull",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Robert De Niro Stars In Ronin",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Robert De Niro Stars In Taxi Driver",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Robert Downey Jr Stars In Iron Man",
+      "numberOfWords": 7,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Robert Pattinson Stars In Twilight",
+      "numberOfWords": 5,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Robert Redford Stars In The Natural",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Rock Group",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Rock Hudson And Doris Day Movies",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Rock Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Rock On Piano Rock",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "RockAndRoll Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Role Of A Lifetime",
+      "numberOfWords": 4,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Romantic Comedy",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Romantic Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Romantic Nights",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Ron Howard Stars In American Graffiti",
+      "numberOfWords": 6,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Running Gag",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Running Time Of The Movie",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Russell Crowe Stars In Gladiator",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Russell Snow Stars In Gladiators",
+      "numberOfWords": 5,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Sally Field Stars In Norma Rae",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Sam Neill Stars In Jurassic Park",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Sam Rockwell Stars In Moon",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Sam Shepard Stars In The Right Stuff",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Sandra Bullock Stars In Gravity",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Sandra Bullock Stars In Speed",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Sandra Bullock Stars In The Blind Side",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Saturday Morning Cartoons",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Saturday Night Live Comedy Sketch",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Saturday Night Live Comedy Sketches",
+      "numberOfWords": 5,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Scandinavian Music",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Scene Stealer",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "SceneStealer",
+      "numberOfWords": 1,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Science Fiction Movie",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "ScienceFiction Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "ScienceFiction Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "ScienceFiction Television Series",
+      "numberOfWords": 3,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "SciFi Movies With Cult Followings",
+      "numberOfWords": 5,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Screenwriters  Directors",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Screenwriters  Producers",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Screwball Comedies",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Screwball Comedy",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Screwball Madcap Chase Scene",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Sean Astin Stars In The Final Season",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Season Premiere",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Secret Superstar",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Sequels  Prequels",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Series Final Season",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Series Finale",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Series Premiere",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Sesame Street Premieres",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Seth Green Stars In Mars Needs Moms",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Sharon Stone Stars In Sphere",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Shirley Maclaine Stars In The Apartment",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Shooting On Location",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Shooting Script",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Short Films",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Show Biz",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Showcase Performance",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Showtime Special",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Sight Gag",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Sigourney Weaver Stars In Alien",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Silent Film",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Silent Films",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Silent Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Simon Baker Stars In The Mentalist",
+      "numberOfWords": 6,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Singing A Duet",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sissy Spacek Stars In Carrie",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Sketch Comedy",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Slapstick Comedies",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Slapstick Comedy",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Smooth Jazz",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "SoldOut Performance",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Solo Artist",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Sophia Loren Stars As Two Women",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Sophia Loren Stars In Two Women",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Sound Effects",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Sound Engineer",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Spaghetti Westerns",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Special Effects",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Special Guest Appearance",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Spectacular Mgm Musicals",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Spencer Tracy Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "SportsTalk Radio",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Standing Ovation",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Star Of Stage And Screen",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Star Of Stage Screen  Television",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Stars Is The Love God",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "StarStudded Affair",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "StarStudded Event",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "StarStudded Grammy Awards Show",
+      "numberOfWords": 4,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "StarStudded Guest List",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "StarStudded Movie Premiere",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Station Break",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Stellar Performance",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Steve Carell Stars In Date Night",
+      "numberOfWords": 6,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Steve Martin Stars In My Blue Heaven",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Steve Martin Stars In The Jerk",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Steven Seagal Stars In Above The Law",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Steven Seagal Stars On Above The Law",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Straight To  Dvd",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "StraightToDvd",
+      "numberOfWords": 1,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "StrainghtToDvd",
+      "numberOfWords": 1,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Streaming Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Street Performers",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Studio Recording",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Stunt Double",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Sugar Bowl",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Summer Blockbuster",
+      "numberOfWords": 2,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Summer Blockbusters",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Summer Movie Preview",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Sundance Film Festival",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Superstar Couples",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Supporting Cast",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Sylvester Stallone Stars In First Blood",
+      "numberOfWords": 6,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Syndicated Series",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Taking Center Stage",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Talented Actor",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Talented Cast Members",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Talented Cover Band",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Talented Cover Bands",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Talia Shire Stars In Rocky",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Technicolor",
+      "numberOfWords": 1,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Ted Knight Stars In Caddyshack",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Teen Comedies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Teen Heartthrob",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Teen Idol",
+      "numberOfWords": 2,
+      "numberOfLetters": 8
+    },
+    {
+      "answer": "Teen Idols",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Television Commercial",
+      "numberOfWords": 2,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Television Critic",
+      "numberOfWords": 2,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Television Director",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Television Networks Broadcast In Color",
+      "numberOfWords": 5,
+      "numberOfLetters": 34
+    },
+    {
+      "answer": "Television Show",
+      "numberOfWords": 2,
+      "numberOfLetters": 14
+    },
+    {
+      "answer": "Television Show Theme Song",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Television Sitcom Writers",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "TellAll Actor Memoirs",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Telluride Film Festival",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Thats A Wrap",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The American Music Awards",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Beatles On The Ed Sulllivan Show",
+      "numberOfWords": 7,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "The Bright Lights Of Broadway",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Cast Of The Movie",
+      "numberOfWords": 5,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The Final Curtain",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Future Of Entertainment",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Godzilla Franchise",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Golden Age Of Movies",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Grammy Awards",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Ladies Of The View",
+      "numberOfWords": 5,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The League",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "The Music Of Donna Summer",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Musical Chicago",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "The New Season Of Television",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Pink Panther Movies",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "The Rat Pack",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Rockettes",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Show Must Go On",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "The Shower Scene From Psycho",
+      "numberOfWords": 5,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "The Shower Scene In Psycho",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "The Simpsons Premier",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "The Simpsons Premiere",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Tony Award",
+      "numberOfWords": 3,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "The Tony Awards",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Theater Actors",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Theater Opera  Dance",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Theatrical Storytelling",
+      "numberOfWords": 2,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Tim Allen Stars In Galaxy Quest",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Tim Allen Stars In The Santa Clause",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Tina Fey Stars In Date Night",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tina Fey Stars In Whiskey Tango Foxtrot",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Tom Cruise Stars In Minority Report",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Tom Cruise Stars In The Firm",
+      "numberOfWords": 6,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tom Cruise Stars In Top Gun",
+      "numberOfWords": 6,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "TomAndJerry Cartoons",
+      "numberOfWords": 2,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Tommy By The Who",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Toni Collette Stars In The Sixth Sense",
+      "numberOfWords": 7,
+      "numberOfLetters": 32
+    },
+    {
+      "answer": "Tonights Show Was Brought To You By",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Tony Award For Best Musical",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tony Danza Stars In Taxi",
+      "numberOfWords": 5,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Top Ten Songs Of The Year",
+      "numberOfWords": 6,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "TopRated Syndicated Series",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Touring Broadway Shows",
+      "numberOfWords": 3,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Traditional Country Music",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Trapeze Act",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "Tv Detective",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Tv Host",
+      "numberOfWords": 2,
+      "numberOfLetters": 6
+    },
+    {
+      "answer": "Tv Judge",
+      "numberOfWords": 2,
+      "numberOfLetters": 7
+    },
+    {
+      "answer": "Tv Leading Lady",
+      "numberOfWords": 3,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Tv Spinoff",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Tv Talk Show",
+      "numberOfWords": 3,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "UpAnd Coming Reggae Singer",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "UpAndComing Reggae Singer",
+      "numberOfWords": 3,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Uptempo Jazz",
+      "numberOfWords": 2,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Val Kilmer Stars In Red Planet",
+      "numberOfWords": 6,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Val Kilmer Stars In The Saint",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Vampire Movie",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Venice Film Festival",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Vera Miles Stars In Psycho",
+      "numberOfWords": 5,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Vin Diesel Stars In Xxx",
+      "numberOfWords": 5,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Voice Over Artist",
+      "numberOfWords": 3,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "VoiceOver",
+      "numberOfWords": 1,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "VoiceOver Artist",
+      "numberOfWords": 2,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "VoiceOver Narration",
+      "numberOfWords": 2,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Wacky Sitcoms Neighbors",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Walking The Red Carpet",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Walt Disney Cartoons",
+      "numberOfWords": 3,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Warren Beatty Stars In Bonnie And Clyde",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "WellKnown Music Composer",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "What To Watch",
+      "numberOfWords": 3,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Wheel Of Fortune Puzzle",
+      "numberOfWords": 4,
+      "numberOfLetters": 20
+    },
+    {
+      "answer": "Who Wore It Best",
+      "numberOfWords": 4,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "Wholesome Family Entertainment",
+      "numberOfWords": 3,
+      "numberOfLetters": 28
+    },
+    {
+      "answer": "Will Smith Stars In Focus",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Will Smith Stars In Hitch",
+      "numberOfWords": 5,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Will Smith Stars In Independence Day",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Will Smith Stars In Men In Black",
+      "numberOfWords": 7,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "William H Macy Stars In Fargo",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "William Riker As Number One",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "William Wyler Directs BenHur",
+      "numberOfWords": 4,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Woody Allen Direct Annie Hall",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "Woody Allen Directs Annie Hall",
+      "numberOfWords": 5,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Woody Allen Movies",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "World Broadcast Premiere",
+      "numberOfWords": 3,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "World Famous Celebrity Couple",
+      "numberOfWords": 4,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "World Premiere",
+      "numberOfWords": 2,
+      "numberOfLetters": 13
+    },
+    {
+      "answer": "WorldFamous Celebrity Couple",
+      "numberOfWords": 3,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "Worldwide SmashHit Musical",
+      "numberOfWords": 3,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Writer Producer  Actress",
+      "numberOfWords": 3,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Written  Directed By",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Zombie Movies",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Zooey Deschanel Stars In New Girl",
+      "numberOfWords": 6,
+      "numberOfLetters": 28
+    }
+  ]
+}

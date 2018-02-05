@@ -1,0 +1,225 @@
+{
+  "name": "Rock On",
+  "answers": [
+    {
+      "answer": "Animal I Have Become By Three Days Grace",
+      "numberOfWords": 8,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Bohemian Rhapsody By Queen",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Bonnie Parker",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Bruce Springsteen  The E Street Band",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Bruce Springsteens Born To Run",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Dave Matthews Band",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Dream On By Aerosmith",
+      "numberOfWords": 4,
+      "numberOfLetters": 18
+    },
+    {
+      "answer": "Fame By David Bowie",
+      "numberOfWords": 4,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Feed My Frankenstein By Alice Cooper",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Frankenstein By The Edgar Winter Group",
+      "numberOfWords": 6,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "Free Ride By The Edgar Winter Group",
+      "numberOfWords": 7,
+      "numberOfLetters": 29
+    },
+    {
+      "answer": "Glory Days By Bruce Springsteen",
+      "numberOfWords": 5,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Grammy AwardWinning British Band Coldplay",
+      "numberOfWords": 5,
+      "numberOfLetters": 37
+    },
+    {
+      "answer": "Greatest Hits Album",
+      "numberOfWords": 3,
+      "numberOfLetters": 17
+    },
+    {
+      "answer": "Highway Tune By Greta Van Fleet",
+      "numberOfWords": 6,
+      "numberOfLetters": 26
+    },
+    {
+      "answer": "IM A Believer By The Monkees",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "John Paul George  Ringo",
+      "numberOfWords": 4,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "Johnny B Goode By Chuck Berry",
+      "numberOfWords": 6,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Legs By Zz Top",
+      "numberOfWords": 4,
+      "numberOfLetters": 11
+    },
+    {
+      "answer": "Lets Go By The Cars",
+      "numberOfWords": 5,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Lets Go By The Cars",
+      "numberOfWords": 5,
+      "numberOfLetters": 15
+    },
+    {
+      "answer": "Light My Fire By The Doors",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "Lucy In The Sky With Diamonds By The Beatles",
+      "numberOfWords": 9,
+      "numberOfLetters": 36
+    },
+    {
+      "answer": "Mick Jagger  Keith Richards",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "OneHit Wonder",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Piano Rock",
+      "numberOfWords": 2,
+      "numberOfLetters": 9
+    },
+    {
+      "answer": "Sgt Peppers Lonely Hearts Club Band",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Siouxsie And The Banshees",
+      "numberOfWords": 4,
+      "numberOfLetters": 22
+    },
+    {
+      "answer": "Soak Up The Sun By Sheryl Crow",
+      "numberOfWords": 7,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Start Me Up By The Rolling Stones",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Sweet Emotion By Aerosmith",
+      "numberOfWords": 4,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Take It Easy By The Eagles",
+      "numberOfWords": 6,
+      "numberOfLetters": 21
+    },
+    {
+      "answer": "The Beatles",
+      "numberOfWords": 2,
+      "numberOfLetters": 10
+    },
+    {
+      "answer": "The Beatles Abbey Road Album",
+      "numberOfWords": 5,
+      "numberOfLetters": 25
+    },
+    {
+      "answer": "The Smashing Pumpkins",
+      "numberOfWords": 3,
+      "numberOfLetters": 19
+    },
+    {
+      "answer": "The Tragically Hip",
+      "numberOfWords": 3,
+      "numberOfLetters": 16
+    },
+    {
+      "answer": "Tom Petty  The Heartbreakers",
+      "numberOfWords": 4,
+      "numberOfLetters": 24
+    },
+    {
+      "answer": "Top Of The Billboard Charts",
+      "numberOfWords": 5,
+      "numberOfLetters": 23
+    },
+    {
+      "answer": "Tribute Album",
+      "numberOfWords": 2,
+      "numberOfLetters": 12
+    },
+    {
+      "answer": "Under Pressure By Queen  David Bowie",
+      "numberOfWords": 6,
+      "numberOfLetters": 30
+    },
+    {
+      "answer": "Werewolves Of London By Warren Zevon",
+      "numberOfWords": 6,
+      "numberOfLetters": 31
+    },
+    {
+      "answer": "Wont Get Fooled Again By The Who",
+      "numberOfWords": 7,
+      "numberOfLetters": 27
+    },
+    {
+      "answer": "Working On A Dream By Bruce Springsteen",
+      "numberOfWords": 7,
+      "numberOfLetters": 33
+    },
+    {
+      "answer": "X  Y By Coldplay",
+      "numberOfWords": 4,
+      "numberOfLetters": 12
+    }
+  ]
+}
