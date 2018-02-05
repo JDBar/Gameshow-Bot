@@ -1,19 +1,35 @@
+const path = require("path");
+const fse = require("fs-extra");
 const Discord = require("discord.js");
-const client = new Discord.Client();
-const token = "NDEwMDE0MzUxMzgzMDY4Njcy.DVm_QQ.9NiEie04wiR58VWChZdaGeea4KE";
 
-client.on(`ready`, function () {
+const gameshowBot = {
+  client: new Discord.Client(),
+  token: "NDEwMDE0MzUxMzgzMDY4Njcy.DVm_QQ.9NiEie04wiR58VWChZdaGeea4KE"
+};
+
+gameshowBot.client.on(`ready`, function () {
   console.log(`Lights... camera... action!`);
+  gameshowBot.manager = new (require(path.join(__dirname, `manager.js`)).Manager)();
 })
 
-client.on(`message`, function (message) {
+gameshowBot.client.on(`message`, function (message) {
   if (message.author.id === message.guild.ownerID) {
-    switch (message.content) {
-      case "ping!":
-        message.channel.send("pong!");
-        break;
+    if (message.content.startsWith("gs!")) {
+      switch (message.content) {
+        // Returns a list of installed games.
+        case "gs!games":
+          message.channel.send(`I have these games installed:\n${Object.keys(gameshowBot.manager.games).join(", ")}.`, {reply: message.author});
+          break;
+        // Passes messages for game managers to interpret.
+        default:
+          let keys = Object.keys(gameshowBot.manager.games);
+          for (let i = 0; i < keys.length; i++) {
+            gameshowBot.manager.games[keys[i]].manager.input(message);
+          }
+          break;
+      }
     }
   }
 })
 
-client.login(token);
+gameshowBot.client.login(gameshowBot.token);
