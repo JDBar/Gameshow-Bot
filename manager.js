@@ -14,12 +14,22 @@ class Manager {
       })
   }
 
-  // Sends a Discord message to a channel.
+  /**
+   * Sends a Discord message to a channel.
+   * @param {Object} channel 
+   * @param {string} message 
+   * @param {Object} options 
+   */
   send (channel, message, options) {
     channel.send(message, options);
   }
   
-  // Removes a game if it reports itself as non-functioning.
+  /**
+   * Removes a game from the manager if it reports an error.
+   * @param {boolean} working 
+   * @param {string} name 
+   * @param {string} err 
+   */
   status (working, name, err) {
     if (working) {
       console.log(`LOADED: ${name}.`);
@@ -27,6 +37,17 @@ class Manager {
     else {
       console.warn(`ERROR: ${name} reported an error while initializing:\n\t${err}`)
       delete this.games[name];
+    }
+  }
+
+  /**
+   * Pass a Discord message to all game modules.
+   * @param {Object} message 
+   */
+  input (message) {
+    var keys = Object.keys(this.games);
+    for (let i = 0; i < keys.length; i++) {
+      this.games[keys[i]].manager.input(message);
     }
   }
 

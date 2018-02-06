@@ -5,6 +5,12 @@ const main = require("../../main.js")
 class Manager {
   constructor (manager) {
     this.name = "wheel-of-discord";
+    this.help = {
+      "gs!wod-categories": {
+        "description": "Display a list of the installed categories for Wheel of Discord.",
+        "usage": "gs!wod-categories"
+      }
+    }
     this.manager = manager;
     this.categories = [];
 
@@ -24,7 +30,7 @@ class Manager {
   input (message) {
     switch (message.content) {
       case "gs!wod-categories":
-        this.manager.send(message.channel, this.categories.join("\n"));
+        message.channel.send(`${this.categories.join(", ")}.`);
         break;
     }
   }
