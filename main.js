@@ -30,8 +30,8 @@ gameshowBot.client.on(`message`, function (message) {
     switch (commands[0]) {
       // Display a list of installed games.
       case "gs!games":
-        message.channel.send(`I have these games installed:`+
-          `\n\`\`\`${Object.keys(gameshowBot.manager.games).join(", ")}\`\`\``, {reply: message.author});
+        message.channel.send(`<@${message.author.id}> I have these games installed:`+
+          `\n\`\`\`${Object.keys(gameshowBot.manager.games).join(", ")}\`\`\``);
         break;
       // Display a list of commands, or learn how to use a specific command.
       case "gs!help":
