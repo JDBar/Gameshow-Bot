@@ -9,7 +9,6 @@ class Game {
     this.timeToStart = 5;
     this.numberOfRounds = 5;
 
-    
     this.countdownTime = undefined;
     this.board = undefined;
     this.round = 0;
@@ -32,34 +31,44 @@ class Game {
   }
 
   /**
-   * Adds a Discord user as a player to this game.
+   * Returns index of a user is in this game. -1 if player is not in the game.
+   * @param {Object} user 
+   */
+  indexOfPlayer (user) {
+    return this.players.map((n) => {return name.user.id}).indexOf(user.id);
+  }
+
+  /**
+   * Adds a Discord user as a player to this game. Returns the added player.
+   * Returns null if the add was not possible.
    * @param {Object} user 
    */
   addPlayer (user) {
     if (this.joinable) {
-      if (this.players.map((n) => {return n.user.id}).includes(user.id)) {
-        return false;
+      if (this.indexOfPlayer(user) >= 0) {
+        return null;
       }
       this.players.push(new Player(user));
-      return true;
+      return this.players[this.players.length - 1];
     }
-    return false;
+    return null;
   }
 
   /**
    * Removes and returns a user from the game.
+   * Returns null if the remove was not possible.
    * @param {Object} user 
    */
   removePlayer (user) {
-    for (let i = 0; i < this.game.players.length; i++) {
-      if (this.game.players[i].user.id === user.id) {
-        return this.game.players.splice(i, 1)[0];
-      }
+    var playerIndex = this.indexOfPlayer(user);
+    var removedPlayer = null;
+    if (playerIndex >= 0) {
+      removedPlayer = this.game.players.splice(playerIndex, 1)[0];
     }
     if (this.game.players.length < 1) {
       endGame();
     }
-    return false;
+    return removedPlayer;
   }
 
   /**

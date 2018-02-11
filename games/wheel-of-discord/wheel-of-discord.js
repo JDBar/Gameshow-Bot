@@ -97,7 +97,9 @@ class Manager {
         break;
       default:
         if (typeof this.game !== "undefined" && this.game.round > -1) {
-
+          if (this.game.indexOfPlayer(message.author) >= 0) {
+            // if player is in the current game, parse their command
+          }
         }
         break;
     }
