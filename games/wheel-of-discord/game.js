@@ -6,7 +6,7 @@ class Game {
   constructor (answers) {
     this.answers = answers;
     this.maxPlayers = 3;
-    this.timeToStart = 60;
+    this.timeToStart = 5;
     this.numberOfRounds = 5;
 
     
@@ -117,9 +117,10 @@ class Board {
     this.category = answer.category;
     this.numberOfWords = answer.numberOfWords;
     this.numberOfLetters = answer.numberOfLetters;
-    this.state = this.answer.split("").map((value) => {
-      return (value === " ") ? " " : null;
+    this.state = this.formatBoardString(this.answer).split("").map((value) => {
+      return (value === " " || value === "\n") ? value : null;
     });
+    console.log(`WOD: ${this.category}: ${this.answer}`);
   }
 
   /**
@@ -143,6 +144,37 @@ class Board {
       }
     }
     return amount;
+  }
+
+  /**
+   * Accepts a string and returns a formatted version with rows that are 14 columns long.
+   * @param {string} str 
+   */
+  formatBoardString (str) {
+    var wordArray = str.split(" ");
+    var result = "";
+    var spaceOnRow = 14;
+    for (var i = 0; i < wordArray.length; i++) {
+      let word = wordArray[i];
+      let nextWord = wordArray[i+1];
+      result += word;
+      spaceOnRow -= word.length;
+      if (typeof nextWord !== "undefined") {
+        if (spaceOnRow >= nextWord.length + 1) {
+            result += ` `;
+            spaceOnRow--;
+        }
+        else {
+            result += `${" ".repeat(spaceOnRow)}\n`;
+            spaceOnRow = 14;
+        }
+      }
+      else if (spaceOnRow > 0) {
+        result += `${" ".repeat(spaceOnRow)}\n`;
+        spaceOnRow = 0;
+      }
+    }
+    return result;
   }
 }
 

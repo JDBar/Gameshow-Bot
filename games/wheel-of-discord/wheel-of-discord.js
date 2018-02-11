@@ -110,12 +110,17 @@ class Manager {
   broadcastBoardState (state) {
     var boardString = state.map((n) => {
       if (n === null) {
-        return ":white_large_square: ";
+        return ":white_large_square:";
       }
-      if (n !== " ") {
-        return `:regional_indicator_${n}: `
+      if (n === " ") {
+        return ":black_large_square:";
+      } 
+      if (n === "\n") {
+        return "\n";
       }
-      return " ";
+      else {
+        return `:regional_indicator_${n}:`;
+      }
     }).join("");
     this.channel.send(`${this.game.board.category.toUpperCase()}:\n` +
     `${boardString}`);
