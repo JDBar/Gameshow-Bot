@@ -4,22 +4,24 @@ class Game {
    * @param {Object[]} answers 
    */
   constructor (answers) {
+    this.answers = answers;
     this.maxPlayers = 3;
     this.timeToStart = 60;
     this.numberOfRounds = 5;
-    this.round = 0;
-    this.answers = answers;
-    this.seen = [];
+
+    
     this.countdownTime = undefined;
-    this.players = [];
     this.board = undefined;
+    this.round = 0;
+    this.seen = [];
+    this.players = [];
   }
 
   /**
    * Returns if a player can join the game.
    */
   get joinable () {
-    return this.players.length < maxPlayers && round === 0;
+    return this.players.length < this.maxPlayers && this.round === 0;
   }
 
   /**
@@ -35,6 +37,9 @@ class Game {
    */
   addPlayer (user) {
     if (this.joinable) {
+      if (this.players.map((n) => {return n.user.id}).includes(user.id)) {
+        return false;
+      }
       this.players.push(new Player(user));
       return true;
     }
@@ -54,13 +59,7 @@ class Game {
     if (this.game.players.length < 1) {
       endGame();
     }
-  }
-
-  /**
-   * Starts the game.
-   */
-  startGame () {
-    return nextRound();
+    return false;
   }
 
   /**
@@ -79,9 +78,11 @@ class Game {
     if (this.round === this.numberOfRounds) {
       return endGame();
     }
-    round++;
+    this.round++;
     var i;
-    do {i = getRandomInt(this.answers.length);} while (this.seen.includes(i));
+    do {
+      i = this.getRandomInt(this.answers.length);
+    } while (this.seen.includes(i));
     this.seen.push(i);
     this.board = new Board(this.answers[i]);
     return this.board.state;
@@ -113,10 +114,11 @@ class Player {
 class Board {
   constructor (answer) {
     this.answer = answer.answer;
+    this.category = answer.category;
     this.numberOfWords = answer.numberOfWords;
     this.numberOfLetters = answer.numberOfLetters;
-    this.state = new Array(answer.length).map((value, index) =>{
-      return (answer[index] === " ") ? " " : null;
+    this.state = this.answer.split("").map((value) => {
+      return (value === " ") ? " " : null;
     });
   }
 
@@ -135,7 +137,7 @@ class Board {
     var letter = x.toLowerCase();
     var amount = 0;
     for (let i = 0; i < this.answer.length; i++) {
-      if (this.state[i] === null && this.answer[i] === letter) {
+      if (this.state[i] === null && this.answer[i].toLowerCase() === letter) {
         amount++;
         this.state[i] = letter;
       }

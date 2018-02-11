@@ -6,6 +6,18 @@ class Manager {
   constructor (manager) {
     this.name = "wheel-of-discord";
     this.help = {
+      "gs!wod-start": {
+        "description": "Starts a new game of Wheel of Discord.",
+        "usage": "gs!wod-start"
+      },
+      "gs!wod-join": {
+        "description": "Joins a game of Wheel of Discord.",
+        "usage": "gs!wod-join"
+      },
+      "gs!wod-leave": {
+        "description": "Leaves a game of Wheel of Discord.",
+        "usage": "gs!wod-join"
+      },
       "gs!wod-categories": {
         "description": "Display a list of the installed categories for Wheel of Discord.",
         "usage": "gs!wod-categories"
@@ -17,6 +29,7 @@ class Manager {
     }
     this.manager = manager;
     this.game = undefined;
+    this.channel = undefined;
     this.categories = [];
     this.answers = [];
 
@@ -48,30 +61,64 @@ class Manager {
           this.game.startCountdown();
           this.timeout = setTimeout(() => {
             if (this.game.players.length > 0) {
-              message.channel.send(`${this.game.players.map((n) => {
+              message.channel.send(`TEST: ${this.game.players.map((n) => {
                 return `<@${n.user.id}>`;
-              }).join(" ")}, let's get started! Welcome to Wheel of Discord!`);
+              }).join(", ")}... let's get started! Welcome to Wheel of Discord!`);
+              this.channel = message.channel;
+              this.broadcastBoardState(this.game.nextRound());
             }
-          })
-          message.channel.send(`<@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
-            `\nThe game will begin in ${this.game.timeUntilStart} seconds.`);
+          }, this.game.timeToStart * 1000)
+          message.channel.send(`TEST: <@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
+            `\nThe game will begin in ${this.game.timeToStart} seconds.`);
         }
         break;
       case "gs!wod-join":
         if (typeof this.game !== "undefined" && this.game.joinable) {
-          this.game.addPlayer(message.author);
-          message.channel.send(`<@${message.author.id}> joined! ${this.game.joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
-            `\nThe game will begin in ${this.game.timeUntilStart} seconds.`);
+          if (this.game.addPlayer(message.author)) {
+            message.channel.send(`TEST: <@${message.author.id}> joined! ${this.game.joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
+              `\nThe game will begin in ${this.game.timeUntilStart} seconds.`);
+          }
         }
         break;
       case "gs!wod-leave":
         if (typeof this.game !== "undefined") {
           let leavingPlayer = this.game.removePlayer(message.author);
-          message.channel.send(`<@${leavingPlayer.user.id}> left the game`+
-            `${this.game.joinable ? "! Type **gs!wod-join** to join!" : `and forfeited $${leavingPlayer.money}.`}`);
+          if (leavingPlayer) {
+            message.channel.send(`TEST: <@${leavingPlayer.user.id}> left the game`+
+              `${this.game.joinable ? "! Type **gs!wod-join** to join!" : `and forfeited $${leavingPlayer.money}.`}`);
+          }
+        }
+        break;
+      case "gs!wod-force-stop":
+        this.game = undefined;
+        clearTimeout(this.timeout);
+        this.channel = undefined;
+        message.channel.send("WOD has been force stopped.");
+        break;
+      default:
+        if (typeof this.game !== "undefined" && this.game.round > -1) {
+
         }
         break;
     }
+  }
+
+  /**
+   * Broadcasts the state of the board using emojis.
+   * @param {Object} state 
+   */
+  broadcastBoardState (state) {
+    var boardString = state.map((n) => {
+      if (n === null) {
+        return ":white_large_square: ";
+      }
+      if (n !== " ") {
+        return `:regional_indicator_${n}: `
+      }
+      return " ";
+    }).join("");
+    this.channel.send(`${this.game.board.category.toUpperCase()}:\n` +
+    `${boardString}`);
   }
 
   /**
@@ -90,7 +137,9 @@ class Manager {
               fse.readJson(path.join(__dirname, "categories", file))
                 .then((category) => {
                   for (let j = 0; j < category.answers.length; j++) {
-                    this.answers.push(category.answers[j]);
+                    let answer = category.answers[j];
+                    answer.category = file.replace(".json", "");
+                    this.answers.push(answer);
                   }
                 })
                 .catch((err) => {
