@@ -25,11 +25,15 @@ class Manager {
       "gs!wod-answers": {
         "description": "Display the number of installed answers for Wheel of Discord.",
         "usage": "gs!wod-answers"
+      },
+      "gs!wod-force-stop": {
+        "description": "Forced a game of Wheel of Discord to stop immediately.",
+        "usage": "gs!wod-force-stop"
       }
     }
     this.manager = manager;
-    this.game = undefined;
-    this.channel = undefined;
+    this.games = {};
+    this.timeouts = {};
     this.categories = [];
     this.answers = [];
 
@@ -55,61 +59,100 @@ class Manager {
         message.channel.send(`I have ${this.answers.length} answers installed for Wheel of Discord!`);
         break;
       case "gs!wod-start":
-        if (typeof this.game === "undefined") {
-          this.game = new WheelOfDiscord.Game(this.answers);
-          this.game.addPlayer(message.author);
-          this.game.startCountdown();
-          this.timeout = setTimeout(() => {
-            if (this.game.players.length > 0) {
-              message.channel.send(`TEST: ${this.game.players.map((n) => {
-                return `<@${n.user.id}>`;
-              }).join(", ")}... let's get started! Welcome to Wheel of Discord!`);
-              this.channel = message.channel;
-              this.broadcastBoardState(this.game.nextRound());
-            }
-          }, this.game.timeToStart * 1000)
-          message.channel.send(`TEST: <@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
-            `\nThe game will begin in ${this.game.timeToStart} seconds.`);
-        }
+        this.handleGameStart(message);
         break;
       case "gs!wod-join":
-        if (typeof this.game !== "undefined" && this.game.joinable) {
-          if (this.game.addPlayer(message.author)) {
-            message.channel.send(`TEST: <@${message.author.id}> joined! ${this.game.joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
-              `\nThe game will begin in ${this.game.timeUntilStart} seconds.`);
-          }
-        }
+        this.handleGameJoin(message);
         break;
       case "gs!wod-leave":
-        if (typeof this.game !== "undefined") {
-          let leavingPlayer = this.game.removePlayer(message.author);
-          if (leavingPlayer) {
-            message.channel.send(`TEST: <@${leavingPlayer.user.id}> left the game`+
-              `${this.game.joinable ? "! Type **gs!wod-join** to join!" : `and forfeited $${leavingPlayer.money}.`}`);
-          }
-        }
+        this.handleGameLeave(message);
         break;
       case "gs!wod-force-stop":
-        this.game = undefined;
-        clearTimeout(this.timeout);
-        this.channel = undefined;
-        message.channel.send("WOD has been force stopped.");
+        this.handleForceStop(message);
         break;
       default:
-        if (typeof this.game !== "undefined" && this.game.round > -1) {
-          if (this.game.indexOfPlayer(message.author) >= 0) {
-            // if player is in the current game, parse their command
-          }
-        }
+        this.handleDefault(message);
         break;
     }
   }
 
   /**
-   * Broadcasts the state of the board using emojis.
-   * @param {Object} state 
+   * Handles starting a new game with gs!wod-start
+   * @param {Object} message 
    */
-  broadcastBoardState (state) {
+  handleGameStart (message) {
+    if (typeof this.games[message.channel.id] === "undefined") {
+      this.games[message.channel.id] = new WheelOfDiscord.Game(this.answers);
+      this.games[message.channel.id].addPlayer(message.author);
+      this.games[message.channel.id].startCountdown();
+      this.timeouts[message.channel.id] = setTimeout(() => {
+        if (this.games[message.channel.id].players.length > 0) {
+          message.channel.send(`TEST: ${this.games[message.channel.id].players.map((n) => {
+            return `<@${n.user.id}>`;
+          }).join(", ")}... let's get started! Welcome to Wheel of Discord!`);
+          this.broadcastBoardState(this.games[message.channel.id].nextRound(), message.channel);
+        }
+      }, this.games[message.channel.id].timeToStart * 1000)
+      message.channel.send(`TEST: <@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
+        `\nThe game will begin in ${this.games[message.channel.id].timeToStart} seconds.`);
+    }
+  }
+
+  /**
+   * Handles joining a game with gs!wod-join
+   * @param {Object} message 
+   */
+  handleGameJoin (message) {
+    if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].joinable) {
+      if (this.games[message.channel.id].addPlayer(message.author)) {
+        message.channel.send(`TEST: <@${message.author.id}> joined! ${this.games[message.channel.id].joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
+          `\nThe game will begin in ${this.games[message.channel.id].timeUntilStart} seconds.`);
+      }
+    }
+  }
+
+  /**
+   * Handles leaving a game with gs!wod-leave
+   * @param {Object} message 
+   */
+  handleGameLeave (message) {
+    if (typeof this.games[message.channel.id] !== "undefined") {
+      let leavingPlayer = this.games[message.channel.id].removePlayer(message.author);
+      if (leavingPlayer) {
+        message.channel.send(`TEST: <@${leavingPlayer.user.id}> left the game`+
+          `${this.games[message.channel.id].joinable ? "! Type **gs!wod-join** to join!" : `and forfeited $${leavingPlayer.money}.`}`);
+      }
+    }
+  }
+
+  /**
+   * Handles force stopping a game with gs!wod-force-stop
+   * @param {Object} message 
+   */
+  handleForceStop (message) {
+    this.games[message.channel.id] = undefined;
+    clearTimeout(this.timeouts[message.channel.id]);
+    message.channel.send("WOD has been force stopped.");
+  }
+
+  /**
+   * Handles messages that aren't prefixed with gs!wod.
+   * @param {Object} message 
+   */
+  handleDefault (message) {
+    if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].round > -1) {
+      if (this.games[message.channel.id].indexOfPlayer(message.author) >= 0) {
+        // if player is in the current game, parse their command
+      }
+    }
+  }
+
+  /**
+   * Broadcasts the state of the board to a Discord channel using emojis.
+   * @param {Object} state 
+   * @param {Object} channel
+   */
+  broadcastBoardState (state, channel) {
     var boardString = state.map((n) => {
       if (n === null) {
         return ":white_large_square:";
@@ -124,7 +167,7 @@ class Manager {
         return `:regional_indicator_${n}:`;
       }
     }).join("");
-    this.channel.send(`${this.game.board.category.toUpperCase()}:\n` +
+    channel.send(`${this.games[channel.id].board.category.toUpperCase()}:\n` +
     `${boardString}`);
   }
 

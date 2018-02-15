@@ -35,7 +35,7 @@ class Game {
    * @param {Object} user 
    */
   indexOfPlayer (user) {
-    return this.players.map((n) => {return name.user.id}).indexOf(user.id);
+    return this.players.map((n) => {return n.user.id}).indexOf(user.id);
   }
 
   /**
@@ -63,10 +63,10 @@ class Game {
     var playerIndex = this.indexOfPlayer(user);
     var removedPlayer = null;
     if (playerIndex >= 0) {
-      removedPlayer = this.game.players.splice(playerIndex, 1)[0];
+      removedPlayer = this.players.splice(playerIndex, 1)[0];
     }
-    if (this.game.players.length < 1) {
-      endGame();
+    if (this.players.length < 1) {
+      this.endGame();
     }
     return removedPlayer;
   }
