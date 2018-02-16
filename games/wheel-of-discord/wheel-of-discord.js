@@ -90,7 +90,7 @@ class Manager {
           message.channel.send(`TEST: ${this.games[message.channel.id].players.map((n) => {
             return `<@${n.user.id}>`;
           }).join(", ")}... let's get started! Welcome to Wheel of Discord!`);
-          this.broadcastBoardState(this.games[message.channel.id].nextRound(), message.channel);
+          this.handleNextRound(message);
         }
       }, this.games[message.channel.id].timeToStart * 1000)
       message.channel.send(`TEST: <@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
@@ -117,12 +117,92 @@ class Manager {
    */
   handleGameLeave (message) {
     if (typeof this.games[message.channel.id] !== "undefined") {
+      let turn = this.games[message.channel.id].turn;
       let leavingPlayer = this.games[message.channel.id].removePlayer(message.author);
       if (leavingPlayer) {
         message.channel.send(`TEST: <@${leavingPlayer.user.id}> left the game`+
           `${this.games[message.channel.id].joinable ? "! Type **gs!wod-join** to join!" : `and forfeited $${leavingPlayer.money}.`}`);
+
+        if (!this.games[message.channel.id].joinable) {
+          // there are no more players in this game, so it's not joinable
+          this.handleGameEnd(message);
+        }
+        if (turn !== this.games[message.channel.id].turn) {
+          // it was the removed player's turn, and now it's someone else
+          this.handleNextTurn(message);
+        }
       }
     }
+  }
+
+  /**
+   * Handles the next round of the game.
+   * @param {Object} message 
+   */
+  handleNextRound (message) {
+    this.games[message.channel.id].nextRound();
+    this.broadcastBoardState(message.channel);
+    handleNextTurn();
+  }
+
+  /**
+   * Handles the next turn of the game.
+   * @param {Object} message 
+   */
+  handleNextTurn (message) {
+    var game = this.games[message.channel.id];
+
+    if (typeof message === "undefined") {
+      // There is no message, so this is the beginning of a new round.
+      message.channel.send(`<@${game.turn.id}> $${game.turn.money}: It's your turn.\n` +
+        `Type \`spin\` to begin!`);
+        //`You can type a consonant, type a vowel, or type a guess.`);
+    }
+    else {
+      // Parse the message of the active player.
+      if (game.spin === null && message.content.trim().toLowerCase().startsWith("spin")) {
+
+      }
+      else if (game.spin !== null && message.content.trim().length === 1) {
+        let hasVowel = message.content.toLowerCase().match(/[aeiou]/);
+        if (hasVowel) {
+          let vowel = hasVowel[0];
+          let amount = game.buyVowel(vowel);
+          if (amount === -1) {
+            message.channels.send(`<@${message.author.id}, you don't have the $${game.vowelPrice} needed to buy a vowel.`);
+          }
+          else if (amount > 0) {
+            message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${vowel}` : `are ${amount} ${vowel}'s`}!`);
+          }
+          else {
+            message.channel.send(`<@${message.author.id}>, there were no ${vowel}'s. Sorry.`);
+          }
+        }
+        else {
+          let hasConsonant = message.content.toLowerCase().match(/[b-df-hj-np-tv-z]/);
+          if (hasConsonant) {
+            let consonant = hasConsonant[0];
+            let amount = game.guessConsonant(consonant);
+            if (amount > 0) {
+              message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${consonant}` : `are ${amount} ${consonant}'s`}!`);
+            }
+            else {
+              message.channel.send(`<@${message.author.id}>, there were no ${consonant}'s. Sorry.`);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  /**
+   * Handles the end of the game.
+   * @param {Object} message 
+   */
+  handleGameEnd (message) {
+    this.games[message.channel.id] = undefined;
+    clearTimeout(this.timeouts[message.channel.id]);
+    message.channel.send(`Wheel of Discord has ended! Thanks for playing.`);
   }
 
   /**
@@ -130,8 +210,7 @@ class Manager {
    * @param {Object} message 
    */
   handleForceStop (message) {
-    this.games[message.channel.id] = undefined;
-    clearTimeout(this.timeouts[message.channel.id]);
+    this.handleGameEnd(message);
     message.channel.send("WOD has been force stopped.");
   }
 
@@ -140,9 +219,9 @@ class Manager {
    * @param {Object} message 
    */
   handleDefault (message) {
-    if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].round > -1) {
-      if (this.games[message.channel.id].indexOfPlayer(message.author) >= 0) {
-        // if player is in the current game, parse their command
+    if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].round > 0) {
+      if (this.games[message.channel.id].turn.user.id === message.author.id) {
+        handlenextTurn(message);
       }
     }
   }
@@ -152,7 +231,8 @@ class Manager {
    * @param {Object} state 
    * @param {Object} channel
    */
-  broadcastBoardState (state, channel) {
+  broadcastBoardState (channel) {
+    var state = this.games[message.channel.id].board.state;
     var boardString = state.map((n) => {
       if (n === null) {
         return ":white_large_square:";

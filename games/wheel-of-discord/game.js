@@ -8,12 +8,30 @@ class Game {
     this.maxPlayers = 3;
     this.timeToStart = 5;
     this.numberOfRounds = 5;
+    this.vowelPrice = 250;
+    this.wheel = [
+      "Bankrupt", "Bankrupt", "Bankrupt",
+      "Lose",
+      500, 500, 500, 500, 500,
+      550,
+      600, 600, 600,
+      650, 650, 650,
+      700, 700, 700,
+      800,
+      900,
+      1000,
+      2500,
+      10000
+    ]
 
     this.countdownTime = undefined;
     this.board = undefined;
     this.round = 0;
     this.seen = [];
     this.players = [];
+
+    this.turn = null;
+    this.spin = null;
   }
 
   /**
@@ -63,6 +81,9 @@ class Game {
     var playerIndex = this.indexOfPlayer(user);
     var removedPlayer = null;
     if (playerIndex >= 0) {
+      if (this.turn === this.players[playerIndex]) {
+        this.advanceTurn();
+      }
       removedPlayer = this.players.splice(playerIndex, 1)[0];
     }
     if (this.players.length < 1) {
@@ -80,7 +101,7 @@ class Game {
   }
 
   /**
-   * Starts the next round and returns the board state.
+   * Starts the next round, next turn, and returns the board state.
    * Returns undefined if the game is over.
    */
   nextRound () {
@@ -88,6 +109,7 @@ class Game {
       return endGame();
     }
     this.round++;
+    this.advanceTurn();
     var i;
     do {
       i = this.getRandomInt(this.answers.length);
@@ -95,6 +117,59 @@ class Game {
     this.seen.push(i);
     this.board = new Board(this.answers[i]);
     return this.board.state;
+  }
+
+  /**
+   * Sets this.turn to the next player whose turn it is.
+   */
+  advanceTurn () {
+    if (this.turn === null) {
+      this.turn = this.players[0];
+    }
+    else {
+      let i = this.players.indexOf(this.turn);
+      if (i >= 0) {
+        this.turn = this.players[(++i > (this.players.length - 1)) ? 0 : i];
+      }
+    }
+  }
+
+  /**
+   * Spins the wheel as the current player.
+   * Returns a number, or "Bankrupt".
+   */
+  spinWheel () {
+
+  }
+  
+  /**
+   * Reduces the current player's money by the vowel price.
+   * Returns the amount of vowels in the board.
+   * Returns -1 if the player does not have enough money.
+   * @param {string} vowel 
+   */
+  buyVowel (vowel) {
+    var amount = -1;
+    if (this.turn.money >= this.vowelPrice) {
+      this.turn.money -= this.vowelPrice;
+      amount = this.board.verify(vowel);
+    }
+    if (amount < 1) {
+      this.advanceTurn();
+    }
+    return amount;
+  }
+
+  /**
+   * Returns the amount of consonants in the board.
+   * @param {string} consonant 
+   */
+  guessConsonant (consonant) {
+    var amount = this.board.verify(consonant);
+    if (amount < 1) {
+      this.advanceTurn();
+    }
+    return amount;
   }
 
   /**
@@ -123,10 +198,11 @@ class Player {
 class Board {
   constructor (answer) {
     this.answer = answer.answer;
+    this.answerFormatted = this.formatBoardString(this.answer);
     this.category = answer.category;
     this.numberOfWords = answer.numberOfWords;
     this.numberOfLetters = answer.numberOfLetters;
-    this.state = this.formatBoardString(this.answer).split("").map((value) => {
+    this.state = this.answerFormatted.split("").map((value) => {
       return (value === " " || value === "\n") ? value : null;
     });
     console.log(`WOD: ${this.category}: ${this.answer}`);
@@ -146,8 +222,8 @@ class Board {
   verify (x) {
     var letter = x.toLowerCase();
     var amount = 0;
-    for (let i = 0; i < this.answer.length; i++) {
-      if (this.state[i] === null && this.answer[i].toLowerCase() === letter) {
+    for (let i = 0; i < this.answerFormatted.length; i++) {
+      if (this.state[i] === null && this.answerFormatted[i] === letter) {
         amount++;
         this.state[i] = letter;
       }
@@ -160,7 +236,7 @@ class Board {
    * @param {string} str 
    */
   formatBoardString (str) {
-    var wordArray = str.split(" ");
+    var wordArray = str.toLowerCase().split(" ");
     var result = "";
     var spaceOnRow = 14;
     for (var i = 0; i < wordArray.length; i++) {
