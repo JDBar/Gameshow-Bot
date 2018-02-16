@@ -246,7 +246,7 @@ class Manager {
           let amount;
           amount = game.guessConsonant(letter);
           if (amount === -1) {
-            message.channel.send(`<@${message.author.id}, ${letter} was already guessed.`);
+            message.channel.send(`<@${message.author.id}>, ${letter} was already guessed.`);
             message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
             `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
