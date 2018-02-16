@@ -7,18 +7,19 @@ class Game {
     this.answers = answers;
     this.maxPlayers = 3;
     this.timeToStart = 30;
+    this.turnTimeLimit = 60;
     this.numberOfRounds = 5;
     this.vowelPrice = 250;
     this.minimumSolve = 1000;
     this.wheel = [
-      "Bankrupt", "Bankrupt", "Bankrupt",
+      "Bankrupt", "Bankrupt",
       "Lose",
       500, 500, 500, 500, 500,
       550,
       600, 600, 600,
       650, 650, 650,
       700, 700, 700,
-      800,
+      800, 800,
       900,
       1000,
       2500,
@@ -47,6 +48,13 @@ class Game {
    */
   get timeUntilStart () {
     return Math.max(0, this.timeToStart - Math.ceil(((new Date()).getTime() - this.countdownTime)/1000));
+  }
+
+  /**
+   * Returns how much time is left until the active player's turn is skipped.
+   */
+  get timeUntilSkip () {
+    return Math.max(0, this.turnTimeLimit - Math.ceil(((new Date()).getTime() - this.countdownTime)/1000));
   }
 
   /**

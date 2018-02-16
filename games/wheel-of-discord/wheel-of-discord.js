@@ -164,8 +164,9 @@ class Manager {
   handleNextTurn (message, announceTurn=false) {
     var game = this.games[message.channel.id];
     if (announceTurn) {
-      message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-      `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+      // It's the beginning of a new round.
+      this.broadcastNextTurn(message);
+      this.resetTurnTimer(message);
     }
     else if (game.spin === null) {
       if (message.content === "spin") {
@@ -174,20 +175,19 @@ class Manager {
         if (result === "Lose") {
           message.channel.send(`<@${message.author.id}>: **LOSE A TURN**`);
           this.broadcastBoardState(message);
-          message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-          `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+          this.broadcastNextTurn(message);
         }
         else if (result === "Bankrupt") {
           message.channel.send(`<@${message.author.id}>: **BANKRUPT**`);
           this.broadcastBoardState(message);
-          message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-          `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+          this.broadcastNextTurn(message);
         }
         else {
           message.channel.send(`<@${message.author.id}>: **$${result}**`);
           this.broadcastBoardState(message);
           message.channel.send(`<@${message.author.id}>: Type a consonant letter!`);
         }
+        this.resetTurnTimer(message);
       }
       else if (message.content.startsWith("buy ")) {
         let str = message.content.toLowerCase().replace("buy ", "").trim();
@@ -204,21 +204,17 @@ class Manager {
               message.channel.send(`<@${message.author.id}>, you don't have the $${game.vowelPrice} needed to buy a vowel.`);
             }
             this.broadcastBoardState(message);
-            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
           else if (amount > 0) {
             message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${vowel}` : `are ${amount} ${vowel}'s`}!`);
             this.broadcastBoardState(message);
-            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
           else {
             message.channel.send(`<@${message.author.id}>, there were no ${vowel}'s. Sorry.`);
             this.broadcastBoardState(message);
-            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
+          this.broadcastNextTurn(message);
+          this.resetTurnTimer(message);
         }
       }
       else if (message.content.startsWith("solve ")) {
@@ -227,8 +223,8 @@ class Manager {
         if (winnings === -1) {
           message.channel.send(`<@${message.author.id}>, that is incorrect...`);
           this.broadcastBoardState(message);
-          message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-          `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+          this.broadcastNextTurn(message);
+          this.resetTurnTimer(message);
         }
         else {
           this.broadcastBoardState(message, true);
@@ -248,20 +244,16 @@ class Manager {
           amount = game.guessConsonant(letter);
           if (amount === -1) {
             message.channel.send(`<@${message.author.id}>, ${letter} was already guessed.`);
-            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
           else if (amount > 0) {
-            this.broadcastBoardState(message);
             message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${letter}` : `are ${amount} ${letter}'s`}!`);
-            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+            this.broadcastBoardState(message);
           }
           else {
             message.channel.send(`<@${message.author.id}>, there were no ${letter}'s. Sorry.`);
-            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
+          this.broadcastNextTurn(message);
+          this.resetTurnTimer(message);
         }
       }
     }
@@ -332,6 +324,35 @@ class Manager {
     var availableString = `\`\`\`\nAvailable letters:\n${lettersAvailable.split("").join(" ")}\n\`\`\``;
     message.channel.send(`**${this.games[message.channel.id].board.category.toUpperCase()}**:\n` +
     `${boardString}\n${availableString}`);
+  }
+
+  /**
+   * Broadcasts the options for the next player's turn.
+   * @param {Object} message 
+   */
+  broadcastNextTurn (message) {
+    var game = this.games[message.channel.id];
+    message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+    `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+  }
+
+  /**
+   * Resets the time limit for the active player's turn.
+   * @param {Object} message 
+   */
+  resetTurnTimer (message) {
+    var game = this.games[message.channel.id];
+    game.startCountdown();
+    clearTimeout(this.timeouts[message.channel.id]);
+    this.timeouts[message.channel.id] = setTimeout(() => {
+      message.channel.send(`<@${game.turn.user.id}>, you have ${game.timeUntilSkip} seconds left!`);
+      this.timeouts[message.channel.id] = setTimeout(() => {
+        message.channel.send(`<@${game.turn.user.id}>, you're out of time!`);
+        game.advanceTurn();
+        this.broadcastBoardState(message);
+        this.handleNextTurn(message, true);
+      }, game.turnTimeLimit * 1000 / 2);
+    }, game.turnTimeLimit * 1000 / 2);
   }
 
   /**
