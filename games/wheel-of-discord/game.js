@@ -6,7 +6,7 @@ class Game {
   constructor (answers) {
     this.answers = answers;
     this.maxPlayers = 3;
-    this.timeToStart = 2;
+    this.timeToStart = 30;
     this.numberOfRounds = 5;
     this.vowelPrice = 250;
     this.minimumSolve = 1000;
@@ -106,7 +106,8 @@ class Game {
    */
   nextRound () {
     if (this.round === this.numberOfRounds) {
-      return endGame();
+      this.endGame();
+      return;
     }
     this.round++;
     this.advanceTurn();
@@ -193,8 +194,7 @@ class Game {
   solve (phrase) {
     var solved = -1;
     if (phrase.trim().toLowerCase() === this.board.answer.toLowerCase()) {
-      solved = true;
-      for (let i = 0; i < this.players; i++) {
+      for (let i = 0; i < this.players.length; i++) {
         if (this.players[i].user.id !== this.turn.user.id) {
           this.players[i].money[this.round] = 0;
         }
@@ -252,7 +252,7 @@ class Player {
 
 class Board {
   constructor (answer) {
-    this.answer = answer.answer;
+    this.answer = answer.answer.replace(/\s{2,}/g, " ");
     this.answerFormatted = this.formatBoardString(this.answer);
     this.category = answer.category;
     this.numberOfWords = answer.numberOfWords;

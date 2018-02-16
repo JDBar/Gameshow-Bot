@@ -82,6 +82,7 @@ class Manager {
    */
   handleGameStart (message) {
     if (typeof this.games[message.channel.id] === "undefined") {
+      this.manager.startSession(message.channel.id, this.name);
       this.games[message.channel.id] = new WheelOfDiscord.Game(this.answers);
       this.games[message.channel.id].addPlayer(message.author);
       this.games[message.channel.id].startCountdown();
@@ -141,7 +142,7 @@ class Manager {
    */
   handleNextRound (message) {
     var state = this.games[message.channel.id].nextRound();
-    if (state !== "undefined") {
+    if (typeof state !== "undefined") {
       this.broadcastBoardState(message);
       this.handleNextTurn(message, true);
     }
@@ -150,7 +151,7 @@ class Manager {
         return `<@${n.user.id}> won $${n.getMoney()}.`;
       }).join("\n");
       message.channel.send(`That's the end of the game!`);
-      message.channel.send(`Here are the results...\n${results}`);
+      message.channel.send(`\n------**Results**------\n${results}\n---------------------`);
       this.handleGameEnd(message);
     }
   }
@@ -272,6 +273,7 @@ class Manager {
    */
   handleGameEnd (message) {
     this.games[message.channel.id] = undefined;
+    this.manager.stopSession(message.channel.id);
     clearTimeout(this.timeouts[message.channel.id]);
     this.timeouts[message.channel.id] = undefined;
     message.channel.send(`Wheel of Discord has ended! Thanks for playing.`);
@@ -321,8 +323,15 @@ class Manager {
         return `:regional_indicator_${n}:`;
       }
     }).join("");
-    message.channel.send(`${this.games[message.channel.id].board.category.toUpperCase()}:\n` +
-    `${boardString}`);
+    var lettersGuessed = Array.from(this.games[message.channel.id].board.lettersGuessed);
+    var lettersAvailable = "abcdefghijklmnopqrstuvwxyz";
+    for (let i = 0; i < lettersGuessed.length; i++) {
+      lettersAvailable = lettersAvailable.replace(lettersGuessed[i], " ");
+    }
+
+    var availableString = `\`\`\`\nAvailable letters:\n${lettersAvailable.split("").join(" ")}\n\`\`\``;
+    message.channel.send(`**${this.games[message.channel.id].board.category.toUpperCase()}**:\n` +
+    `${boardString}\n${availableString}`);
   }
 
   /**

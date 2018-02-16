@@ -4,6 +4,7 @@ const fse = require("fs-extra");
 class Manager {
   constructor () {
     this.games = {};
+    this.sessions = {};
 
     this.findGames()
       .then((files) => {
@@ -12,6 +13,24 @@ class Manager {
       .catch((err) => {
         console.error(`ERROR: Could not find games.\n\t${err}`);
       })
+  }
+
+  /**
+   * Accepts the Discord channel id, and the game module name.
+   * Starts a session for this channel, preventing other games from interpreting commands for this channel.
+   * @param {string} channelId 
+   * @param {string} name 
+   */
+  startSession (channelId, name) {
+    this.sessions[channelId] = name;
+  }
+
+  /**
+   * Stops the session for this channel, allowing other games to interpret commands for this channel again.
+   * @param {*} channelId 
+   */
+  stopSession (channelId) {
+    this.sessions[channelId] = undefined;
   }
 
   /**
@@ -45,9 +64,14 @@ class Manager {
    * @param {Object} message 
    */
   input (message) {
-    var keys = Object.keys(this.games);
-    for (let i = 0; i < keys.length; i++) {
-      this.games[keys[i]].manager.input(message);
+    if (typeof this.sessions[message.channel.id] !== "undefined") {
+      this.games[this.sessions[message.channel.id]].manager.input(message);
+    }
+    else {
+      var keys = Object.keys(this.games);
+      for (let i = 0; i < keys.length; i++) {
+        this.games[keys[i]].manager.input(message);
+      }
     }
   }
 
