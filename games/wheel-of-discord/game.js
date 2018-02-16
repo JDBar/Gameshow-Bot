@@ -6,9 +6,10 @@ class Game {
   constructor (answers) {
     this.answers = answers;
     this.maxPlayers = 3;
-    this.timeToStart = 5;
+    this.timeToStart = 2;
     this.numberOfRounds = 5;
     this.vowelPrice = 250;
+    this.minimumSolve = 1000;
     this.wheel = [
       "Bankrupt", "Bankrupt", "Bankrupt",
       "Lose",
@@ -97,7 +98,6 @@ class Game {
    */
   endGame () {
     this.round = -1;
-    this.players = [];
   }
 
   /**
@@ -123,6 +123,7 @@ class Game {
    * Sets this.turn to the next player whose turn it is.
    */
   advanceTurn () {
+    this.spin = null;
     if (this.turn === null) {
       this.turn = this.players[0];
     }
@@ -136,22 +137,31 @@ class Game {
 
   /**
    * Spins the wheel as the current player.
-   * Returns a number, or "Bankrupt".
+   * Returns a number, "lose", or "Bankrupt".
    */
   spinWheel () {
-
+    let result = this.wheel[this.getRandomInt(this.wheel.length)];
+    this.spin = result;
+    if (this.spin === "Lose") {
+      this.advanceTurn();
+    }
+    else if (this.spin === "Bankrupt") {
+      this.turn.money[this.round] = 0;
+      this.advanceTurn();
+    }
+    return result;
   }
   
   /**
    * Reduces the current player's money by the vowel price.
    * Returns the amount of vowels in the board.
-   * Returns -1 if the player does not have enough money.
+   * Returns -1 if the player does not have enough money or the vowel was already guessed.
    * @param {string} vowel 
    */
   buyVowel (vowel) {
     var amount = -1;
-    if (this.turn.money >= this.vowelPrice) {
-      this.turn.money -= this.vowelPrice;
+    if (this.turn.getMoney(this.round) >= this.vowelPrice) {
+      this.turn.money[this.round] -= this.vowelPrice;
       amount = this.board.verify(vowel);
     }
     if (amount < 1) {
@@ -169,7 +179,35 @@ class Game {
     if (amount < 1) {
       this.advanceTurn();
     }
+    else {
+      this.turn.money[this.round] = this.turn.getMoney(this.round) + amount * this.spin;
+      this.spin = null;
+    }
     return amount;
+  }
+
+  /**
+   * Returns -1 if wrong answer, returns amount of winnings if correct.
+   * @param {string} phrase 
+   */
+  solve (phrase) {
+    var solved = -1;
+    if (phrase.trim().toLowerCase() === this.board.answer.toLowerCase()) {
+      solved = true;
+      for (let i = 0; i < this.players; i++) {
+        if (this.players[i].user.id !== this.turn.user.id) {
+          this.players[i].money[this.round] = 0;
+        }
+        else {
+          this.players[i].money[this.round] = Math.max(this.minimumSolve, this.players[i].getMoney(this.round));
+          solved = this.players[i].getMoney(this.round);
+        }
+      }
+    }
+    else {
+      this.advanceTurn();
+    }
+    return solved;
   }
 
   /**
@@ -191,7 +229,24 @@ class Game {
 class Player {
   constructor (user) {
     this.user = user;
-    this.money = 0;
+    this.money = [0];
+  }
+
+  /**
+   * Safely returns the money for a given round if one is supplied.
+   * Safely returns the sum of all rounds if no round is supplied.
+   * @param {number} round 
+   */
+  getMoney (round) {
+    if (typeof round !== "undefined") {
+      if (typeof this.money[round] === "undefined") {
+        this.money[round] = 0;
+      }
+      return this.money[round];
+    }
+    return this.money.reduce((sum, val) => {
+      return isNaN(val) ? sum : sum + val;
+    });
   }
 }
 
@@ -205,6 +260,7 @@ class Board {
     this.state = this.answerFormatted.split("").map((value) => {
       return (value === " " || value === "\n") ? value : null;
     });
+    this.lettersGuessed = new Set();
     console.log(`WOD: ${this.category}: ${this.answer}`);
   }
 
@@ -217,10 +273,15 @@ class Board {
 
   /**
    * Returns the number of occurences of a character in the answer, and updates the board state if one is found.
+   * Returns -1 if the letter has already been guessed.
    * @param {string} x 
    */
   verify (x) {
     var letter = x.toLowerCase();
+    if (this.lettersGuessed.has(letter)) {
+      return -1;
+    }
+    this.lettersGuessed.add(letter);
     var amount = 0;
     for (let i = 0; i < this.answerFormatted.length; i++) {
       if (this.state[i] === null && this.answerFormatted[i] === letter) {

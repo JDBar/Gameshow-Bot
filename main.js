@@ -72,6 +72,9 @@ gameshowBot.client.on(`message`, function (message) {
         break;
     }
   }
+  else {
+    gameshowBot.manager.input(message);
+  }
 })
 
 gameshowBot.client.login(gameshowBot.token);

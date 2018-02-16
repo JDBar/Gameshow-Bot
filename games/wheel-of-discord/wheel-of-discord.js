@@ -87,13 +87,13 @@ class Manager {
       this.games[message.channel.id].startCountdown();
       this.timeouts[message.channel.id] = setTimeout(() => {
         if (this.games[message.channel.id].players.length > 0) {
-          message.channel.send(`TEST: ${this.games[message.channel.id].players.map((n) => {
+          message.channel.send(`${this.games[message.channel.id].players.map((n) => {
             return `<@${n.user.id}>`;
           }).join(", ")}... let's get started! Welcome to Wheel of Discord!`);
           this.handleNextRound(message);
         }
       }, this.games[message.channel.id].timeToStart * 1000)
-      message.channel.send(`TEST: <@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
+      message.channel.send(`<@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
         `\nThe game will begin in ${this.games[message.channel.id].timeToStart} seconds.`);
     }
   }
@@ -105,7 +105,7 @@ class Manager {
   handleGameJoin (message) {
     if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].joinable) {
       if (this.games[message.channel.id].addPlayer(message.author)) {
-        message.channel.send(`TEST: <@${message.author.id}> joined! ${this.games[message.channel.id].joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
+        message.channel.send(`<@${message.author.id}> joined! ${this.games[message.channel.id].joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
           `\nThe game will begin in ${this.games[message.channel.id].timeUntilStart} seconds.`);
       }
     }
@@ -120,16 +120,16 @@ class Manager {
       let turn = this.games[message.channel.id].turn;
       let leavingPlayer = this.games[message.channel.id].removePlayer(message.author);
       if (leavingPlayer) {
-        message.channel.send(`TEST: <@${leavingPlayer.user.id}> left the game`+
-          `${this.games[message.channel.id].joinable ? "! Type **gs!wod-join** to join!" : `and forfeited $${leavingPlayer.money}.`}`);
+        message.channel.send(`<@${leavingPlayer.user.id}> left the game`+
+          `${this.games[message.channel.id].joinable ? "! Type **gs!wod-join** to join!" : ` and forfeited $${leavingPlayer.getMoney()}.`}`);
 
         if (!this.games[message.channel.id].joinable) {
           // there are no more players in this game, so it's not joinable
           this.handleGameEnd(message);
         }
-        if (turn !== this.games[message.channel.id].turn) {
+        else if (turn !== this.games[message.channel.id].turn) {
           // it was the removed player's turn, and now it's someone else
-          this.handleNextTurn(message);
+          this.handleNextTurn(message, true);
         }
       }
     }
@@ -140,55 +140,126 @@ class Manager {
    * @param {Object} message 
    */
   handleNextRound (message) {
-    this.games[message.channel.id].nextRound();
-    this.broadcastBoardState(message.channel);
-    handleNextTurn();
+    var state = this.games[message.channel.id].nextRound();
+    if (state !== "undefined") {
+      this.broadcastBoardState(message);
+      this.handleNextTurn(message, true);
+    }
+    else {
+      let results = this.games[message.channel.id].players.map((n) => {
+        return `<@${n.user.id}> won $${n.getMoney()}.`;
+      }).join("\n");
+      message.channel.send(`That's the end of the game!`);
+      message.channel.send(`Here are the results...\n${results}`);
+      this.handleGameEnd(message);
+    }
   }
 
   /**
    * Handles the next turn of the game.
    * @param {Object} message 
+   * @param {boolean} announceTurn
    */
-  handleNextTurn (message) {
+  handleNextTurn (message, announceTurn=false) {
     var game = this.games[message.channel.id];
-
-    if (typeof message === "undefined") {
-      // There is no message, so this is the beginning of a new round.
-      message.channel.send(`<@${game.turn.id}> $${game.turn.money}: It's your turn.\n` +
-        `Type \`spin\` to begin!`);
-        //`You can type a consonant, type a vowel, or type a guess.`);
+    if (announceTurn) {
+      message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+      `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
     }
-    else {
-      // Parse the message of the active player.
-      if (game.spin === null && message.content.trim().toLowerCase().startsWith("spin")) {
-
+    else if (game.spin === null) {
+      if (message.content === "spin") {
+        // Player opted to spin.
+        let result = game.spinWheel();
+        if (result === "Lose") {
+          message.channel.send(`<@${message.author.id}>: **LOSE A TURN**`);
+          this.broadcastBoardState(message);
+          message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+          `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+        }
+        else if (result === "Bankrupt") {
+          message.channel.send(`<@${message.author.id}>: **BANKRUPT**`);
+          this.broadcastBoardState(message);
+          message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+          `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+        }
+        else {
+          message.channel.send(`<@${message.author.id}>: **$${result}**`);
+          this.broadcastBoardState(message);
+          message.channel.send(`<@${message.author.id}>: Type a consonant letter!`);
+        }
       }
-      else if (game.spin !== null && message.content.trim().length === 1) {
-        let hasVowel = message.content.toLowerCase().match(/[aeiou]/);
-        if (hasVowel) {
+      else if (message.content.startsWith("buy ")) {
+        let str = message.content.toLowerCase().replace("buy ", "").trim();
+        let hasVowel = str.match(/[aeiou]/);
+        if (str.length === 1 && hasVowel) {
           let vowel = hasVowel[0];
+          let hasEnoughMoney = (game.turn.getMoney(game.round) - game.vowelPrice) >= 0;
           let amount = game.buyVowel(vowel);
           if (amount === -1) {
-            message.channels.send(`<@${message.author.id}, you don't have the $${game.vowelPrice} needed to buy a vowel.`);
+            if (hasEnoughMoney) {
+              message.channel.send(`<@${message.author.id}>, ${vowel} was already bought.`);
+            }
+            else {
+              message.channel.send(`<@${message.author.id}>, you don't have the $${game.vowelPrice} needed to buy a vowel.`);
+            }
+            this.broadcastBoardState(message);
+            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
           else if (amount > 0) {
             message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${vowel}` : `are ${amount} ${vowel}'s`}!`);
+            this.broadcastBoardState(message);
+            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
           else {
             message.channel.send(`<@${message.author.id}>, there were no ${vowel}'s. Sorry.`);
+            this.broadcastBoardState(message);
+            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
         }
+      }
+      else if (message.content.startsWith("solve ")) {
+        let str = message.content.replace("solve ", "");
+        let winnings = game.solve(str);
+        if (winnings === -1) {
+          message.channel.send(`<@${message.author.id}>, that is incorrect...`);
+          this.broadcastBoardState(message);
+          message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+          `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+        }
         else {
-          let hasConsonant = message.content.toLowerCase().match(/[b-df-hj-np-tv-z]/);
-          if (hasConsonant) {
-            let consonant = hasConsonant[0];
-            let amount = game.guessConsonant(consonant);
-            if (amount > 0) {
-              message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${consonant}` : `are ${amount} ${consonant}'s`}!`);
-            }
-            else {
-              message.channel.send(`<@${message.author.id}>, there were no ${consonant}'s. Sorry.`);
-            }
+          this.broadcastBoardState(message, true);
+          message.channel.send(`<@${message.author.id}>, you are correct! You've earned $${winnings} this round.`);
+          this.handleNextRound(message);
+        }
+      }
+    }
+    else {
+      // the wheel has been spun
+      if (message.content.trim().length === 1) {
+        // guessing a consonant
+        let hasConsonant = message.content.toLowerCase().match(/[b-df-hj-np-tv-z]/);
+        if (hasConsonant) {
+          let letter = hasConsonant[0];
+          let amount;
+          amount = game.guessConsonant(letter);
+          if (amount === -1) {
+            message.channel.send(`<@${message.author.id}, ${letter} was already guessed.`);
+            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+          }
+          else if (amount > 0) {
+            this.broadcastBoardState(message);
+            message.channel.send(`<@${message.author.id}>, there ${amount == 1 ? `is 1 ${letter}` : `are ${amount} ${letter}'s`}!`);
+            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+          }
+          else {
+            message.channel.send(`<@${message.author.id}>, there were no ${letter}'s. Sorry.`);
+            message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+            `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
           }
         }
       }
@@ -202,6 +273,7 @@ class Manager {
   handleGameEnd (message) {
     this.games[message.channel.id] = undefined;
     clearTimeout(this.timeouts[message.channel.id]);
+    this.timeouts[message.channel.id] = undefined;
     message.channel.send(`Wheel of Discord has ended! Thanks for playing.`);
   }
 
@@ -221,18 +293,20 @@ class Manager {
   handleDefault (message) {
     if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].round > 0) {
       if (this.games[message.channel.id].turn.user.id === message.author.id) {
-        handlenextTurn(message);
+        this.handleNextTurn(message);
       }
     }
   }
 
   /**
    * Broadcasts the state of the board to a Discord channel using emojis.
-   * @param {Object} state 
-   * @param {Object} channel
+   * @param {Object} message 
+   * @param {boolean} revealAnswer
    */
-  broadcastBoardState (channel) {
-    var state = this.games[message.channel.id].board.state;
+  broadcastBoardState (message, revealAnswer=false) {
+    var state = revealAnswer
+                ? this.games[message.channel.id].board.answerFormatted.split("")
+                : this.games[message.channel.id].board.state;
     var boardString = state.map((n) => {
       if (n === null) {
         return ":white_large_square:";
@@ -247,7 +321,7 @@ class Manager {
         return `:regional_indicator_${n}:`;
       }
     }).join("");
-    channel.send(`${this.games[channel.id].board.category.toUpperCase()}:\n` +
+    message.channel.send(`${this.games[message.channel.id].board.category.toUpperCase()}:\n` +
     `${boardString}`);
   }
 
