@@ -269,7 +269,6 @@ class Board {
       return (value === " " || value === "\n") ? value : null;
     });
     this.lettersGuessed = new Set();
-    console.log(`WOD: ${this.category}: ${this.answer}`);
   }
 
   /**

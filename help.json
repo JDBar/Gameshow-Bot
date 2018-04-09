@@ -1,0 +1,10 @@
+{
+  "gs!games": {
+    "description": "Display a list of installed games.",
+    "usage": "gs!games"
+  },
+  "gs!help": {
+    "description": "Display a list of commands, or learn how to use a specific command.",
+    "usage": "gs!help, gs!help [command], gs!help [game]"
+  }
+}

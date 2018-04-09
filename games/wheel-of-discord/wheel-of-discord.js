@@ -41,8 +41,8 @@ class Manager {
       .then(()=>{
         this.manager.status(true, this.name);
       })
-      .catch(()=>{
-        this.manager.status(false, this.name `Could not load categories.`);
+      .catch((err)=>{
+        this.manager.status(false, this.name, `Could not load categories.\n\t${err}`);
       })
   }
 
@@ -86,16 +86,22 @@ class Manager {
       this.games[message.channel.id] = new WheelOfDiscord.Game(this.answers);
       this.games[message.channel.id].addPlayer(message.author);
       this.games[message.channel.id].startCountdown();
-      this.timeouts[message.channel.id] = setTimeout(() => {
-        if (this.games[message.channel.id].players.length > 0) {
-          message.channel.send(`${this.games[message.channel.id].players.map((n) => {
-            return `<@${n.user.id}>`;
-          }).join(", ")}... let's get started! Welcome to Wheel of Discord!`);
-          this.handleNextRound(message);
-        }
-      }, this.games[message.channel.id].timeToStart * 1000)
-      message.channel.send(`<@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
-        `\nThe game will begin in ${this.games[message.channel.id].timeToStart} seconds.`);
+      this.timeouts[message.channel.id] = setTimeout(
+        () => {
+          if (this.games[message.channel.id].players.length > 0) {
+            message.channel.send(
+              `${this.games[message.channel.id].players.map(
+                (n) => {return `<@${n.user.id}>`;}
+              ).join(", ")}... let's get started! Welcome to Wheel of Discord!`
+            );
+            this.handleNextRound(message);
+          }
+        }, this.games[message.channel.id].timeToStart * 1000
+      )
+      message.channel.send(
+        `<@${message.author.id}> is starting a game of Wheel of Discord! Type **gs!wod-join** to join!` + 
+        `\nThe game will begin in ${this.games[message.channel.id].timeToStart} seconds.`
+      );
     }
   }
 
@@ -104,10 +110,15 @@ class Manager {
    * @param {Object} message 
    */
   handleGameJoin (message) {
-    if (typeof this.games[message.channel.id] !== "undefined" && this.games[message.channel.id].joinable) {
+    if (
+      typeof this.games[message.channel.id] !== "undefined"
+      && this.games[message.channel.id].joinable
+    ) {
       if (this.games[message.channel.id].addPlayer(message.author)) {
-        message.channel.send(`<@${message.author.id}> joined! ${this.games[message.channel.id].joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
-          `\nThe game will begin in ${this.games[message.channel.id].timeUntilStart} seconds.`);
+        message.channel.send(
+          `<@${message.author.id}> joined! ${this.games[message.channel.id].joinable ? "Type **gs!wod-join** to join!" : "There are no more spots!"}` + 
+          `\nThe game will begin in ${this.games[message.channel.id].timeUntilStart} seconds.`
+        );
       }
     }
   }
@@ -121,8 +132,10 @@ class Manager {
       let turn = this.games[message.channel.id].turn;
       let leavingPlayer = this.games[message.channel.id].removePlayer(message.author);
       if (leavingPlayer) {
-        message.channel.send(`<@${leavingPlayer.user.id}> left the game`+
-          `${this.games[message.channel.id].joinable ? "! Type **gs!wod-join** to join!" : ` and forfeited $${leavingPlayer.getMoney()}.`}`);
+        message.channel.send(
+          `<@${leavingPlayer.user.id}> left the game`+
+          `${this.games[message.channel.id].joinable ? "! Type **gs!wod-join** to join!" : ` and forfeited $${leavingPlayer.getMoney()}.`}`
+        );
 
         if (!this.games[message.channel.id].joinable) {
           // there are no more players in this game, so it's not joinable
@@ -147,9 +160,9 @@ class Manager {
       this.handleNextTurn(message, true);
     }
     else {
-      let results = this.games[message.channel.id].players.map((n) => {
-        return `<@${n.user.id}> won $${n.getMoney()}.`;
-      }).join("\n");
+      let results = this.games[message.channel.id].players.map(
+        (n) => {return `<@${n.user.id}> won $${n.getMoney()}.`;}
+      ).join("\n");
       message.channel.send(`That's the end of the game!`);
       message.channel.send(`\n------**Results**------\n${results}\n---------------------`);
       this.handleGameEnd(message);
@@ -299,22 +312,24 @@ class Manager {
    */
   broadcastBoardState (message, revealAnswer=false) {
     var state = revealAnswer
-                ? this.games[message.channel.id].board.answerFormatted.split("")
-                : this.games[message.channel.id].board.state;
-    var boardString = state.map((n) => {
-      if (n === null) {
-        return ":white_large_square:";
+      ? this.games[message.channel.id].board.answerFormatted.split("")
+      : this.games[message.channel.id].board.state;
+    var boardString = state.map(
+      (n) => {
+        if (n === null) {
+          return ":white_large_square:";
+        }
+        if (n === " ") {
+          return ":black_large_square:";
+        } 
+        if (n === "\n") {
+          return "\n";
+        }
+        else {
+          return `:regional_indicator_${n}:`;
+        }
       }
-      if (n === " ") {
-        return ":black_large_square:";
-      } 
-      if (n === "\n") {
-        return "\n";
-      }
-      else {
-        return `:regional_indicator_${n}:`;
-      }
-    }).join("");
+    ).join("");
     var lettersGuessed = Array.from(this.games[message.channel.id].board.lettersGuessed);
     var lettersAvailable = "abcdefghijklmnopqrstuvwxyz";
     for (let i = 0; i < lettersGuessed.length; i++) {
@@ -322,8 +337,10 @@ class Manager {
     }
 
     var availableString = `\`\`\`\nAvailable letters:\n${lettersAvailable.split("").join(" ")}\n\`\`\``;
-    message.channel.send(`**${this.games[message.channel.id].board.category.toUpperCase()}**:\n` +
-    `${boardString}\n${availableString}`);
+    message.channel.send(
+      `**${this.games[message.channel.id].board.category.toUpperCase()}**:\n` +
+      `${boardString}\n${availableString}`
+    );
   }
 
   /**
@@ -332,8 +349,10 @@ class Manager {
    */
   broadcastNextTurn (message) {
     var game = this.games[message.channel.id];
-    message.channel.send(`<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
-    `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`);
+    message.channel.send(
+      `<@${game.turn.user.id}> $${game.turn.getMoney(game.round)}: It's your turn.\n` +
+      `Your options are: **spin**, **buy <vowel>**, **solve <phrase>**`
+    );
   }
 
   /**
@@ -344,15 +363,21 @@ class Manager {
     var game = this.games[message.channel.id];
     game.startCountdown();
     clearTimeout(this.timeouts[message.channel.id]);
-    this.timeouts[message.channel.id] = setTimeout(() => {
-      message.channel.send(`<@${game.turn.user.id}>, you have ${game.timeUntilSkip} seconds left!`);
-      this.timeouts[message.channel.id] = setTimeout(() => {
-        message.channel.send(`<@${game.turn.user.id}>, you're out of time!`);
-        game.advanceTurn();
-        this.broadcastBoardState(message);
-        this.handleNextTurn(message, true);
-      }, game.turnTimeLimit * 1000 / 2);
-    }, game.turnTimeLimit * 1000 / 2);
+    this.timeouts[message.channel.id] = setTimeout(
+      () => {
+        message.channel.send(`<@${game.turn.user.id}>, you have ${game.timeUntilSkip} seconds left!`);
+        this.timeouts[message.channel.id] = setTimeout(
+          () => {
+            message.channel.send(`<@${game.turn.user.id}>, you're out of time!`);
+            game.advanceTurn();
+            this.broadcastBoardState(message);
+            this.handleNextTurn(message, true);
+          },
+          game.turnTimeLimit * 1000 / 2
+        );
+      },
+      game.turnTimeLimit * 1000 / 2
+    );
   }
 
   /**

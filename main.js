@@ -3,78 +3,137 @@ const fse = require("fs-extra");
 const Discord = require("discord.js");
 
 const gameshowBot = {
+  manager: new (require(path.join(__dirname, "manager.js")).Manager)(),
+  config: fse.readJsonSync(path.join(__dirname, "config.json"), {throws: false}),
   client: new Discord.Client(),
-  token: "NDEwMDE0MzUxMzgzMDY4Njcy.DVm_QQ.9NiEie04wiR58VWChZdaGeea4KE",
-  help: {
-    "gs!games": {
-      "description": "Display a list of installed games.",
-      "usage": "gs!games"
-    },
-    "gs!help": {
-      "description": "Display a list of commands, or learn how to use a specific command.",
-      "usage": "gs!help, gs!help [command], gs!help [game]"
-    }
-  }
+  help: fse.readJsonSync(path.join(__dirname, "help.json"))
 };
 
-gameshowBot.client.on(`ready`, function () {
-  console.log(`Lights... camera... action!`);
-  gameshowBot.manager = new (require(path.join(__dirname, `manager.js`)).Manager)();
-})
+// Log the bot into Discord!
+initializeBot();
+gameshowBot.client.login(gameshowBot.config.token);
 
-gameshowBot.client.on(`message`, function (message) {
-  //if (message.author.id === message.guild.ownerID) {
-  //}
-  if (message.content.startsWith("gs!")) {
-    let commands = message.content.split(/\s/);
-    switch (commands[0]) {
-      // Display a list of installed games.
-      case "gs!games":
-        message.channel.send(`<@${message.author.id}> I have these games installed:`+
-          `\n\`\`\`${Object.keys(gameshowBot.manager.games).join(", ")}\`\`\``);
-        break;
-      // Display a list of commands, or learn how to use a specific command.
-      case "gs!help":
-        // gs!help
-        if (commands.length === 1) {
-          message.channel.send(`Type **gs!help gs!command** to learn more about a command.` +
-            `\n\`\`\`${Object.keys(gameshowBot.help).join(", ")}\`\`\``);
+/**
+ * Initializes the bot.
+ */
+function initializeBot () {
+  /**
+   * Checks for a Discord Bot API Token in config.json.
+   * {
+   *     "token": "bot_token_here"
+   * }
+   * Creates config.json if it doesn't exist.
+   */
+  if (
+    gameshowBot.config === null
+    || typeof gameshowBot.config.token === "undefined"
+    || gameshowBot.config.token === ""
+  ) {
+    console.error(`[GSBot] ERROR: "token" not present in config.json`);
+    fse.writeJsonSync(
+        path.join(__dirname, "config.json"),
+        {token: ""},
+        {throws: false}
+    );
+  }
+
+  gameshowBot.client.on(
+    "ready",
+    function onReady () {
+      console.log("[GSBot] Lights... camera... action!");
+    }
+  );
+  
+  gameshowBot.client.on(
+    "message",
+    function onMessage (message) {
+      if (message.content.startsWith("gs!")) {
+        let firstWord = message.content.split(/\s/)[0];
+        switch (firstWord) {
+          case "gs!games":
+            gamesCommand(message);
+            break;
+          case "gs!help":
+            helpCommand(message);
+            break;
+          default:
+            // Pass message for game modules to interpret.
+            gameshowBot.manager.input(message);
+            break;
         }
-        // gs!help gs!command
-        else if (typeof gameshowBot.help[commands[1]] !== "undefined") {
-          let description = gameshowBot.help[commands[1]].description;
-          let usage = gameshowBot.help[commands[1]].usage;
-          message.channel.send(`**${commands[1]}** -- ${description}` +
-            `\n**Usage**: ${usage}`);
-        }
-        // gs!help game
-        else if (typeof gameshowBot.manager.games[commands[1]] !== "undefined") {
-          message.channel.send(`Type **gs!help command** to learn more about a command.` +
-            `\n\`\`\`${Object.keys(gameshowBot.manager.games[commands[1]].manager.help).join(", ")}\`\`\``);
-        }
-        // gs!help gs!game-command
-        else {
-          let gameNames = Object.keys(gameshowBot.manager.games);
-          for (let i = 0; i < gameNames.length; i++) {
-            if (typeof gameshowBot.manager.games[gameNames[i]].manager.help[commands[1]] !== "undefined") {
-              let description = gameshowBot.manager.games[gameNames[i]].manager.help[commands[1]].description;
-              let usage = gameshowBot.manager.games[gameNames[i]].manager.help[commands[1]].usage;
-              message.channel.send(`**${commands[1]}** -- ${description}` +
-                `\n**Usage**: ${usage}`);
-              break;
-            }
-          }
-        }
-        break;
-      // Passes messages for game managers to interpret.
-      default:
+      }
+      else {
         gameshowBot.manager.input(message);
-        break;
+      }
+    }
+  );
+}
+
+/**
+ * Handles the built-in gs!games command.
+ * Displays a list of installed games.
+ * @param {Object} message Discord JS message object.
+ */
+function gamesCommand (message) {
+  message.channel.send(
+    `<@${message.author.id}> I have these games installed:` +
+    `\n\`\`\`${Object.keys(gameshowBot.manager.games).join("\n")}\`\`\``
+  );
+}
+
+/**
+ * Handles the built-in gs!help command.
+ * Displays usage tips for commands.
+ * @param {Object} message Discord JS message object.
+ */
+function helpCommand (message) {
+  var commands = message.content.split(/\s/);
+  // gs!help
+  if (commands.length === 1) {
+    message.channel.send(
+      `Type **gs!help gs!command** to learn more about a command.` +
+      `\n\`\`\`${Object.keys(gameshowBot.help).join(", ")}\`\`\``
+    );
+    return;
+  }
+
+  // gs!help gs!command
+  if (typeof gameshowBot.help[commands[1]] !== "undefined") {
+    let description = gameshowBot.help[commands[1]].description;
+    let usage = gameshowBot.help[commands[1]].usage;
+    message.channel.send(
+      `**${commands[1]}** -- ${description}` +
+      `\n**Usage**: ${usage}`
+    );
+    return;
+  }
+
+  // gs!help game
+  if (typeof gameshowBot.manager.games[commands[1]] !== "undefined") {
+    message.channel.send(
+      `Type **gs!help command** to learn more about a command.` +
+      `\n\`\`\`${Object.keys(gameshowBot.manager.games[commands[1]].manager.help).join(", ")}\`\`\``
+    );
+    return;
+  }
+
+  // gs!help gs!game-command
+  let gameNames = Object.keys(gameshowBot.manager.games);
+  for (let i = 0; i < gameNames.length; i++) {
+    try {
+      // if the command belongs to a particular game module
+      if (typeof gameshowBot.manager.games[gameNames[i]].manager.help[commands[1]] !== "undefined") {
+        let description = gameshowBot.manager.games[gameNames[i]].manager.help[commands[1]].description;
+        let usage = gameshowBot.manager.games[gameNames[i]].manager.help[commands[1]].usage;
+        message.channel.send(
+          `**${commands[1]}** -- ${description}` +
+          `\n**Usage**: ${usage}`
+        );
+        return;
+      }
+    }
+    catch (err) {
+      console.error(`[GSBot] ERROR:\n\t${err}`);
     }
   }
-  else {
-    gameshowBot.manager.input(message);
-  }
-})
-
-gameshowBot.client.login(gameshowBot.token);
+}
