@@ -35,7 +35,7 @@ class Manager {
    * @param {*} channelId The Discord JS channel.id string.
    */
   stopSession (channelId) {
-    assert.equal(typeof channelId, "string", "stopSession channelID must be a string.");
+    assert.equal(typeof channelId, "string", "stopSession(): channelID must be a string.");
     
     this.sessions[channelId] = undefined;
   }
@@ -58,9 +58,9 @@ class Manager {
    */
   status (operational, name, err) {
     assert.equal(typeof operational, "boolean", "status(): operational must be boolean.");
-    assert.equal(typeof name, "string", "status() name must be a string.");
+    assert.equal(typeof name, "string", "status(): name must be a string.");
     if (typeof err !== "undefined") {
-      assert.equal(typeof err, "string", "status() err must be a string.");
+      assert.equal(typeof err, "string", "status(): err must be a string.");
     }
 
     if (operational) {
